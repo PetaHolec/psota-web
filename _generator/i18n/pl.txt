@@ -1,0 +1,263 @@
+0	- towary ADR z wyłączeniem klas 1 i 7
+1	- przesyłki całopojazdowe i drobnicowe w zakresie 0,5–24 t
+2	- drobnica 0,5–10 t w relacji Wiedeń–CZ
+3	drukować dwustronnie na jednej kartce papieru
+4	1 rok
+5	105 niskopodwoziowymi zestawami naczepowymi z plandeką o pojemności 100 m³ realizujemy ze Znojma oraz z oddziałów w Kolínie, Hodonínie i Jihlavie (Pávov) następujące przewozy:
+6	2 lata
+7	4 lata
+8	6 lat
+9	665 CZK/godz.
+10	908 CZK/godz.
+11	towary ADR z wyłączeniem klas 1 i 7
+13	Aktualności
+14	Aktualności Link poniżej:[1] INFORMACJA DLA WIERZYCIELI, PRACOWNIKÓW I WSPÓLNIKÓW O ICH PRAWACH [/1]
+15	Aktualności STK
+16	Aktualności ze stacji STK
+17	Bieżące zmiany znajdziesz w [1]aktualnościach[/1].
+19	Obszar usług nie tylko dla kierowców o powierzchni 40 000 m². Wynajem biur, magazynów i powierzchni produkcyjnych.
+20	Autobusy (M2, M3)
+21	Autocentrum
+22	Apteczka samochodowa i motocyklowa
+23	Szkoła jazdy
+24	Benzyna M1, N1
+25	Przyczepa hamowana do 750 kg dopuszczalnej masy (O1, O2)
+27	Przesyłki całopojazdowe i drobnicowe 0,5–24 t
+28	Pełna historia firmy
+29	Czytaj cały artykuł
+30	Cena dla klientów indywidualnych
+31	Ceny podano w CZK z VAT.
+32	Cennik
+33	Cenniki
+34	Droga holdingu: stacje kontroli pojazdów, transport ciężarowy, przewóz osób, powierzchnie komercyjne, serwis i myjnia
+35	Chvalovice 81, 669 02 Znojmo
+36	Chvalovice 81, 669 02 Znojmo[br]Zakład: Lidická 3, 690 02 Břeclav[br]tel. kom.: [1]+420 601 601 611[/1][br] e-mail: [2]stk.breclav@psota-znojmo.cz[/2][br] IČ (nr firmy): 04803426 | DIČ (nr VAT): CZ04803426
+37	Chvalovice 81, 669 02 Znojmo[br]tel. kom.: [1]+420 725 542 582[/1][br] e-mail: [2]stk.4you@psota-znojmo.cz [/2] [br] IČ (nr firmy): 26925664 | DIČ (nr VAT): CZ26925664
+38	Chvalovice 81[br] 669 02 Znojmo[br] tel.: [1]+420 515 210 543[/1][br] e-mail: [2]dispo@psota-znojmo.cz[/2] [br] IČ (nr firmy): 26909871 | DIČ (nr VAT): CZ26909871
+39	Co oferujemy
+41	Inne opłaty – Urząd Miejski w Znojmie
+42	Pozostałe usługi:
+43	Menu dnia
+44	Menu dnia dla gości Autocentrum i okolicznych mieszkańców. Od niedawna na terenie TOS, Družstevní 2825/3.
+45	Deutsch
+46	Diagnostyka
+47	Diagnostyka sterownika
+49	Dyspozytornia
+50	Dysponujemy nowoczesnym wyposażeniem odpowiadającym obecnym standardom serwisowym:
+51	Dzisiejsze spółki holdingu zapewniają regionalną, ogólnokrajową i międzynarodową obsługę transportową 80 autobusami i ponad 100 zestawami naczepowymi, a także wszystkie usługi dla kierowców na terenie AUTOCENTRUM. Oprócz centrum logistycznego znajdziesz tu stację kontroli pojazdów dla wszystkich typów pojazdów, stację tankowania CNG, warsztaty samochodowe, wulkanizację, sklepy z częściami zamiennymi i oponami do samochodów osobowych i ciężarowych, serwis i legalizację tachografów, myjnię oraz ośrodek szkolenia praktycznego w zawodzie mechanika samochodowego.
+52	Dzisiejsze spółki holdingu zapewniają regionalną, ogólnokrajową i międzynarodową obsługę transportową [1]80 autobusami[/1], ponad [2]100 zestawami naczepowymi[/2] oraz wszystkie usługi dla kierowców na terenie AUTOCENTRUM.
+53	Czas od pierwszej rejestracji
+54	Okres między badaniami okresowymi
+56	Dobšická 3697/6, 669 02 Znojmo[br] tel.: [1]+420 515 210 553[br][/1]tel. kom.: [2]+420 702 098 115[/2][br] e-mail: [3]ucnovske.stredisko@psota-znojmo.cz[/3] [br]UČŇOVSKÉ STŘEDISKO PSOTA – ośrodek praktycznej nauki zawodu s.r.o.[br] IČ (nr firmy): 29318360 | nie jest płatnikiem VAT[br]UČŇOVSKÉ STŘEDISKO PSOTA-autoservis s.r.o.[br]IČ (nr firmy): 29318351 | DIČ (nr VAT): CZ29318351
+57	Dobšická 3697/6, 669 02 Znojmo[br]Zakład: Družstevní 3894/28, 669 02 Znojmo[br]tel. kom.: [1]+420 601 601 609[/1][br] e-mail: [2]stk.znojmo@psota-znojmo.cz[/2][br] IČ (nr firmy): 26927535 | DIČ (nr VAT): CZ26927535
+58	Dobšická 3697/6[br] 669 02 Znojmo[br] tel.: [1]+420 515 210 545[br][/1]tel. kom.: [2]+420 602 748 472[/2][br] e-mail: [3]karel.psota@psota-znojmo.cz[/3] [br] IČ (nr firmy): 26255715 | DIČ (nr VAT): CZ26255715[br]
+61	Dodatkowe zajęcia z teorii
+62	Dokumenty do pobrania
+63	Dokumenty:
+64	Uzupełnienie klimatyzacji (bez czynnika)
+65	Zalecamy wykonywanie badań technicznych zawsze najpóźniej w terminie wskazanym w dokumentach pojazdu (w dużym dowodzie technicznym) lub w terminach określonych przepisami.
+66	Transport, serwis, stacja kontroli pojazdów, szkoła jazdy i restauracja w jednym miejscu. Regionalna, ogólnokrajowa i międzynarodowa obsługa transportowa oraz wszystkie usługi dla kierowców na terenie AUTOCENTRUM.
+67	Importy – przed rejestracją
+68	Nawigacja okruszkowa
+70	Družstevní 2825/3[br] 669 02 Znojmo[br] tel.: [1]+420 601 232 388[/1][br] e-mail: [2]restauraceustk@psota-znojmo.cz[/2][br] IČ (nr firmy): 26927535[br]DIČ (nr VAT): CZ26927535 [br]
+71	Dzięki naszym obrotom możemy współpracować z Państwem przy każdym projekcie.
+72	DZIĘKUJEMY ZA ZROZUMIENIE
+73	Dziękujemy za zrozumienie i przepraszamy za ewentualne niedogodności.
+74	E-mail
+75	Kontrola ewidencyjna – dokumenty zagraniczne + wyciąg z protokołu badania
+76	Kontrola ewidencyjna – dokumenty zagraniczne, bez wyciągu z protokołu badania
+77	EN
+78	English
+79	Dział fakturowania
+81	Formularz jest ładowany z zewnętrznego systemu szkoły jazdy. Jeśli się nie wyświetla, [1]otwórz go w nowym oknie[/1].
+82	Galeria zdjęć
+83	Galeria zdjęć – Autocentrum
+84	Galeria zdjęć – Transport ciężarowy
+85	Galeria zdjęć – Restauracja przy STK
+86	Galeria zdjęć – Stacje kontroli pojazdów i pomiar spalin
+87	Galeria zdjęć – Ośrodek szkolenia
+88	Francja
+89	Osoby fizyczne (§ 83)
+90	GPS: 48.853692, 16.0696163 · [1]Otwórz w Mapach Google[/1]
+91	Gaśnica i pozostałe wyposażenie
+93	Historia firmy
+94	Nawigacja główna
+95	Szukasz rzetelnego serwisu w rozsądnej cenie?
+96	Włochy
+99	Jak się przygotować
+100	Jak przygotować się do badania technicznego
+101	W czym możemy pomóc?
+103	Język strony
+106	Od 1990 roku nasz holding realizuje niezmiennie tę samą misję: [1]rzetelny dostawca usług wysokiej jakości dla wszystkich[/1].
+107	Imię i nazwisko
+108	Pojazd musi zostać podstawiony bez ładunku (w przypadku pojazdów użytkowych badanie można wykonać przy załadowanym pojeździe za dopłatą 500 CZK), czysty, w szczególności z umytym podwoziem i z wymaganym wyposażeniem.
+109	Kalendarz rezerwacji udostępnia firma DEKRA. Jeśli się nie wyświetla, [1]otwórz go w nowym oknie[/1].
+110	Co dalej
+111	Dokąd regularnie jeździmy
+112	Transport ciężarowy
+116	Każdy pojazd jest kontrolowany pod nadzorem wykwalifikowanych pracowników.
+117	Dyspozytornia komunikuje się z klientami w języku czeskim, niemieckim, angielskim, francuskim, polskim i rosyjskim[br][br][1]Naszą specjalizacją są przewozy między CZ a A (łącznie z Tyrolem) i z powrotem, a ponadto regularnie jeździmy w relacjach CZ, SK, PL, H, D, I, F, UA[/1]
+118	Jazdy doszkalające (1 godz.)
+119	Kontakt
+120	Kontakty
+121	Kontakty do PSOTA holding Znojmo: adres, telefon, e-mail, formularz kontaktowy i kontakty do poszczególnych działów.
+122	Kontakty według działów
+123	Kontrola i regulacja geometrii zawieszenia
+124	Drobnica 0,5–10 t w relacji Wiedeń–CZ
+127	Terminy wynikają z § 40 i § 79 ustawy nr 56/2001 Dz.U. o warunkach eksploatacji pojazdów na drogach publicznych, w brzmieniu obowiązującym od 1. 1. 2026. Pierwsze badanie liczy się od daty pierwszej rejestracji pojazdu, kolejne od ostatniego wykonanego badania.
+128	Zaświadczenie lekarskie o zdolności do kierowania pojazdami silnikowymi[br][br]
+129	Apteczka musi znajdować się w osobnym pokrowcu, poza zasięgiem bezpośredniego światła słonecznego, w suchym i czystym miejscu. Jej zawartość musi być nienaruszona, bez śladów zabrudzenia lub zniszczenia. Rozporządzenie nie określa już stałego terminu ważności apteczki; środki medyczne, którym upłynął termin przydatności podany na opakowaniu, zalecamy wymienić.
+130	MOJE AUTOŠKOLA
+131	MOJE AUTOŠKOLA – oprogramowanie dla szkół jazdy
+133	Mapa
+134	Mapa Europy z trasami ze Znojma
+135	Podkład mapowy: Natural Earth (domena publiczna)
+139	Menu
+140	Kamienie milowe
+142	Motocykle, quady (kategoria L)
+143	Obowiązkowy w każdym pojeździe silnikowym z wyjątkiem kategorii L i Z, ciągnika jednoosiowego z przyczepą oraz pojazdów węższych niż 1 m. Trójkąt ostrzegawczy musi być homologowany zgodnie z regulaminem EKG ONZ nr 27.
+144	Masz pytanie lub zapytanie ofertowe?
+145	Pomiar spalin:
+146	Pomiar spalin
+147	Na linii kontrolnej pojazdem porusza się wyłącznie diagnosta.
+148	Na tym obszarze zapewniamy Państwu usługi najwyższej jakości.
+149	Oferta usług
+150	Oferujemy:[br] - dobry tabor (Scania, Mercedes, Iveco)[br] - stabilne wynagrodzenie[br] - gwarantowany termin wypłaty[br] - premie lojalnościowe[br] - premię miesięczną[br] - regularną pracę[br] - transport krajowy i międzynarodowy[br] - szkolenia zawodowe[br] - odzież roboczą[br] - możliwość uzyskania uprawnień ADR
+151	Diesel M1, N1
+152	Diesel N2, N3, M2, M3
+153	Znajdziesz nas także na:
+154	Oprócz centrum logistycznego znajdziesz tu stację kontroli pojazdów dla wszystkich typów pojazdów, stację tankowania CNG, warsztaty samochodowe, wulkanizację, sklepy z częściami zamiennymi i oponami do samochodów osobowych i ciężarowych, serwis i legalizację tachografów, myjnię oraz ośrodek szkolenia praktycznego w zawodzie mechanika samochodowego. Dla gości Autocentrum nasza restauracja oferuje lubianą kuchnię domową. W 2018 roku otworzyliśmy też nową stację kontroli pojazdów w Břeclavi.
+155	Napisz do nas
+156	Napisz do nas, zadzwoń lub odwiedź nas na terenie AUTOCENTRUM.
+157	Nawiguj
+158	Odczyt błędów sterownika
+159	Nasze działy
+160	Nasza firma posiada akredytację na prowadzenie ośrodka szkoleniowego w zakresie doskonalenia zawodowego kierowców dla celów kwalifikacji zawodowej kierowców kat. C, E.
+161	Nasze trasy
+162	Przyczepa niehamowana do 750 kg dopuszczalnej masy (O1)
+163	Niedziela
+164	Nádražní 389, 671 67 Hrušovany nad Jevišovkou
+165	Nádražní 389, 671 67 Hrušovany nad Jevišovkou[br]tel. kom.: [1]+420 606 077 787[/1][br] e-mail: [2]stk.hrusovany@psota-znojmo.cz[/2] [br] IČ (nr firmy): 03745783 | DIČ (nr VAT): CZ03745783
+166	Wynajem powierzchni do prowadzenia działalności
+167	Samochód ciężarowy do 3,5 t (N1)
+168	Samochód ciężarowy powyżej 3,5 t (N2, N3)
+169	Transport ciężarowy
+170	Krajowy transport autobusowy i komunikacja miejska w Znojmie
+171	Możliwość rozpoczęcia pracy od zaraz!
+172	Nazwa kategorii
+173	Niemcy
+174	O holdingu
+175	O wyniku badania klient otrzymuje „Protokół z badania technicznego pojazdu”. Jeśli pojazd zostanie oceniony jako sprawny lub tymczasowo sprawny, diagnosta przykleja na tylną tablicę rejestracyjną nalepkę kontrolną z terminem ważności wykonanego badania.
+176	KOMUNIKAT DLA KLIENTÓW
+177	KOMUNIKAT DLA KLIENTÓW (03.07.2026)
+178	KOMUNIKAT DLA KLIENTÓW (04.06.2026)
+179	KOMUNIKAT DLA KLIENTÓW (20.03.2026)
+180	KOMUNIKAT DLA KLIENTÓW (26.09.2026)
+181	KOMUNIKAT DLA KLIENTÓW (30.04.2026)
+182	Odtworzenie numeru VIN
+183	Od jednej małej ciężarówki marki AVIA po nowoczesny tabor Scania, Mercedes-Benz i Iveco. Przejedź się naszą drogą.
+184	Od jednej ciężarówki do holdingu z 392 pracownikami i obrotem 791 milionów koron.
+185	Rzetelny dostawca usług wysokiej jakości dla wszystkich od 1990 roku.
+186	Wyślij wiadomość
+187	Przepraszamy za ewentualne utrudnienia i dziękujemy za zrozumienie.
+188	Zapisy online na szkolenie kierowców
+189	Zapisy online do szkoły jazdy
+190	Powtórny pomiar spalin
+191	Powtórny pomiar spalin – benzyna
+192	Powtórny pomiar spalin – diesel
+193	Powtórny pomiar spalin – gaz
+194	Powtórny pomiar spalin w dniu badania technicznego
+195	Samochód osobowy (M1)
+196	Przewóz osób
+197	Pozostałe
+198	Pozostałe stacje będą sukcesywnie dodawane – dziękujemy za zrozumienie. Do pozostałych oddziałów można przyjechać bez umówienia.
+199	Komunikaty dla klientów
+200	Komunikaty dla klientów i zmiany godzin pracy stacji STK.
+201	Komunikaty dla klientów: godziny pracy STK w dni świąteczne i inne zmiany.
+203	DOKUMENTY POTRZEBNE DO BADANIA TECHNICZNEGO
+204	DOKUMENTY POTRZEBNE DO BADANIA TECHNICZNEGO PRZED REJESTRACJĄ POJAZDU
+206	PSOTA Group – transport, serwis, STK, szkoła jazdy i restauracja w Znojmie
+208	PSOTA holding Znojmo: transport towarowy i osobowy, badania techniczne i pomiar spalin, warsztaty samochodowe i myjnia, ośrodek szkolenia ze szkołą jazdy, restauracja i wynajem powierzchni. Od 1990 roku.
+210	PSOTA holding: rzetelny dostawca usług wysokiej jakości od 1990 roku. Transport, serwis, stacja kontroli pojazdów, ośrodek szkolenia i restauracja w Znojmie.
+214	Gaz M1, N1
+215	Gaz M2, M3, N2, N3
+216	Planowanie jazd
+217	Opony pojazdu (zestawu) muszą być napompowane do przepisowego ciśnienia.
+218	W podanym czasie nie będzie można wykonywać badań technicznych ani usług z nimi związanych.
+219	Oddziały STK
+220	Jeśli potrzebujesz siedziby firmy oraz powierzchni biurowych, magazynowych lub produkcyjnych dla swojej działalności, skontaktuj się z nami, aby umówić niezobowiązujące oględziny i otrzymać wycenę warunków najmu.
+221	Grzywna
+224	Poniedziałek
+225	Opłaty są płatne w kasie Urzędu Miejskiego w Znojmie. Bez ich uiszczenia nie zostaną wydane dokumenty o pomyślnym zdaniu egzaminu.
+226	Opłaty za egzaminy poprawkowe:
+227	Zdobyliśmy duże doświadczenie, którym możemy podzielić się także z Tobą.
+228	Przewiń w dół
+229	Potwierdzam zapoznanie się z informacją o przetwarzaniu danych osobowych, które będą wykorzystane wyłącznie w celu skontaktowania się z klientem.
+230	Wyposażenie obowiązkowe
+231	Wyposażenie obowiązkowe pojazdów poruszających się po drogach publicznych reguluje od 24. 6. 2023 rozporządzenie nr 153/2023 Dz.U. w sprawie homologacji technicznej pojazdów i warunków technicznych eksploatacji pojazdów na drogach (załącznik nr 7, część B). Rozporządzenie to zastąpiło dotychczasowe rozporządzenie nr 341/2014 Dz.U.
+232	Wymagane dla pojazdów kategorii M, N, O i R. Wyjątki dotyczą m.in. pojazdów z oponami run-flat, pojazdów z zestawem do naprawy opony bez demontażu koła oraz pojazdów z umownie zapewnioną naprawą opon na całym terytorium Czech. Klasyczne wyposażenie może więc zastąpić zestaw naprawczy z pompką lub umowa assistance z serwisem.
+233	Wymagamy:[br] - prawa jazdy kat. C+E[br] - karty kwalifikacji zawodowej[br] - zdolności zdrowotnej (badanie psychologiczne)[br] - elastyczności[br] - samodzielności i odpowiedzialności[br] - mile widziane uprawnienia ADR[br] - doświadczenie w transporcie międzynarodowym jako atut
+234	Okresowe badania techniczne pojazdów:
+235	Okresowe szkolenia doskonalące dla kierowców dla celów kwalifikacji zawodowej w zakresie kat.: C, C+E[br]Prowadzimy szkolenia wstępne i okresowe. Szkolenie odbywa się na własnych pojazdach. Zgłoszenia na szkolenia i kursy prosimy przesyłać przez link na tej stronie.
+236	Dla posiadaczy kategorii C, uprawniającej do kierowania zestawami z naczepą lub przyczepą o dopuszczalnej masie całkowitej powyżej 750 kg. Uprawnienie obowiązuje także dla kategorii B+E i C1+E, a jeśli kierowca posiada kategorię D, to również dla D+E.
+237	Dla naszych oddziałów Znojmo, Hodonín, Jihlava i Kolín poszukujemy:
+238	Dla wszystkich gości Autocentrum nasza restauracja przy STK oferuje lubianą kuchnię domową. W 2018 roku otworzyliśmy też nową stację STK w Břeclavi.
+239	Wszystkie trzy firmy transportowe oraz spółka P.P.L. AUTOCENTRUM s.r.o. przeniosły się do własnego terenu o nazwie AUTOCENTRUM PSOTA. Zakup pierwszych dwóch pojazdów marki IVECO Stralis.
+240	Profesjonalny personel jest do dyspozycji we wszystkich naszych placówkach.
+241	Szkolenie zawodowe kierowców (według potrzebnego zakresu 7–280 godz.)
+242	Wynajem powierzchni
+243	Powierzchnie do prowadzenia działalności
+244	Godziny pracy
+245	Godziny pracy (Břeclav)
+246	Godziny pracy (Hrušovany)
+247	Godziny pracy (Znojmo)
+248	Godziny pracy w święta Bożego Narodzenia na STK 2025
+249	Godziny pracy w święta Bożego Narodzenia na STK 2025 (04.12.2025)
+250	Poznaj naszą działalność
+251	Osoby prawne i przedsiębiorcy (§ 83a)
+252	Kilka przystanków na naszej drodze
+253	Piątek
+254	ZGŁOSZENIE DO SZKOŁY JAZDY
+255	Zestawienie ma charakter informacyjny i nie zastępuje porady prawnej. Rozstrzygające jest obowiązujące brzmienie ustawy w Zbiorze Ustaw.
+256	Zestawienie ma charakter informacyjny. Rozstrzygające jest obowiązujące brzmienie rozporządzenia nr 153/2023 Dz.U. w Zbiorze Ustaw.
+257	Przewóz osób
+258	Przejdź do treści
+259	Wykroczenie
+260	Wykroczenia i grzywny
+261	Wykroczenia i grzywny za stan techniczny i dokumenty
+262	Przezbrojenie i wyważenie 4 kół
+263	Przy łączonym szkoleniu kategorii B + C można w ramach jednego cyklu nauki i szkolenia uzyskać uprawnienia do obu kategorii. Zaletą jest wspólna nauka teorii dla obu kategorii, a następnie jazdy praktyczne, wszystko zakończone wspólnym egzaminem.
+264	Podczas drogowej kontroli technicznej pojazdy z uchybieniami w stanie technicznym lub w dokumentach mogą zostać skierowane na STK, a na podmioty eksploatujące mogą zostać nałożone sankcje na podstawie ustawy nr 56/2001 Dz.U. o warunkach eksploatacji pojazdów na drogach publicznych (§ 83 i § 83a, w brzmieniu obowiązującym od 1. 1. 2026).
+265	Na egzaminie wypełnia się tylko jeden test; w razie jego zaliczenia następuje egzamin ustny z obsługi i konserwacji pojazdu, a jeśli kandydat zda także tę część, odbywa się jazda praktyczna – zarówno pojazdem kategorii B, jak i pojazdem kategorii C.
+266	Akceptujemy karty płatnicze
+267	Historia holdingu
+268	Mandat na miejscu (dawniej postępowanie mandatowe) można zastosować tylko w przypadku wybranych wykroczeń osób fizycznych, jak wskazano powyżej. Nie dotyczy to osób prawnych. Sankcje za jazdę z nieważnym badaniem technicznym reguluje także ustawa nr 361/2000 Dz.U. o ruchu drogowym (§ 125c).
+269	Przyczepa powyżej 3,5 t dopuszczalnej masy (O3, O4)
+270	Przyszły tydzień
+272	Austria
+273	Kamizelka odblaskowa i wyposażenie zalecane
+274	Kamizelka odblaskowa nie jest częścią załącznika nr 7. Obowiązek jej użycia przy wysiadaniu z pojazdu na drodze poza terenem zabudowanym reguluje ustawa o ruchu drogowym (nr 361/2000 Dz.U.), dlatego zalecamy wozić ją w każdym pojeździe. Zalecamy także:
+275	Restauracja
+276	Restauracja przy STK
+277	Przegląd instalacji gazowej
+278	Rezerwacja STK
+279	Rezerwacja terminu
+282	Rozwiń Autocentrum
+283	Rozwiń Transport ciężarowy
+284	Rozwiń Restauracja przy STK
+285	Rozwiń Stacje kontroli pojazdów i pomiar spalin
+286	Rozwiń Serwis i myjnia
+287	Rozwiń Ośrodek szkolenia
+288	Szybkie linki
+293	STK Znojmo (pojazdy ciężarowe i dostawcze)
+294	STK Znojmo – pojazdy ciężarowe
+295	STK Znojmo – pojazdy osobowe
+297	STK i pomiar spalin
+298	Stacje kontroli pojazdów i pomiar spalin
+299	Badania techniczne i pomiar spalin Břeclav
+300	Badania techniczne i pomiar spalin Znojmo
+301	Stacja kontroli pojazdów ze sprawdzonym systemem – bez umawiania i bez czekania.
+305	STK4you Znojmo
+306	STK4you Znojmo – pojazdy ciężarowe i dostawcze
+308	Kurs łączony B+C
+309	Łączone szkolenie kategorii B + C

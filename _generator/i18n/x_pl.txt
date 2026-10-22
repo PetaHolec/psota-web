@@ -1,0 +1,416 @@
+0	10 mln CZK
+1	1000 CZK / osoba
+2	105 niskopodwoziowych zestawów naczepowych, całodobowa dyspozytornia i monitoring GPS.
+3	15 000 CZK
+4	16 000 CZK
+5	23 000 CZK
+6	27 000 CZK
+7	38 000 CZK
+8	800 CZK
+9	Aktualności – STK
+10	Obszar usług nie tylko dla kierowców o powierzchni 40 000 m².
+11	Autocentrum i powierzchnie do wynajęcia
+12	Warsztat samochodowy
+13	Samochody elektryczne BirdieCar
+14	Samochody elektryczne Cenntro
+15	Cenniki STK
+16	Co musisz mieć w pojeździe.
+17	Dokumenty i przygotowanie pojazdu.
+18	Strona główna
+19	Kontrola ewidencyjna[br]
+20	Serwis i sprzedaż IVECO
+21	Zaświadczenie o ubezpieczeniu, PSOTA transport s.r.o.
+22	Koncesja, PSOTA transport s.r.o.
+23	Kontakt i formularz
+24	Licencja na międzynarodowy zarobkowy transport drogowy rzeczy, PSOTA transport s.r.o.
+25	Motocykl L1–L7 (LA–LM)
+26	Mycie samochodów ciężarowych
+27	Do góry ↑
+28	Nowsze →
+29	Samochody ciężarowe i autobusy N2, N3, M2, M3
+30	Przyczepa (O1)
+31	Przyczepa (O2)
+32	Nasz zespół
+33	Odpis z rejestru handlowego, PSOTA transport s.r.o.
+34	Umów się online na STK Znojmo.
+35	Od 7:30 do 10:00 – NIECZYNNE
+36	Zapisy online uczniów
+37	Zgłoszenie online do szkoły jazdy
+38	Kalendarz wolnych terminów online
+39	Powtórne badanie techniczne[br]
+40	Samochody osobowe i dostawcze M1, N1
+41	Zaświadczenie o ubezpieczeniu, PSOTA transport s.r.o.
+42	Zaświadczenie o rejestracji VAT, PSOTA transport s.r.o.
+43	PDF · 1084 kB
+44	PDF · 1556 kB
+45	PDF · 405 kB
+46	PDF · 588 kB
+47	PDF · 931 kB
+48	PDF · 969 kB
+49	Wulkanizacja
+50	Okresowe badanie techniczne[br]
+51	Sprzedaż części zamiennych
+52	Kwalifikacja zawodowa C, C+E
+53	PIĄTEK 1.5.2026 NIECZYNNE
+54	PIĄTEK 10. 10. 2025 – od 18:00 NIECZYNNE
+55	PIĄTEK 17. 10. 2025 – od 18:00 NIECZYNNE
+56	PIĄTEK 8.5.2026 NIECZYNNE
+57	Zapisy na szkolenie kierowców
+58	Zapisy uczniów
+59	Przyczepa ciągnikowa R, OT
+60	Przyczepa, naczepa (O3, O4)
+61	Wypożyczalnia samochodów dostawczych
+62	Rezerwacja terminu serwisu
+63	Rezerwacja jazd szkoleniowych
+64	Pojazdem nie wolno poruszać się po drogach publicznych!
+65	SOBOTA 11. 10. 2025 – NIECZYNNE
+66	SOBOTA 18. 10. 2025 – NIECZYNNE
+67	STK Znojmo – pojazdy ciężarowe
+68	STK Znojmo – pojazdy ciężarowe i dostawcze
+69	STK Znojmo – pojazdy osobowe
+70	STK Znojmo – pojazdy osobowe
+71	Z którym działem chcesz się skontaktować?
+72	Serwis i myjnia
+73	Serwis samochodów osobowych, dostawczych i ciężarowych
+74	Prace serwisowe[br][br]
+75	Serwis pojazdów i szkoła jazdy kategorii A1, B, C i C+E.
+76	Serwis pojazdów w rękach doświadczonych fachowców i przyszłych mechaników. Szkoła jazdy kategorii A1, B, C, C+E i szkolenia zawodowe kierowców.
+77	Prace serwisowe
+78	Serwis i myjnia
+79	Serwis pojazdów i myjnia
+80	Pojazd drogowy
+81	Hale magazynowe, biura i powierzchnie do prowadzenia działalności
+82	Kategoria A1
+83	Kategoria B
+84	Kategoria C
+85	Kategoria C obejmuje również kategorię T i C1, ograniczoną masą pojazdu do 7500 kg.
+86	Kategoria C+E
+87	Grupa, która ciągnie w jedną stronę
+88	Kategorie C+E
+89	Słowacja
+90	Sobota
+91	Specjalizujemy się w przewozach między Czechami a Austrią, w tym Tyrolem. Regularnie jeździmy też na Słowację, do Polski, na Węgry, do Niemiec, Włoch, Francji i na Ukrainę.
+92	Spedycja i logistyka
+93	Rzetelny dostawca usług wysokiej jakości dla wszystkich.
+94	Spółka Psota Holding, prowadząca stołówkę przy STK Znojmo, oferuje Państwu w nowym otoczeniu wyżywienie z wyborem kilku dań z oferty dnia. Menu dnia wydawane jest w dni robocze w godzinach od 10:30 do 14:00. Dania można zamówić z wyprzedzeniem, odebrać gotowe w pudełkach MENU lub do przyniesionych czystych pojemników. Wybór napojów obejmuje 4 rodzaje do samodzielnego nalewania. Z lodówki można ponadto kupić kilka rodzajów napojów bezalkoholowych oraz piwo.[br][br]Smacznego życzy zespół pracowników Psota holding, stołówka przy STK.
+95	Spółka[1] AUTOCENTRUM PSOTA s.r.o.[/1] oferuje Państwu na terenie usług nie tylko dla kierowców o nazwie AUTOCENTRUM przy ul. Dobšická 6 w Znojmie, na powierzchni 40 000 m², oprócz usług świadczonych przez spółki PSOTA Holding także sprzedaż towarów i usługi innych firm, które wynajmują tu powierzchnie:
+96	Spółki holdingu
+97	Delikt administracyjny podmiotu eksploatującego pojazd
+98	Stacja STK Hrušovany
+99	Stacje kontroli pojazdów w Znojmie, Břeclavi i Hrušovanach. Bez umawiania i bez czekania.
+100	Stacje badań technicznych i pomiaru spalin (Znojmo, Břeclav, Hrušovany)
+101	Terminy badań
+102	Środa
+103	Święto 28.10.2025
+104	Święto 28.10.2025 (27.10.2025)
+105	Wynik badania: pojazd niezdolny do ruchu. W ciągu 30 dni należy przejść powtórne badanie techniczne, podczas którego zostaną ponownie sprawdzone wcześniej stwierdzone usterki. Po upływie 30 dni trzeba przejść nowe, pełne badanie techniczne.
+106	Badanie na 1 rok dla samochodów ciężarowych N2 i N3, autobusów M2 i M3, taksówek, karetek i pojazdów z niebieskim światłem
+107	Badanie na 2 lata dla samochodów osobowych M1, ciężarowych N1, ciągników o prędkości maksymalnej powyżej 40 km/h i przyczep hamowanych O1
+108	Badanie na 30 dni – termin na usunięcie stwierdzonych usterek. W tym terminie należy przejść powtórne badanie techniczne, podczas którego zostaną ponownie sprawdzone wcześniej stwierdzone usterki
+109	Badanie na 4 lata dla wszystkich motocykli i quadów kat. L, O1, OT oraz ciągników o prędkości maksymalnej do 40 km/h
+110	Badanie techniczne może wykonać, niezależnie od miejsca rejestracji pojazdu w organie administracji, dowolna stacja STK na terytorium Czech uprawniona do kontroli danej kategorii pojazdów.
+111	Kontrola techniczna
+112	Badania techniczne i pomiar spalin.
+113	Badania techniczne pojazdów:
+114	Badania techniczne wykonuje się na koszt zamawiającego, według danych klienta, który podstawił pojazd do badania.
+115	Badania techniczne wykonuje się na podstawie ustawy nr 56/2001 Dz.U. w terminach określonych tą ustawą i w zakresie określonym rozporządzeniem wykonawczym Ministerstwa Transportu nr 211/2018 Dz.U. o badaniach technicznych pojazdów
+116	Wyposażenie techniczne
+117	Ten tydzień
+118	Terminy okresowych badań poszczególnych pojazdów drogowych
+119	Terminy badań
+120	Ciągnik
+121	Ciągnik (T)
+122	Ciągnik (T) o prędkości maksymalnej do 40 km/h
+123	Ciągnik (T) o prędkości maksymalnej powyżej 40 km/h
+124	Przyczepy ciągnikowe (R1–R4 (OT1–OT4)) do 40 km/h
+125	Przyczepy ciągnikowe (R1–R4 (OT1–OT4)) powyżej 40 km/h
+126	Zespół STK Znojmo
+127	U nas łączymy doświadczenie fachowców z energią przyszłych mechaników.
+128	Ukraina
+129	Przykłady naszej działalności
+130	UČŇOVSKÉ STŘEDISKO PSOTA
+131	Ośrodek szkolenia
+132	Od 1990 roku realizujemy tę samą misję
+133	V PAY
+134	W cenie kursu nie są zawarte opłaty za przeprowadzenie egzaminów i egzaminów poprawkowych w Urzędzie Miejskim w Znojmie, które wynoszą 700 CZK.
+135	Jeśli w pojeździe stwierdzono poważne lub niebezpieczne usterki, po ich usunięciu badanie należy powtórzyć. Jeśli powtórne badanie zostanie wykonane w ciągu 30 dni kalendarzowych, sprawdzane są tylko usterki stwierdzone podczas poprzedniego badania.
+136	Twoje imię
+137	Szanowni Klienci, [br]z powodu ŚWIĘTA PAŃSTWOWEGO godziny pracy na wszystkich stacjach STK zostaną zmienione w następujący sposób:[br][br]PONIEDZIAŁEK 6.7.2026 – NIECZYNNE[br][br]Dziękujemy za zrozumienie.
+138	Szanowni Klienci, z powodu ŚWIĘTA PAŃSTWOWEGO godziny pracy na wszystkich stacjach STK zostaną zmienione w następujący sposób: PONIEDZIAŁEK 6.7.2026 – NIECZYNNE Dziękujemy za zrozumienie.
+139	Zarząd firmy
+140	Zarząd firmy Karel Psota, dyrektor zarządzający, tel.: +420 515 210 545, faks: +420 515 210 542, tel. kom.: +420 602 748 472, e-mail: karel.psota@psota-znojmo.cz
+141	Certyfikat ubezpieczenia (niemiecki), PSOTA transport s.r.o.
+142	Visa
+143	Krajowy i międzynarodowy transport ciężarowy
+144	Krajowy i międzynarodowy transport ciężarowy. 105 niskopodwoziowych zestawów naczepowych, całodobowa dyspozytornia i monitoring GPS.
+145	Krajowy i międzynarodowy transport towarowy
+146	Wolne stanowiska
+147	Wolne stanowiska – kierowca transportu międzynarodowego
+148	Pojazdy bez własnego zewnętrznego oświetlenia muszą mieć przenośny zestaw świateł.
+149	Pojazdy uprzywilejowane
+150	Taksówki lub pojazdy z wypożyczalni, z wyjątkiem przyczep niehamowanych do 750 kg, ciągników i ich przyczep (O1, T, R1–R4 (OT1–OT4))
+151	Pojazd bez usterek lub z usterkami drobnymi[br]
+152	Pojazd z usterkami niebezpiecznymi (hamulce, zużyte opony)[br]
+153	Pojazd z usterkami poważnymi[br]
+154	Wybierz najbliższy oddział. Badania wykonujemy w Znojmie, Břeclavi i Hrušovanach nad Jevišovką, pojazdy ciężarowe na STK4you.
+155	Wybierz oddział
+156	Instruktor: Miroslav HRSTKA
+157	Wyważanie kół
+158	SZANOWNI KLIENCI,
+159	WYNIK BADANIA TECHNICZNEGO
+160	Szanowni Klienci, informujemy, że 28.10.2025 wszystkie stacje STK (Znojmo, STK4you, Hrušovany i Břeclav) będą NIECZYNNE. Dziękujemy za zrozumienie i życzymy spokojnego święta.
+161	Szanowni Klienci, [br]z powodu ŚWIĄT WIELKANOCNYCH godziny pracy zostaną zmienione. [br]PIĄTEK 3.4.2026 – NIECZYNNE [br]SOBOTA 4.4.2026 – OTWARTE[br]PONIEDZIAŁEK 6.4.2026 – NIECZYNNE [br][br]Dziękujemy za zrozumienie
+162	Szanowni Klienci,
+163	Szanowni Klienci,
+164	Szanowni Klienci, przeprowadziliśmy się na teren TOS, Družstevní 2825/3, Znojmo. Czekamy na Państwa wizytę. Dziękujemy
+165	Szanowni Klienci, przeprowadziliśmy się na teren TOS, Družstevní 2825/3, Znojmo. Czekamy na Państwa wizytę. Dziękujemy.
+166	Szanowni Klienci, z powodu święta państwowego godziny pracy na wszystkich stacjach STK zostaną zmienione w następujący sposób: PONIEDZIAŁEK 28.9.2026 – NIECZYNNE Dziękujemy za zrozumienie.
+167	Szanowni Klienci,[br] z powodu święta państwowego godziny pracy na wszystkich stacjach STK zostaną zmienione w następujący sposób: [br][br]PONIEDZIAŁEK 28.9.2026 – NIECZYNNE[br][br]Dziękujemy za zrozumienie.
+168	Szkolenie kategorii A1
+169	Szkolenie kategorii A1 obejmuje: 26 godzin teorii, 13 godzin jazdy oraz 6 godzin praktycznej obsługi pojazdu i szkolenia z pierwszej pomocy.
+170	Szkolenie kategorii B
+171	Szkolenie kategorii B obejmuje: 36 godzin teorii, 28 godzin jazdy oraz 6 godzin praktycznej obsługi pojazdu i szkolenia z pierwszej pomocy.
+172	Szkolenie kategorii C
+173	Szkolenie kategorii C obejmuje: 38 godzin teorii, 18 godzin jazdy oraz 8 godzin praktycznej obsługi pojazdu i szkolenia z pierwszej pomocy.
+174	Szkolenie kategorii C+E
+175	Szkolenie kategorii C+E obejmuje: 14 godzin teorii, 8 godzin jazdy oraz 4 godziny praktycznej nauki obsługi i szkolenia z pierwszej pomocy.
+176	Efektem jest rzetelnie wykonana praca, indywidualne podejście i przystępne ceny bez kompromisów w jakości.
+177	Trójkąt ostrzegawczy
+178	Wiek uprawniający do uzyskania kategorii C wynosi zwykle 21 lat. Nasz ośrodek szkolenia ma jednak przyznany wyjątek dla uczniów zawodu mechanik samochodowy, którzy mogą uzyskać uprawnienia już w wieku 18 lat.
+179	Wszystko, czego potrzebuje Twój pojazd i firma
+180	Wszystkie aktualności
+181	Wszystkie kontakty
+182	Z POWODU ŚWIĄT PAŃSTWOWYCH GODZINY PRACY ZOSTANĄ ZMIENIONE W NASTĘPUJĄCY SPOSÓB:
+183	NIECZYNNE
+184	Towar jest podczas transportu ubezpieczony na 10 mln CZK, a wszystkie pojazdy są nieprzerwanie monitorowane przez systemy GPS O2 car control, Fleet Visor Iveco, Scania Fleet Management 200 i FleetBoard z połączeniem online do całodobowej dyspozytorni i klienta.
+185	Towar ubezpieczony na 10 mln CZK, monitoring GPS 24/7
+186	Tutaj link do zgłoszenia do szkoły jazdy
+187	Dowiedz się więcej
+188	Zmiana godzin pracy 10.10 i 17.10.2025
+189	Zmiana godzin pracy 10.10 i 17.10.2025 (06.10.2025)
+190	Zmiany godzin pracy znajdziesz w [1]aktualnościach[/1].
+191	Znojmo
+192	Pokaż cennik
+193	Pokaż ofertę
+194	Wiadomość
+195	Podnośnik, klucz do kół i koło zapasowe
+196	Wybierz najbliższy oddział. Stacja kontroli pojazdów ze sprawdzonym systemem – bez umawiania i bez czekania
+197	Wybierz wymaganą stację STK i typ pojazdu:
+198	Wybierz najbliższy oddział. [1]Stacja kontroli pojazdów ze sprawdzonym systemem – bez umawiania i bez czekania.[/1]
+199	Klient najpierw przechodzi pomiar spalin (jeśli nie ma go już wykonanego na innej stacji), a następnie zostawia pojazd na wyznaczonym parkingu przy recepcji. W biurze przyjęć STK przedstawia dokumenty zgodnie z punktem 10 i po opłaceniu oraz wystawieniu karty usterek podjeżdża pojazdem pod bramę wskazaną przez operatora STK. Na linii przekazuje diagnoście kartę usterek, dowód rejestracyjny, a przy badaniu powtórnym protokół z wykonanego badania.
+200	[1] [/1]PODSTAWIENIE POJAZDU DO KONTROLI TECHNICZNEJ
+201	[1]Apteczka samochodowa[/1] wielkości I jest obowiązkowa w pojazdach silnikowych z co najmniej czterema kołami, wielkości II przy przewozie 9 do 80 osób, wielkości III (lub dwie wielkości II) powyżej 80 osób.
+202	[1]Gaśnicę[/1] muszą mieć autobusy kategorii M2 i M3 oraz karetki.
+203	[1]Poszukujemy kierowców transportu międzynarodowego.[/1] Możliwość rozpoczęcia pracy od zaraz. Oddziały Znojmo, Hodonín, Jihlava i Kolín.
+204	[1]Karel Psota jun.[/1][br]specjalista ds. kadr[br]faks: +420 515 210 542[br]tel. kom.: +420 607 938 289[br]e-mail: [2][1]karel.psota.ml@psota-znojmo.cz[/1][br][/2]
+205	[1]Apteczka motocyklowa[/1] jest obowiązkowa w pojazdach silnikowych kategorii L, z wyjątkiem motorowerów i motorowerów typu motokolo.
+206	[1]Przeprowadziliśmy się na teren TOS, Družstevní 2825/3, Znojmo.[/1] Czekamy na Państwa wizytę. Dziękujemy.
+207	[1]Kliny pod koła[/1] są obowiązkowe w dwuosiowych pojazdach silnikowych powyżej 3,5 t (co najmniej jeden), w pojazdach o trzech i więcej osiach oraz w przyczepach powyżej 750 kg (co najmniej dwa).
+208	[1][/1] Znojmo · od 1990 roku
+209	[1]do 50 000 CZK[/1], mandatem na miejscu [2]do 5 000 CZK[/2]
+210	[br]Ceny zawierają 21% VAT
+211	autobusy
+212	warsztat samochodowy dla samochodów osobowych
+213	autoskola@psota-znojmo.cz
+214	benzyna, diesel, LPG i CNG
+215	zakupiono starszy zestaw wymienny do przewozu drewna. Zakupiono także 9 ciągników marki IVECO Stralis i 10 naczep marki KOGEL.
+216	zakupiono 16 nowych pojazdów IVECO Stralis, 2 pojazdy marki SCANIA i 10 nowych naczep 100 m³ marki KOGEL.
+217	zakupiono 6 nowych pojazdów IVECO Stralis i 1 starszy pojazd z 2008 roku, również IVECO Stralis.
+218	ceny do uzgodnienia
+219	ceny są bez VAT (nie jesteśmy płatnikiem VAT)[br][br]
+220	dalsza rozbudowa taboru i otwarcie myjni dla samochodów ciężarowych i osobowych na terenie AUTOCENTRUM PSOTA.
+221	diagnostyka sterownika, odczyt błędów sterownika
+223	do 5 000 000 CZK
+224	do 50 000 CZK
+225	do 500 000 CZK
+226	samochody dostawcze i ciężarowe
+227	transport, serwis, STK, szkoła jazdy i restauracja w Znojmie
+228	kontrola ewidencyjna
+229	kontrole ewidencyjne pojazdów przed przerejestrowaniem i zarejestrowaniem
+230	zdjęcie 1
+231	zdjęcie 10
+232	zdjęcie 2
+233	zdjęcie 3
+234	zdjęcie 4
+235	zdjęcie 5
+236	zdjęcie 6
+237	zdjęcie 7
+238	zdjęcie 8
+239	zdjęcie 9
+240	gaśnicę, latarkę i rękawice robocze,
+242	języki: CZ, DE, EN, FR, PL, RU
+243	dyrektor zarządzający
+245	zestawów pojazdów składających się z pojazdu silnikowego według pkt 1) lub 2) i przyczepy, jeśli maksymalna dopuszczalna masa zestawu nie przekracza 3500 kg, a maksymalna dopuszczalna masa przyczepy nie przekracza masy własnej pojazdu silnikowego, od 18 lat.
+246	kanister z zapasem paliwa i zapas wody,
+250	klucz do nakrętek (śrub) kół pojazdu,
+251	kontrola i legalizacja tachografów Stoneridge i VDO
+252	kontrola i regulacja świateł
+253	kontrola i regulacja reflektorów pojazdu
+254	kontrola hamulców
+255	kontrola hamulców na stanowisku rolkowym
+256	kontrola geometrii zawieszenia
+257	kontrola geometrii przedniej osi
+258	kontrola przedniej osi
+259	kontrola luzów zawieszenia
+261	kontrola i regulacja geometrii osi
+262	zakup własnego terenu w celu stworzenia kompletnego zaplecza dla obu firm transportowych i magazynowania towarów. Powstanie trzeciej firmy transportowej PSOTA transport s.r.o., zakup systemu monitoringu pojazdów GPS z połączeniem online z dyspozytornią w celu dalszego podniesienia jakości usług dla klientów. Zakup pierwszej naczepy cysterny do przewozu żywności.
+263	obróbka metali
+265	lat
+266	osób
+267	niskopodwoziowych zestawów 100 m³
+268	przeładunek, składowanie i magazynowanie towarów, ważenie towarów do 60 ton, możliwość parkowania pojazdów na strzeżonym terenie monitorowanym kamerami
+270	mln CZK
+271	komórka
+272	nowoczesna diagnostyka pojazdów
+273	pomiar spalin – benzyna, diesel, LPG, CNG
+274	pomiar spalin – benzyna, diesel, LPG, CNG (spaliny gazowe w zakładzie Kontrolní stanice Znojmo, Dobšická 6)
+275	miernik ciśnienia w oponach,
+276	na rynku
+277	na życzenie klienta: badanie wstępne, badanie przed wpisem haka holowniczego do dowodu, badanie przed wpisem innego typu felg i opon do dowodu
+278	całodobowa dyspozytornia i monitoring GPS
+279	koło zapasowe, jeśli pojazdu dotyczy ten obowiązek i nie obejmuje go żaden z wyjątków.
+280	zastępcza nalepka kontrolna (stacja pomiaru spalin, STK)
+281	samochód ciężarowy + autobus (N2, N3, M2, M3)
+282	samochód ciężarowy + autobus LPG–CNG (N2, N3, M2, M3)
+283	przyczepa (O1, O2)
+284	przyczepa (O3, O4)
+285	pojazdy ciężarowe
+286	pojazdy ciężarowe i przyczepy
+287	odtworzenie numeru VIN
+288	powtórne badanie (w ciągu 30 dni)
+289	powtórne badanie (tego samego dnia)
+290	powtórny egzamin z obsługi i konserwacji pojazdu: 200 CZK
+291	powtórne jazdy: 400 CZK
+292	powtórne testy: 100 CZK
+293	recepcjonistka
+294	uprawnia do kierowania lekkimi motocyklami o mocy maksymalnej 11 kW i pojemności silnika do 125 ccm oraz motocyklami trójkołowymi o mocy maksymalnej 15 kW. Minimalny wiek wnioskodawcy to 16 lat, wymagana jest więc zgoda przedstawiciela ustawowego.
+295	uprawnia do kierowania pojazdami silnikowymi, których największa dopuszczalna masa przekracza 3500 kg, przeznaczonymi do przewozu nie więcej niż 8 osób oprócz kierowcy, do których można przyłączyć przyczepę o największej dopuszczalnej masie nieprzekraczającej 750 kg.
+296	uprawnia do kierowania:
+297	samochodami osobowymi i dostawczymi, motocyklami, autobusami
+298	samochodami osobowymi i dostawczymi
+299	samochodami osobowymi i dostawczymi (do 3,5 t)
+300	samochód osobowy – gaz (M1, N1)
+301	samochodami osobowymi, dostawczymi i ciężarowymi
+302	samochodów osobowych, których maksymalna dopuszczalna masa nie przekracza 3500 kg i które mają nie więcej niż 8 miejsc siedzących oprócz miejsca kierowcy; do takiego pojazdu można przyłączyć przyczepę o maksymalnej dopuszczalnej masie nieprzekraczającej 750 kg
+303	dowód rejestracyjny pojazdu (mały dowód techniczny)
+304	specjalista ds. kadr i zarządca taboru
+305	telefon stacjonarny
+306	ważny dokument potwierdzający pomiar spalin
+307	po indywidualnej przeróbce pojazdu na gaz (CNG, LPG)
+308	po przebudowie
+309	ubezpieczenie przewożonych towarów
+310	początek współpracy ze znaczącym zagranicznym partnerem. Dzięki tej współpracy tabor zaczął rozwijać się szybciej i rozpoczęto przewozy towarów podlegających konwencji ADR. Od tego roku firma zaczęła specjalizować się w przewozach między CZ, A i PL. Wprowadzenie się do wynajmowanych obiektów dawnego Agrostavu Znojmo, gdzie powstało zaplecze dla transportu towarowego i osobowego (serwis, stacja paliw, wulkanizacja)
+311	badanie okresowe
+312	badanie okresowe (protokół pomiaru spalin z innej stacji)
+313	regularny i rozszerzony serwis pojazdu
+314	sprzedaż i obsługa oprogramowania księgowego
+315	sprzedaż nalepek ekologicznych na Austrię i Niemcy
+316	sprzedaż przekąsek: kawa, herbata, napoje chłodzone
+317	sprzedaż obowiązkowego wyposażenia pojazdu: apteczka, trójkąt ostrzegawczy, oznaczenie prędkości, żarówki, odblaski, kamizelki i inne
+318	sklep z materiałami elektroinstalacyjnymi
+319	sklep z częściami zamiennymi do samochodów osobowych
+320	profesjonalna diagnostyka Bosch
+321	działalność projektowa budowlana i elektryczna
+322	protokół z pomiaru spalin
+323	protokół z pomiaru spalin (dostarcza nasza stacja pomiaru spalin)
+324	protokół z poprzedniego badania technicznego, na którego podstawie wykonywane jest badanie powtórne
+325	protokół z ostatniego badania technicznego, jeśli pojazd jest podstawiany do badania powtórnego
+326	eksploatacja pojazdu niesprawnego technicznie
+327	eksploatacja pojazdu bez tablicy rejestracyjnej umożliwiającej identyfikację pojazdu
+328	eksploatacja pojazdu z danymi identyfikacyjnymi niezgodnymi z rejestrem lub dowodem rejestracyjnym
+329	eksploatacja pojazdu z danymi identyfikacyjnymi niezgodnymi z rejestrem pojazdów drogowych
+330	eksploatacja pojazdu, którego zdolność techniczna nie została potwierdzona badaniem technicznym
+331	eksploatacja pojazdu, którego zdolność techniczna nie została potwierdzona badaniem technicznym (np. nieważne badanie STK)
+332	eksploatacja pojazdu niesprawnego technicznie
+333	eksploatacja pojazdu, który nie jest wpisany do rejestru pojazdów drogowych
+334	badanie wstępne
+335	przerejestrowanie właściciela pojazdu w wydziale komunikacji urzędu na podstawie pełnomocnictw udzielonych pracownikowi STK przez sprzedającego i kupującego
+336	przerejestrowanie właściciela pojazdu w wydziale komunikacji Urzędu Miejskiego w Znojmie na podstawie pełnomocnictw udzielonych pracownikowi STK przez sprzedającego i kupującego
+337	przy imporcie
+338	do naszej firmy trafia nowa marka w technice naczepowej: 10 naczep 100 m³ marki Krone
+339	przyczepy
+340	przygotowanie pojazdu do STK bez stresu
+341	podnośnik ręczny musi mieć udźwig co najmniej równy największej technicznie dopuszczalnej masie na najbardziej obciążoną oś,
+343	przegląd instalacji gazowej
+345	powierzchnia terenów
+346	roczny obrót
+347	serwis i uzupełnianie klimatyzacji
+348	serwis wszystkich typów samochodów osobowych
+349	zawarcie OC i AC, wystawienie zielonej karty
+350	podnośniki kolumnowe
+351	łańcuchy śnieżne, a zimą skrobaczka i szczotka (opony z kolcami są zakazane).
+352	pojazdy specjalne
+353	stacja w Hrušovanach nad Jevišovką
+358	hak holowniczy (M1, N1)
+359	badanie techniczne przed rejestracją + uzupełnienie danych (L, M1, N1)
+360	badanie techniczne przed rejestracją bez wyciągu
+361	dowód techniczny pojazdu z państwa członkowskiego
+362	diagnosta
+363	tester akumulatorów i układu ładowania
+364	ciągnik (T1–T5)
+365	ciągniki
+366	ciągników i samojezdnych maszyn roboczych, których maksymalna dopuszczalna masa nie przekracza 3500 kg (tzw. małe ciągniki...)
+367	tydzień od 19. 10. 2026
+368	tydzień od 26. 10. 2026
+370	nauczyciel w szkole jazdy
+372	kierownik
+373	kierownik dyspozytorni transportu międzynarodowego
+374	kierownik kierunku
+375	kierownik oddziału
+376	kierowniczka restauracji
+377	duży dowód techniczny (tylko jeśli został wydany do pojazdu; od 1. 1. 2024 nie jest już wydawany, dane są prowadzone w rejestrze pojazdów)
+378	duży dowód techniczny, jeśli został wydany do pojazdu
+379	lina lub drążek holowniczy (jeśli są używane, muszą być homologowane i oznakowane),
+380	wracamy do marki Scania i kupujemy 10 ciągników nowej generacji w wersji S450
+381	budowa zadaszonych, klimatyzowanych pomieszczeń do magazynowania towarów o łącznej powierzchni ok. 3000 m². Przebudowa magazynów do przechowywania towarów w kontrolowanej temperaturze. Zwiększenie udziału pojazdów IVECO Stralis do 9, zakup kolejnej naczepy cysterny do przewozu żywności i naczepy wywrotki.
+382	naklejenie zastępczej nalepki w przypadku jej uszkodzenia
+383	wypisanie i potwierdzenie dokumentów CEMT
+384	wystawianie dokumentów CEMT
+385	wystawienie odpisu protokołu z pomiaru spalin
+386	wystawienie odpisu protokołu z badania technicznego
+387	liczba naszych jednostek wzrosła o kolejnych 15 ciągników i 15 naczep 100 m³ marki KOGEL
+388	stanowisko rolkowe do badania hamulców
+389	szkolenie kategorii A1
+390	szkolenie kategorii C
+391	pojazd szkoleniowy
+392	samochód osobowy do nauki jazdy
+393	wymiana płynów eksploatacyjnych i zużytych części
+394	wszystkie kategorie motocykli i quadów
+395	wszystkie typy pojazdów łącznie z pomiarem spalin
+399	z powodu [1]przerwy w dostawie prądu[/1] godziny pracy naszej stacji [2]STK Znojmo[/2] zostaną zmienione w następujący sposób:
+400	z powodu [1]przerwy w działaniu systemu informatycznego Ministerstwa Transportu[/1] godziny pracy zostaną zmienione [2]na wszystkich stacjach STK w następujący sposób:[/2]
+401	rozpoczęto wymianę i dalszą rozbudowę taboru – zakup 5 ciągników MAN TGA i 8 naczep, w tym 2 niskopodwoziowych.
+402	zapewnienie odholowania i dowozu pojazdu bez ważnego badania na STK i z STK własną lawetą z platformą, żurawiem hydraulicznym i krzyżakiem załadowczym
+403	zlecenie wybicia numeru VIN technologią zastępczą na podstawie oświadczenia producenta lub jego akredytowanego przedstawiciela dla Czech (w zakładzie w Znojmie)
+404	zlecenie wybicia numeru VIN technologią zastępczą na podstawie oświadczenia producenta pojazdu lub jego akredytowanego przedstawiciela w Czechach
+405	zakupiono pierwszy zupełnie nowy ciągnik marki LIAZ 18.33 TBV
+406	zakupiono pierwszy zestaw naczepowy starszego rocznika.
+407	zakupiono 10 ciągników marki SCANIA i 10 ciągników marki Mercedes-Benz. Firma rozwija się też o oddział w Jihlavie. Kupujemy własną działkę w strefie przemysłowej
+408	zakupiono 20 ciągników marki Mercedes-Benz, znów wszystkie w wersji niskopodwoziowej
+409	zakupiono kolejnych 10 ciągników marki SCANIA w wersji niskopodwoziowej i 13 naczep marki KOGEL
+410	zakupiono pierwsze 10 ekologicznych ciągników Scania na 100% biodiesel
+411	założono spółkę AUTOEXPRES Karel Psota s.r.o. jako naturalnego następcę działalności jednoosobowej. W tym czasie spółka miała 7 zestawów naczepowych różnych marek. Powstanie spółki P.P.L. AUTOCENTRUM s.r.o. – spółki zapewniającej serwis taboru wraz ze stacją paliw.
+412	założenie firmy jako działalności jednoosobowej pod nazwą Karel Psota AUTOEXPRES. Po zakupie jednego małego samochodu ciężarowego marki AVIA firma wykonywała wyłącznie transport towarowy dla ówczesnego EJF Jevišovice. W tym samym roku powstała też znojemska spółka transportowa Psota jako przewoźnik osób.
+413	pracowników
+414	montażownica i wyważarka kół
+415	zastępca kierownika
+416	© 2026 PSOTA holding, Znojmo. Wszelkie prawa zastrzeżone.
+417	Wtorek
+418	Wtorek 9. 6. 2026
+419	strona główna
+420	księgowość
+421	Čeština
+422	Działalność
+423	Działalność holdingu
+424	Czwartek
+425	Cztery stacje kontroli pojazdów. Bez umawiania i bez czekania.
+426	KIEROWCÓW TRANSPORTU MIĘDZYNARODOWEGO
+427	Kierowca PSOTA transport przed ciągnikiem Scania
+428	Kierowca kontrolowanego pojazdu może uczestniczyć w całym przebiegu badania i w takim przypadku musi stosować się do poleceń diagnosty.
+429	Kierowca jest obowiązany przed rozpoczęciem badania zdjąć wszystkie osłony (kołpaki).
+430	Kierowca pojazdu musi przedłożyć następujące dokumenty:
+431	Szkolenie kierowców
+432	Szkolenie kierowców firmowych
+433	Ośrodek szkoleniowy, który zapewnia także serwis pojazdów i szkołę jazdy
+434	Wniosek o przyjęcie na naukę i szkolenie
+435	← Starsze

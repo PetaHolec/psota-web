@@ -1,0 +1,263 @@
+0	- ADR goods excluding classes 1 and 7
+1	- full-load and part-load shipments of 0.5–24 t
+2	- part-load goods of 0.5–10 t on the Vienna–CZ route
+3	print double-sided on one sheet of paper
+4	1 year
+5	With 105 low-deck 100 m³ curtain-sider semi-trailer units we provide the following transport from Znojmo or from our branches in Kolín, Hodonín and Jihlava (Pávov):
+6	2 years
+7	4 years
+8	6 years
+9	CZK 665/hour
+10	CZK 908/hour
+11	ADR goods excluding classes 1 and 7
+13	News
+14	News Link below:[1] NOTICE FOR CREDITORS, EMPLOYEES AND PARTNERS ABOUT THEIR RIGHTS [/1]
+15	STK news
+16	News from the STK stations
+17	Please follow current changes in the [1]news section[/1].
+19	The area of services not only for motorists, covering 40,000 m². Rental of offices, warehouses and production space.
+20	Buses (M2, M3)
+21	Autocentrum
+22	First-aid kit and motorcycle first-aid kit
+23	Driving school
+24	Petrol M1, N1
+25	Braked trailer up to 750 kg permissible weight (O1, O2)
+27	Full-load and part-load shipments of 0.5–24 t
+28	Full company history
+29	Read the full article
+30	Price for the public
+31	Prices are in CZK including VAT.
+32	Price list
+33	Price lists
+34	Company road map: inspection stations, freight transport, bus transport, commercial premises, service and washing
+35	Chvalovice 81, 669 02 Znojmo
+36	Chvalovice 81, 669 02 Znojmo[br]Branch: Lidická 3, 690 02 Břeclav[br]mobile: [1]+420 601 601 611[/1][br] e-mail: [2]stk.breclav@psota-znojmo.cz[/2][br] Company ID (IČ): 04803426 | VAT ID (DIČ): CZ04803426
+37	Chvalovice 81, 669 02 Znojmo[br]mobile: [1]+420 725 542 582[/1][br] e-mail: [2]stk.4you@psota-znojmo.cz [/2] [br] Company ID (IČ): 26925664 | VAT ID (DIČ): CZ26925664
+38	Chvalovice 81[br] 669 02 Znojmo[br] phone: [1]+420 515 210 543[/1][br] e-mail: [2]dispo@psota-znojmo.cz[/2] [br] Company ID (IČ): 26909871 | VAT ID (DIČ): CZ26909871
+39	What we offer
+41	Other fees – Znojmo municipal office
+42	Other services:
+43	Daily menu
+44	A daily menu for visitors to the Autocentrum and the surrounding area. Now in the TOS area, Družstevní 2825/3.
+45	Deutsch
+46	Diagnostics
+47	Control unit diagnostics
+49	Dispatch
+50	We have modern equipment that meets current service standards:
+51	Today the holding's companies provide regional, nationwide and international transport services with 80 buses and more than 100 semi-trailer units, plus all services for motorists in the AUTOCENTRUM area. Besides the logistics centre you will find an inspection station for all vehicle types, a CNG filling station, car repair shops, tyre shops, shops with spare parts and tyres for cars and trucks, tachograph servicing and calibration, a car wash and a training centre for practical teaching of car mechanics.
+52	Today the holding's companies provide regional, nationwide and international transport services with [1]80 buses[/1], more than [2]100 semi-trailer units[/2] and all services for motorists in the AUTOCENTRUM area.
+53	Time since first registration
+54	Periodic inspection interval
+56	Dobšická 3697/6, 669 02 Znojmo[br] phone: [1]+420 515 210 553[br][/1]mobile: [2]+420 702 098 115[/2][br] e-mail: [3]ucnovske.stredisko@psota-znojmo.cz[/3] [br]UČŇOVSKÉ STŘEDISKO PSOTA – practical training centre s.r.o.[br] Company ID (IČ): 29318360 | not a VAT payer[br]UČŇOVSKÉ STŘEDISKO PSOTA-autoservis s.r.o.[br]Company ID (IČ): 29318351 | VAT ID (DIČ): CZ29318351
+57	Dobšická 3697/6, 669 02 Znojmo[br]Branch: Družstevní 3894/28, 669 02 Znojmo[br]mobile: [1]+420 601 601 609[/1][br] e-mail: [2]stk.znojmo@psota-znojmo.cz[/2][br] Company ID (IČ): 26927535 | VAT ID (DIČ): CZ26927535
+58	Dobšická 3697/6[br] 669 02 Znojmo[br] phone: [1]+420 515 210 545[br][/1]mobile: [2]+420 602 748 472[/2][br] e-mail: [3]karel.psota@psota-znojmo.cz[/3] [br] Company ID (IČ): 26255715 | VAT ID (DIČ): CZ26255715[br]
+61	Additional theory lesson
+62	Documents to download
+63	Documents:
+64	Air-conditioning top-up (without refrigerant)
+65	We recommend having the inspection done no later than the date shown in the vehicle documents (the large technical certificate) or the dates set by law.
+66	Transport, service, inspection station, driving school and restaurant in one place. Regional, nationwide and international transport services and all services for motorists in the AUTOCENTRUM area.
+67	Imports – before registration
+68	Breadcrumb navigation
+70	Družstevní 2825/3[br] 669 02 Znojmo[br] phone: [1]+420 601 232 388[/1][br] e-mail: [2]restauraceustk@psota-znojmo.cz[/2][br] Company ID (IČ): 26927535[br]VAT ID (DIČ): CZ26927535 [br]
+71	Thanks to our turnover we are able to work with you on any project.
+72	THANK YOU FOR YOUR UNDERSTANDING
+73	Thank you for your understanding, and we apologise for any inconvenience.
+74	E-mail
+75	Registration check – foreign documents + inspection record extract
+76	Registration check – foreign documents, without inspection record extract
+77	EN
+78	English
+79	Invoicing department
+81	The form is loaded from the driving school's external system. If it does not appear, [1]open it in a new window[/1].
+82	Photo gallery
+83	Photo gallery – Autocentrum
+84	Photo gallery – Freight transport
+85	Photo gallery – Restaurant at the STK
+86	Photo gallery – Inspection stations and emission testing
+87	Photo gallery – Training centre
+88	France
+89	Natural persons (Section 83)
+90	GPS: 48.853692, 16.0696163 · [1]Open in Google Maps[/1]
+91	Fire extinguisher and other equipment
+93	Company history
+94	Main navigation
+95	Looking for a reliable service at a reasonable price?
+96	Italy
+99	How to prepare
+100	How to prepare for the technical inspection
+101	How can we help you?
+103	Website language
+106	Since 1990 our holding has pursued the same mission: [1]a reliable supplier of quality services for everyone[/1].
+107	Name
+108	The vehicle must be presented unloaded (for commercial vehicles the inspection can be done with a loaded vehicle for a surcharge of CZK 500), clean, especially with a washed underbody, and with the prescribed equipment.
+109	The booking calendar is provided by DEKRA. If it does not appear, [1]open it in a new window[/1].
+110	Where next
+111	Where we regularly drive
+112	Truck transport
+116	Every vehicle is inspected under the supervision of qualified staff.
+117	The dispatch office communicates with customers in Czech, German, English, French, Polish and Russian[br][br][1]Our specialisation is transport between CZ and A (including Tyrol) and back, and we also drive regularly on the routes CZ, SK, PL, H, D, I, F and UA[/1]
+118	Refresher driving lessons (1 hour)
+119	Contact
+120	Contacts
+121	Contacts for PSOTA holding Znojmo: address, phone, e-mail, contact form and contacts for the individual divisions.
+122	Contacts by division
+123	Wheel alignment check and adjustment
+124	Part-load goods of 0.5–10 t on the Vienna–CZ route
+127	The intervals follow from Sections 40 and 79 of Act No. 56/2001 Coll. on the conditions of operation of vehicles on roads, as amended as of 1 January 2026. The first inspection is counted from the date of the vehicle's first registration, the following ones from the last inspection carried out.
+128	Medical certificate of fitness to drive motor vehicles[br][br]
+129	The first-aid kit must be kept in a separate case, out of direct sunlight, in a dry and clean place. Its contents must be intact, with no signs of contamination or deterioration. The decree no longer sets a fixed expiry for the first-aid kit; we recommend replacing medical supplies whose shelf life marked on the packaging has ended.
+130	MOJE AUTOŠKOLA
+131	MOJE AUTOŠKOLA – software for driving schools
+133	Map
+134	Map of Europe with routes from Znojmo
+135	Map data: Natural Earth (public domain)
+139	Menu
+140	Milestones
+142	Motorcycles, quad bikes (category L)
+143	Required for every motor vehicle except categories L and Z, a single-axle tractor with a trailer and vehicles narrower than 1 m. The warning triangle must be approved under UN Regulation No. 27.
+144	Do you have a question or an enquiry?
+145	Emission testing:
+146	Emission testing
+147	Only the inspection technician drives the vehicle on the inspection line.
+148	On this area we provide you with first-class services.
+149	Services
+150	We offer:[br] - a quality fleet (Scania, Mercedes, Iveco)[br] - stable income[br] - guaranteed payday[br] - loyalty bonuses[br] - monthly bonus[br] - regular work[br] - domestic and international transport[br] - professional training[br] - work clothing[br] - the chance to obtain an ADR licence
+151	Diesel M1, N1
+152	Diesel N2, N3, M2, M3
+153	You can also find us at:
+154	Besides the logistics centre you will find here an inspection station for all vehicle types, a CNG filling station, car repair shops, tyre shops, shops with spare parts and tyres for cars and trucks, tachograph servicing and calibration, a car wash and a training centre for practical teaching of car mechanics. For visitors, our restaurant offers popular home-style cooking. In 2018 we also opened a new inspection station in Břeclav.
+155	Write to us
+156	Write to us, call us or drop by the AUTOCENTRUM area.
+157	Navigate
+158	Reading control unit faults
+159	Our divisions
+160	Our company is accredited to operate a training centre for continuing professional qualification of drivers (groups C, E).
+161	Our routes
+162	Unbraked trailer up to 750 kg permissible weight (O1)
+163	Sunday
+164	Nádražní 389, 671 67 Hrušovany nad Jevišovkou
+165	Nádražní 389, 671 67 Hrušovany nad Jevišovkou[br]mobile: [1]+420 606 077 787[/1][br] e-mail: [2]stk.hrusovany@psota-znojmo.cz[/2] [br] Company ID (IČ): 03745783 | VAT ID (DIČ): CZ03745783
+166	Rental of premises for business
+167	Truck up to 3.5 t (N1)
+168	Truck over 3.5 t (N2, N3)
+169	Freight transport
+170	National bus transport and city public transport in Znojmo
+171	Start possible immediately!
+172	Group name
+173	Germany
+174	About the holding
+175	After the inspection the customer receives an "Inspection report". If the vehicle is assessed as roadworthy or temporarily roadworthy, the inspection technician sticks an inspection label showing the validity of the inspection on the rear registration plate.
+176	NOTICE TO CUSTOMERS
+177	NOTICE TO CUSTOMERS (03.07.2026)
+178	NOTICE TO CUSTOMERS (04.06.2026)
+179	NOTICE TO CUSTOMERS (20.03.2026)
+180	NOTICE TO CUSTOMERS (26.09.2026)
+181	NOTICE TO CUSTOMERS (30.04.2026)
+182	VIN restoration
+183	From one small AVIA truck to a modern fleet of Scania, Mercedes-Benz and Iveco. Take a ride through our journey.
+184	From a single truck to a holding with 392 employees and a turnover of CZK 791 million.
+185	A reliable supplier of quality services for everyone since 1990.
+186	Send message
+187	We apologise for any inconvenience and thank you for your understanding.
+188	Online registration for driver training
+189	Online registration of students for the driving school
+190	Emission re-test
+191	Emission re-test – petrol
+192	Emission re-test – diesel
+193	Emission re-test – gas
+194	Emission re-test on the day of the inspection
+195	Passenger car (M1)
+196	Passenger transport
+197	Others
+198	Other stations will be added gradually – thank you for your understanding. You can visit the other branches without an appointment.
+199	Notices for customers
+200	Notices for customers and changes to opening hours at the inspection stations.
+201	Notices for customers: STK opening hours on public holidays and other changes.
+203	DOCUMENTS REQUIRED FOR THE TECHNICAL INSPECTION
+204	DOCUMENTS REQUIRED FOR THE TECHNICAL INSPECTION BEFORE REGISTRATION OF THE VEHICLE
+206	PSOTA Group – transport, service, STK, driving school and restaurant in Znojmo
+208	PSOTA holding Znojmo: freight and passenger transport, technical inspections and emission testing, car repair shops and washing, a training centre with a driving school, a restaurant and rental of premises. Since 1990.
+210	PSOTA holding: a reliable supplier of quality services since 1990. Transport, service, inspection station, training centre and restaurant in Znojmo.
+214	Gas M1, N1
+215	Gas M2, M3, N2, N3
+216	Driving lesson scheduling
+217	The vehicle's (or combination's) tyres must be inflated to the prescribed pressure.
+218	During this period it will not be possible to carry out technical inspections or related services.
+219	STK branches
+220	If you need a company seat and office, warehouse or production space for your business, do not hesitate to contact us to arrange a non-binding viewing and a quotation of the rental terms.
+221	Fine
+224	Monday
+225	The fees are payable at the cashier's desk of the Znojmo municipal office. Without payment, the documents confirming a successful exam will not be issued.
+226	Fees for repeated exams:
+227	We have gathered a lot of experience that we can offer to you, too.
+228	Scroll down
+229	I confirm that I have read the information on personal data processing, which will be used only to contact the customer.
+230	Mandatory equipment
+231	The mandatory equipment of vehicles operated on roads has been governed since 24 June 2023 by Decree No. 153/2023 Coll. on the approval of the technical roadworthiness of vehicles and the technical conditions of vehicle operation on roads (Annex 7, Part B). This decree replaced the former Decree No. 341/2014 Coll.
+232	Required for vehicles of categories M, N, O and R. Exceptions apply, for example, to vehicles with run-flat tyres, vehicles with a tyre repair kit that allows repair without removing the wheel, and vehicles with a contract for tyre repair throughout the Czech Republic. The classic equipment can therefore be replaced by a sealant and inflator kit or a breakdown assistance contract with a service centre.
+233	We require:[br] - driving licence category C+E[br] - driver qualification card[br] - medical fitness (traffic-psychological examination)[br] - flexibility[br] - independence and responsibility[br] - ADR certificate welcome[br] - international haulage experience an advantage
+234	Periodic technical inspections of vehicles:
+235	Regular training for continuing professional qualification of drivers in groups: C, C+E[br]We provide both initial and periodic training. Training is carried out with our own vehicles. Please send applications for training via the link on this page.
+236	For holders of group C, which entitles them to drive combinations with a semi-trailer or trailer with a maximum permissible weight exceeding 750 kg. The entitlement also applies to groups B+E and C1+E and, if the driver holds group D, also to group D+E.
+237	For our branches Znojmo, Hodonín, Jihlava and Kolín we are looking for:
+238	For all visitors to the Autocentrum, our restaurant at the STK offers popular home-style cooking. In 2018 we also opened a new inspection station in Břeclav.
+239	All three transport companies and P.P.L. AUTOCENTRUM s.r.o. moved to their own premises called AUTOCENTRUM PSOTA. Purchase of the first two IVECO Stralis vehicles.
+240	Professional staff are available at all our workplaces.
+241	Professional training of drivers (according to the required scope, 7–280 hours)
+242	Rental of premises
+243	Business premises
+244	Opening hours
+245	Opening hours (Břeclav)
+246	Opening hours (Hrušovany)
+247	Opening hours (Znojmo)
+248	Opening hours over Christmas at the STK 2025
+249	Opening hours over Christmas at the STK 2025 (04.12.2025)
+250	Explore our activities
+251	Legal entities and self-employed persons (Section 83a)
+252	A few stops on our journey
+253	Friday
+254	DRIVING SCHOOL APPLICATION
+255	This overview is for information only and does not replace legal advice. The valid wording of the act in the Collection of Laws prevails.
+256	This overview is for information only. The valid wording of Decree No. 153/2023 Coll. in the Collection of Laws prevails.
+257	Passenger transport
+258	Skip to content
+259	Offence
+260	Offences and fines
+261	Offences and fines for technical condition and documents
+262	Tyre change and balancing of 4 wheels
+263	With combined training of groups B + C you can obtain the licence for both groups within one training cycle. The advantage is shared theory lessons for both groups, followed by practical driving lessons, all concluded with a joint exam.
+264	During a roadside technical check, vehicles with defects in technical condition or documents may be sent to an STK, and the following penalties may be imposed on operators under Act No. 56/2001 Coll. on the conditions of operation of vehicles on roads (Sections 83 and 83a, as amended as of 1 January 2026).
+265	At the exam only one test is completed; if it is passed, an oral exam on vehicle operation and maintenance follows, and if the candidate also passes this part, a practical driving test is carried out – both in a group B vehicle and in a group C vehicle.
+266	We accept payment cards
+267	The story of the holding
+268	An on-the-spot order (formerly a fixed-penalty procedure) can be used only for selected offences of natural persons, as shown above. It does not apply to legal entities. Penalties for driving with an expired technical inspection are also governed by Act No. 361/2000 Coll. on road traffic (Section 125c).
+269	Trailer over 3.5 t permissible weight (O3, O4)
+270	Next week
+272	Austria
+273	Reflective vest and recommended equipment
+274	A reflective vest is not part of Annex 7. The obligation to wear one when leaving a vehicle on a road outside a built-up area is regulated by the Road Traffic Act (No. 361/2000 Coll.), so we recommend carrying one in every vehicle. We also recommend:
+275	Restaurant
+276	Restaurant at the STK
+277	Gas inspection
+278	STK booking
+279	Appointment booking
+282	Expand Autocentrum
+283	Expand Freight transport
+284	Expand Restaurant at the STK
+285	Expand Inspection stations and emission testing
+286	Expand Service and washing
+287	Expand Training centre
+288	Quick links
+293	STK Znojmo (trucks and vans)
+294	STK Znojmo – trucks
+295	STK Znojmo – passenger cars
+297	STK and emissions
+298	Inspection stations and emission testing
+299	Inspection and emission testing Břeclav
+300	Inspection and emission testing Znojmo
+301	An inspection station with an established system without appointments and without waiting.
+305	STK4you Znojmo
+306	STK4you Znojmo – trucks and vans
+308	Combined course B+C
+309	Combined training of groups B + C

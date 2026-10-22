@@ -1,0 +1,98 @@
+{
+ "areal": {
+  "name": "Areál AUTOCENTRUM PSOTA",
+  "addr": "Dobšická 3697/6, 669 02 Znojmo",
+  "lat": 48.8532028,
+  "lng": 16.0731943,
+  "cid": "4950977312383109135"
+ },
+ "truck": {
+  "name": "Servis nákladních vozidel, IVECO a půjčovna dodávek",
+  "addr": "Dobšická 3697/6, 669 02 Znojmo",
+  "lat": 48.8526824,
+  "lng": 16.0718666,
+  "cid": "3155102721207195127"
+ },
+ "myti": {
+  "name": "Mycí centrum",
+  "addr": "Dobšická 3697/6, 669 02 Znojmo",
+  "lat": 48.8530896,
+  "lng": 16.0731771,
+  "cid": "18414853337927061820"
+ },
+ "ucnovske": {
+  "name": "Učňovské středisko a autoškola PSOTA",
+  "addr": "Dobšická 3697/6, 669 02 Znojmo",
+  "lat": 48.8532028,
+  "lng": 16.0731943,
+  "cid": "4950977312383109135"
+ },
+ "stk_znojmo": {
+  "name": "STK Znojmo – osobní vozidla",
+  "addr": "Družstevní 3894/28, 669 02 Znojmo",
+  "lat": 48.8516719,
+  "lng": 16.0672746,
+  "cid": "11844349288819584582"
+ },
+ "stk_4you": {
+  "name": "STK4you Znojmo – nákladní vozidla a emise plynových vozidel",
+  "addr": "Kontrolní stanice, Dobšická 6, 669 02 Znojmo",
+  "lat": 48.8520779,
+  "lng": 16.0717001
+ },
+ "stk_breclav": {
+  "name": "STK Břeclav",
+  "addr": "Lidická 3, 690 02 Břeclav",
+  "lat": 48.7651153,
+  "lng": 16.8882888,
+  "cid": "13551452869647781855"
+ },
+ "stk_hrusovany": {
+  "name": "STK Hrušovany nad Jevišovkou",
+  "addr": "Nádražní 389, 671 67 Hrušovany nad Jevišovkou",
+  "lat": 48.8119814,
+  "lng": 16.3942824,
+  "cid": "16387785625283342080"
+ },
+ "restaurace": {
+  "name": "Restaurace u STK",
+  "addr": "Družstevní 2825/3, 669 02 Znojmo",
+  "lat": 48.8513099,
+  "lng": 16.0688859,
+  "cid": "6126108549064934757"
+ },
+ "dispecink": {
+  "name": "PSOTA transport – dispečink a vozový park",
+  "addr": "Dobšická 6, 669 02 Znojmo",
+  "lat": 48.8529739,
+  "lng": 16.0724296,
+  "cid": "12323505721136776624"
+ },
+ "sidlo": {
+  "name": "PSOTA transport – sídlo společnosti",
+  "addr": "Chvalovice 81, 669 02 Znojmo",
+  "lat": 48.7876369,
+  "lng": 16.0806876,
+  "cid": "6599727671707404441"
+ },
+ "cng": {
+  "name": "Veřejná CNG stanice PSOTA",
+  "addr": "Areál Autocentrum, Dobšická 6, 669 02 Znojmo",
+  "lat": 48.8520779,
+  "lng": 16.0717001,
+  "cid": "6695531841114490088"
+ },
+ "cerpaci": {
+  "name": "Čerpací stanice ZDS-PSOTA (Dobšice)",
+  "addr": "Brněnská 326, 671 82 Dobšice",
+  "lat": 48.8520525,
+  "lng": 16.0924062,
+  "cid": "5152137929110850909"
+ },
+ "penzion": {
+  "name": "Penzion Renata",
+  "addr": "Nová Oblekovická 281/26, 669 02 Znojmo",
+  "lat": 48.8353297,
+  "lng": 16.0717048
+ }
+}

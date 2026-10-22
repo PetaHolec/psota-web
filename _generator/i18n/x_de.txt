@@ -1,0 +1,416 @@
+0	10 Mio. CZK
+1	1.000 CZK / Person
+2	105 Low-Deck-Sattelzüge, rund um die Uhr besetzte Disposition und GPS-Überwachung.
+3	15.000 CZK
+4	16.000 CZK
+5	23.000 CZK
+6	27.000 CZK
+7	38.000 CZK
+8	800 CZK
+9	Aktuelles – STK
+10	Ein Servicebereich nicht nur für Autofahrer auf einer Fläche von 40.000 m².
+11	Autocentrum und Mietflächen
+12	Autowerkstatt
+13	BirdieCar Elektroautos
+14	Cenntro Elektroautos
+15	STK-Preislisten
+16	Was Sie im Fahrzeug haben müssen.
+17	Unterlagen und Vorbereitung des Fahrzeugs.
+18	Startseite
+19	Zulassungsprüfung[br]
+20	IVECO Service und Verkauf
+21	Versicherungsbescheinigung, PSOTA transport s.r.o.
+22	Konzessionsurkunde, PSOTA transport s.r.o.
+23	Kontakt und Formular
+24	Lizenz für den grenzüberschreitenden gewerblichen Güterkraftverkehr, PSOTA transport s.r.o.
+25	Motorrad L1–L7 (LA–LM)
+26	Lkw-Wäsche
+27	Nach oben ↑
+28	Neuer →
+29	Lkw und Busse N2, N3, M2, M3
+30	Anhänger (O1)
+31	Anhänger (O2)
+32	Unser Team
+33	Handelsregisterauszug, PSOTA transport s.r.o.
+34	Buchen Sie online bei der STK Znojmo.
+35	Von 7:30 bis 10:00 Uhr – AUSSER BETRIEB
+36	Online-Anmeldung der Schüler
+37	Online-Anmeldung zur Fahrschule
+38	Online-Kalender freier Termine
+39	Wiederholungsprüfung[br]
+40	Pkw und Transporter M1, N1
+41	Versicherungsbescheinigung, PSOTA transport s.r.o.
+42	Bescheinigung über die Umsatzsteuerregistrierung, PSOTA transport s.r.o.
+43	PDF · 1084 kB
+44	PDF · 1556 kB
+45	PDF · 405 kB
+46	PDF · 588 kB
+47	PDF · 931 kB
+48	PDF · 969 kB
+49	Reifenservice
+50	Regelmäßige Hauptuntersuchung[br]
+51	Ersatzteilverkauf
+52	Berufliche Qualifikation C, C+E
+53	FREITAG 1.5.2026 GESCHLOSSEN
+54	FREITAG 10. 10. 2025 – ab 18:00 GESCHLOSSEN
+55	FREITAG 17. 10. 2025 – ab 18:00 GESCHLOSSEN
+56	FREITAG 8.5.2026 GESCHLOSSEN
+57	Anmeldung zur Fahrerschulung
+58	Anmeldung der Schüler
+59	Traktoranhänger R, OT
+60	Anhänger, Auflieger (O3, O4)
+61	Transporter-Verleih
+62	Werkstatttermin buchen
+63	Buchung von Übungsfahrten
+64	Mit dem Fahrzeug darf nicht auf öffentlichen Straßen gefahren werden!
+65	SAMSTAG 11. 10. 2025 – GESCHLOSSEN
+66	SAMSTAG 18. 10. 2025 – GESCHLOSSEN
+67	STK Znojmo – Lkw
+68	STK Znojmo – Lkw und Transporter
+69	STK Znojmo – Pkw
+70	STK Znojmo – Personenfahrzeuge
+71	Mit welcher Abteilung möchten Sie sprechen?
+72	Service und Waschanlage
+73	Service für Pkw, Transporter und Lkw
+74	Werkstattarbeiten[br][br]
+75	Fahrzeugservice und Fahrschule der Klassen A1, B, C und C+E.
+76	Fahrzeugservice in den Händen erfahrener Fachleute und künftiger Mechaniker. Fahrschule der Klassen A1, B, C, C+E und berufliche Schulung von Fahrern.
+77	Werkstattarbeiten
+78	Service und Waschanlage
+79	Fahrzeugservice und Waschanlage
+80	Straßenfahrzeug
+81	Lagerhallen, Büros und Räume für Gewerbe
+82	Klasse A1
+83	Klasse B
+84	Klasse C
+85	Die Klasse C umfasst auch die Klassen T und C1, die auf ein Fahrzeuggewicht von höchstens 7500 kg begrenzt ist.
+86	Klasse C+E
+87	Eine Gruppe, die an einem Strang zieht
+88	Klassen C+E
+89	Slowakei
+90	Samstag
+91	Wir sind auf Transporte zwischen der Tschechischen Republik und Österreich einschließlich Tirol spezialisiert. Regelmäßig fahren wir außerdem in die Slowakei, nach Polen, Ungarn, Deutschland, Italien, Frankreich und in die Ukraine.
+92	Spedition und Logistik
+93	Ein zuverlässiger Anbieter hochwertiger Dienstleistungen für alle.
+94	Die Gesellschaft Psota Holding, die die Kantine an der STK Znojmo betreibt, bietet Ihnen in neuem Ambiente Verpflegung mit Auswahl aus mehreren Gerichten des Tagesangebots. Das Tagesmenü wird an Werktagen von 10:30 bis 14:00 Uhr ausgegeben. Die Speisen können im Voraus bestellt, fertig in MENU-Boxen abgeholt oder in mitgebrachte saubere Behälter gefüllt werden. Die Getränkeauswahl umfasst 4 Sorten zum Selbstzapfen. Außerdem können im Kühlschrank mehrere alkoholfreie Getränke sowie Bier erworben werden.[br][br]Guten Appetit wünscht das Team von Psota holding, Kantine an der STK.
+95	Die Gesellschaft[1] AUTOCENTRUM PSOTA s.r.o.[/1] bietet Ihnen im Servicebereich nicht nur für Autofahrer namens AUTOCENTRUM in der Dobšická 6, Znojmo, auf einer Fläche von 40.000 m² neben den Leistungen der Gesellschaften des PSOTA Holdings auch den Verkauf von Waren und die Leistungen weiterer Unternehmen, die im Areal Räume gemietet haben:
+96	Gesellschaften des Holdings
+97	Verwaltungsdelikt des Fahrzeughalters
+98	STK-Station Hrušovany
+99	Prüfstellen in Znojmo, Břeclav und Hrušovany. Ohne Termin und ohne Wartezeit.
+100	Prüfstellen für Hauptuntersuchung und Abgasuntersuchung (Znojmo, Břeclav, Hrušovany)
+101	Festgelegte Prüftermine
+102	Mittwoch
+103	Feiertag 28.10.2025
+104	Feiertag 28.10.2025 (27.10.2025)
+105	Hauptuntersuchung – Fahrzeug nicht verkehrssicher. Innerhalb von 30 Tagen muss eine Wiederholungsprüfung absolviert werden, bei der die zuvor festgestellten Mängel erneut geprüft werden. Nach Ablauf der 30 Tage muss eine neue vollständige Hauptuntersuchung absolviert werden.
+106	HU auf 1 Jahr bei Lkw N2 und N3, Bussen M2 und M3, Taxis, Krankenwagen und Fahrzeugen mit Blaulicht
+107	HU auf 2 Jahre bei Pkw M1, Lkw N1, Traktoren mit einer Höchstgeschwindigkeit über 40 km/h und gebremsten Anhängern O1
+108	HU auf 30 Tage – Frist zur Beseitigung der festgestellten Mängel. Innerhalb der Frist muss eine Wiederholungsprüfung absolviert werden, bei der die zuvor festgestellten Mängel erneut geprüft werden
+109	HU auf 4 Jahre bei allen Motorrädern und Quads der Klasse L, O1, OT und Traktoren mit einer Höchstgeschwindigkeit bis 40 km/h
+110	Die Hauptuntersuchung kann unabhängig vom Zulassungsort des Fahrzeugs bei der Behörde jede STK in der Tschechischen Republik durchführen, die für die Prüfung der jeweiligen Fahrzeugklasse berechtigt ist.
+111	Technische Kontrolle
+112	Hauptuntersuchungen und Abgasuntersuchungen.
+113	Hauptuntersuchungen von Fahrzeugen:
+114	Die Hauptuntersuchungen werden auf Kosten des Auftraggebers nach den Angaben des Kunden durchgeführt, der das Fahrzeug zur Untersuchung vorgeführt hat.
+115	Die Hauptuntersuchungen werden auf Grundlage des Gesetzes Nr. 56/2001 Slg. durchgeführt, innerhalb der darin festgelegten Fristen und im Umfang der Durchführungsverordnung des Verkehrsministeriums Nr. 211/2018 Slg. über die technischen Untersuchungen von Fahrzeugen
+116	Technische Ausstattung
+117	Diese Woche
+118	Fristen der regelmäßigen Untersuchungen einzelner Straßenfahrzeuge
+119	Prüftermine
+120	Traktor
+121	Traktor (T)
+122	Traktor (T) mit einer Höchstgeschwindigkeit bis 40 km/h
+123	Traktor (T) mit einer Höchstgeschwindigkeit über 40 km/h
+124	Traktoranhänger (R1–R4 (OT1–OT4)) bis 40 km/h
+125	Traktoranhänger (R1–R4 (OT1–OT4)) über 40 km/h
+126	Team der STK Znojmo
+127	Bei uns verbinden wir die Erfahrung von Fachleuten mit der Energie künftiger Mechaniker.
+128	Ukraine
+129	Einblicke in unsere Tätigkeiten
+130	UČŇOVSKÉ STŘEDISKO PSOTA
+131	Lehrlingszentrum
+132	Seit 1990 verfolgen wir dieselbe Mission
+133	V PAY
+134	Im Kurspreis sind die Gebühren für die Durchführung von Prüfungen und Wiederholungsprüfungen beim Stadtamt Znojmo nicht enthalten; sie betragen 700 CZK.
+135	Wurden am Fahrzeug erhebliche oder gefährliche Mängel festgestellt, muss die Untersuchung nach Beseitigung der Mängel wiederholt werden. Erfolgt die Wiederholungsprüfung innerhalb von 30 Kalendertagen, werden nur die bei der vorherigen Untersuchung festgestellten Mängel geprüft.
+136	Ihr Name
+137	Sehr geehrte Kunden, [br]aufgrund eines FEIERTAGS werden die Öffnungszeiten an allen STK-Stationen wie folgt angepasst:[br][br]MONTAG 6.7.2026 – GESCHLOSSEN[br][br]Danke für Ihr Verständnis.
+138	Sehr geehrte Kunden, aufgrund eines FEIERTAGS werden die Öffnungszeiten an allen STK-Stationen wie folgt angepasst: MONTAG 6.7.2026 – GESCHLOSSEN Danke für Ihr Verständnis.
+139	Geschäftsführung
+140	Geschäftsführung Karel Psota, Geschäftsführer, Tel.: +420 515 210 545, Fax: +420 515 210 542, Mobil: +420 602 748 472, E-Mail: karel.psota@psota-znojmo.cz
+141	Versicherungszertifikat, PSOTA transport s.r.o.
+142	Visa
+143	Nationaler und internationaler Lkw-Verkehr
+144	Nationaler und internationaler Lkw-Verkehr. 105 Low-Deck-Sattelzüge, rund um die Uhr besetzte Disposition und GPS-Überwachung.
+145	Nationaler und internationaler Güterverkehr
+146	Offene Stellen
+147	Offene Stellen – Fernfahrer (internationaler Güterverkehr)
+148	Fahrzeuge ohne eigene Außenbeleuchtung müssen ein tragbares Beleuchtungsset mitführen.
+149	Fahrzeuge mit Sonderrechten
+150	Taxis oder Mietwagen, außer ungebremsten Anhängern bis 750 kg, Traktoren und deren Anhängern (O1, T, R1–R4 (OT1–OT4))
+151	Fahrzeug ohne oder mit geringfügigen Mängeln[br]
+152	Fahrzeug mit gefährlichen Mängeln (Bremsen, abgefahrene Reifen)[br]
+153	Fahrzeug mit erheblichen Mängeln[br]
+154	Wählen Sie den nächstgelegenen Standort. Wir führen Untersuchungen in Znojmo, Břeclav und Hrušovany nad Jevišovkou durch, Lkw bei der STK4you.
+155	Standort wählen
+156	Fahrlehrer: Miroslav HRSTKA
+157	Auswuchten der Räder
+158	SEHR GEEHRTE KUNDEN,
+159	ERGEBNIS DER HAUPTUNTERSUCHUNG
+160	Sehr geehrte Kunden, wir möchten Sie informieren, dass am 28.10.2025 alle STK-Stationen (Znojmo, STK4you, Hrušovany und Břeclav) GESCHLOSSEN sind. Danke für Ihr Verständnis und einen ruhigen Feiertag.
+161	Sehr geehrte Kunden, [br]aufgrund der OSTERFEIERTAGE werden die Öffnungszeiten angepasst. [br]FREITAG 3.4.2026 – GESCHLOSSEN [br]SAMSTAG 4.4.2026 – GEÖFFNET[br]MONTAG 6.4.2026 – GESCHLOSSEN [br][br]Danke für Ihr Verständnis
+162	Sehr geehrte Kunden,
+163	Sehr geehrte Kunden,
+164	Sehr geehrte Kunden, wir sind in das Areal TOS, Družstevní 2825/3, Znojmo, umgezogen. Wir freuen uns auf Ihren Besuch. Danke
+165	Sehr geehrte Kunden, wir sind in das Areal TOS, Družstevní 2825/3, Znojmo, umgezogen. Wir freuen uns auf Ihren Besuch. Danke.
+166	Sehr geehrte Kunden, aufgrund eines Feiertags werden die Öffnungszeiten an allen STK-Stationen wie folgt angepasst: MONTAG 28.9.2026 – GESCHLOSSEN Danke für Ihr Verständnis.
+167	Sehr geehrte Kunden,[br] aufgrund eines Feiertags werden die Öffnungszeiten an allen STK-Stationen wie folgt angepasst: [br][br]MONTAG 28.9.2026 – GESCHLOSSEN[br][br]Danke für Ihr Verständnis.
+168	Ausbildung der Klasse A1
+169	Die Ausbildung der Klasse A1 umfasst: 26 Stunden Theorie, 13 Stunden Fahrpraxis und 6 Stunden praktische Fahrzeugwartung und Erste-Hilfe-Ausbildung.
+170	Ausbildung der Klasse B
+171	Die Ausbildung der Klasse B umfasst: 36 Stunden Theorie, 28 Stunden Fahrpraxis und 6 Stunden praktische Fahrzeugwartung und Erste-Hilfe-Ausbildung.
+172	Ausbildung der Klasse C
+173	Die Ausbildung der Klasse C umfasst: 38 Stunden Theorie, 18 Stunden Fahrpraxis und 8 Stunden praktische Fahrzeugwartung und Erste-Hilfe-Ausbildung.
+174	Ausbildung der Klasse C+E
+175	Die Ausbildung der Klasse C+E umfasst: 14 Stunden Theorie, 8 Stunden Fahrpraxis und 4 Stunden praktische Wartungs- und Erste-Hilfe-Ausbildung.
+176	Das Ergebnis ist ehrlich geleistete Arbeit, persönliche Betreuung und erschwingliche Preise ohne Kompromisse bei der Qualität.
+177	Warndreieck
+178	Das Alter für den Erwerb der Klasse C beträgt üblicherweise 21 Jahre. Unser Lehrlingszentrum hat jedoch eine Ausnahmegenehmigung für Auszubildende im Beruf Kfz-Mechaniker, die die Berechtigung bereits mit 18 Jahren erwerben können.
+179	Alles, was Ihr Fahrzeug und Ihr Unternehmen brauchen
+180	Alle Meldungen
+181	Alle Kontakte
+182	AUFGRUND VON FEIERTAGEN WERDEN DIE ÖFFNUNGSZEITEN WIE FOLGT ANGEPASST:
+183	GESCHLOSSEN
+184	Die Ware ist während des Transports mit 10 Mio. CZK versichert, und alle Fahrzeuge werden über die GPS-Systeme O2 car control, Fleet Visor Iveco, Scania Fleet Management 200 und FleetBoard ununterbrochen überwacht, mit Online-Verbindung zur rund um die Uhr besetzten Disposition und zum Kunden.
+185	Ware mit 10 Mio. CZK versichert, GPS-Überwachung 24/7
+186	Hier der Link zur Anmeldung zur Fahrschule
+187	Mehr erfahren
+188	Änderung der Arbeitszeit am 10.10. und 17.10.2025
+189	Änderung der Arbeitszeit am 10.10. und 17.10.2025 (06.10.2025)
+190	Änderungen der Öffnungszeiten finden Sie in den [1]Aktuellen Meldungen[/1].
+191	Znojmo
+192	Preisliste anzeigen
+193	Leistungen anzeigen
+194	Nachricht
+195	Wagenheber, Radschlüssel und Reserverad
+196	Bitte wählen Sie Ihren nächstgelegenen Standort. Prüfstelle mit bewährtem System ohne Termin und ohne Wartezeit
+197	Bitte wählen Sie die gewünschte STK-Station und den Fahrzeugtyp:
+198	Bitte wählen Sie Ihren nächstgelegenen Standort. [1]Prüfstelle mit bewährtem System ohne Termin und ohne Wartezeit.[/1]
+199	Der Kunde absolviert zuerst die Abgasuntersuchung (sofern er sie nicht bereits an einer anderen Station hat durchführen lassen) und stellt das Fahrzeug dann auf dem vorgesehenen Parkplatz an der Anmeldung ab. Im Anmeldebüro der STK legt er die Unterlagen gemäß Punkt 10 vor und fährt nach Bezahlung und Ausstellung des Mängelprotokolls mit dem Fahrzeug vor das vom STK-Mitarbeiter bestimmte Tor. An der Prüfstraße übergibt er dem STK-Techniker das Mängelprotokoll, die Zulassungsbescheinigung und bei einer Wiederholungsprüfung das Protokoll der durchgeführten Prüfung.
+200	[1] [/1]VORFÜHRUNG DES FAHRZEUGS ZUR TECHNISCHEN KONTROLLE
+201	[1]Eine Autoapotheke[/1] der Größe I ist für Kraftfahrzeuge mit mindestens vier Rädern vorgeschrieben, Größe II für die Personenbeförderung von 9 bis 80 Fahrgästen, Größe III (oder zwei der Größe II) über 80 Fahrgäste.
+202	[1]Einen Feuerlöscher[/1] müssen Busse der Klassen M2 und M3 sowie Krankenwagen mitführen.
+203	[1]Wir suchen Fahrer für den internationalen Güterverkehr.[/1] Eintritt sofort möglich. Standorte Znojmo, Hodonín, Jihlava und Kolín.
+204	[1]Karel Psota jun.[/1][br]Personalleiter[br]Fax: +420 515 210 542[br]Mobil: +420 607 938 289[br]E-Mail: [2][1]karel.psota.ml@psota-znojmo.cz[/1][br][/2]
+205	[1]Ein Motorrad-Verbandkasten[/1] ist für Kraftfahrzeuge der Klasse L vorgeschrieben, außer Mopeds und Kleinkrafträdern.
+206	[1]Wir sind in das Areal TOS, Družstevní 2825/3, Znojmo, umgezogen.[/1] Wir freuen uns auf Ihren Besuch. Danke.
+207	[1]Unterlegkeile[/1] sind vorgeschrieben bei zweiachsigen Kraftfahrzeugen über 3,5 t (mindestens einer), bei Fahrzeugen mit drei und mehr Achsen und bei Anhängern über 750 kg (mindestens zwei).
+208	[1][/1] Znojmo · seit 1990
+209	[1]bis 50.000 CZK[/1], mit Vor-Ort-Verfügung [2]bis 5.000 CZK[/2]
+210	[br]Preise inklusive 21 % MwSt.
+211	Busse
+212	Autowerkstatt für Pkw
+213	autoskola@psota-znojmo.cz
+214	Benzin, Diesel, LPG und CNG
+215	wurde ein älterer Rungenzug für den Holztransport gekauft. Außerdem wurden 9 Zugmaschinen der Marke IVECO Stralis und 10 Auflieger der Marke KOGEL gekauft.
+216	wurden 16 neue Fahrzeuge IVECO Stralis, 2 Fahrzeuge der Marke SCANIA und 10 neue 100-m³-Auflieger der Marke KOGEL gekauft.
+217	wurden 6 neue Fahrzeuge IVECO Stralis und 1 älteres Fahrzeug aus dem Jahr 2008, wiederum ein IVECO Stralis, gekauft.
+218	Preise nach Vereinbarung
+219	Die Preise verstehen sich ohne MwSt. (wir sind kein Umsatzsteuerzahler)[br][br]
+220	weitere Erweiterung des Fuhrparks und Eröffnung einer Waschanlage für Lkw und Pkw im Areal AUTOCENTRUM PSOTA.
+221	Steuergerätediagnose, Auslesen von Steuergerätefehlern
+223	bis 5.000.000 CZK
+224	bis 50.000 CZK
+225	bis 500.000 CZK
+226	Transporter und Lkw
+227	Transport, Service, STK, Fahrschule und Restaurant in Znojmo
+228	Zulassungsprüfung
+229	Zulassungsprüfungen von Fahrzeugen vor Ummeldung und Anmeldung
+230	Foto 1
+231	Foto 10
+232	Foto 2
+233	Foto 3
+234	Foto 4
+235	Foto 5
+236	Foto 6
+237	Foto 7
+238	Foto 8
+239	Foto 9
+240	einen Feuerlöscher, eine Taschenlampe und Arbeitshandschuhe,
+242	Sprachen: CZ, DE, EN, FR, PL, RU
+243	Geschäftsführer
+245	Fahrzeugkombinationen aus einem Kraftfahrzeug nach Punkt 1) oder 2) und einem Anhänger, sofern die zulässige Gesamtmasse der Kombination 3500 kg nicht übersteigt und die zulässige Gesamtmasse des Anhängers die Leermasse des Kraftfahrzeugs nicht übersteigt, ab 18 Jahren.
+246	einen Kanister mit Kraftstoffreserve und einen Wasservorrat,
+250	einen Radmutternschlüssel (Radschrauben) des Fahrzeugs,
+251	Prüfung und Verifizierung von Fahrtenschreibern Stoneridge und VDO
+252	Prüfung und Einstellung der Beleuchtung
+253	Prüfung und Einstellung der Fahrzeugscheinwerfer
+254	Bremsenprüfung
+255	Bremsenprüfung auf dem Rollenprüfstand
+256	Prüfung der Spureinstellung
+257	Prüfung der Vorderachsgeometrie
+258	Prüfung der Vorderachse
+259	Prüfung des Achsspiels
+261	Prüfung und Einstellung der Achsgeometrie
+262	Kauf eines eigenen Areals zur Schaffung der kompletten Infrastruktur für beide Transportgesellschaften und zur Lagerung von Waren. Gründung der dritten Transportgesellschaft PSOTA transport s.r.o., Anschaffung eines GPS-Fahrzeugüberwachungssystems mit Online-Anbindung an die Disposition zur weiteren Verbesserung der Kundenleistungen. Anschaffung des ersten Tankaufliegers für den Lebensmitteltransport.
+263	Metallbearbeitung
+265	Jahre
+266	Mitarbeiter
+267	Low-Deck-Sattelzüge mit 100 m³
+268	Umschlag, Umladen und Lagerung von Waren, Wiegen von Waren bis 60 Tonnen, Möglichkeit zum Parken von Fahrzeugen auf einem bewachten, videoüberwachten Gelände
+270	Mio. CZK
+271	Mobil
+272	moderne Fahrzeugdiagnose
+273	Abgasuntersuchung Benzin, Diesel, LPG, CNG
+274	Abgasuntersuchung Benzin, Diesel, LPG, CNG (Gasabgase an der Station Kontrolní stanice Znojmo, Dobšická 6)
+275	einen Reifendruckprüfer,
+276	am Markt
+277	auf Wunsch des Kunden: Vorabprüfung, Prüfung vor Eintragung einer Anhängekupplung in die Fahrzeugpapiere, Prüfung vor Eintragung eines anderen Felgen- und Reifentyps in die Fahrzeugpapiere
+278	rund um die Uhr besetzte Disposition und GPS-Verfolgung
+279	ein Reserverad, sofern für das Fahrzeug die Pflicht gilt und keine der Ausnahmen zutrifft.
+280	Ersatz-Prüfplakette (Abgasuntersuchung, STK)
+281	Lkw + Bus (N2, N3, M2, M3)
+282	Lkw + Bus LPG–CNG (N2, N3, M2, M3)
+283	Anhänger (O1, O2)
+284	Anhänger (O3, O4)
+285	Lkw
+286	Lkw und Anhänger
+287	Wiederherstellung der Fahrgestellnummer
+288	Wiederholungsprüfung (innerhalb von 30 Tagen)
+289	Wiederholungsprüfung (am selben Tag)
+290	wiederholte Prüfung zu Bedienung und Wartung des Fahrzeugs: 200 CZK
+291	wiederholte Fahrprüfungen: 400 CZK
+292	wiederholte Tests: 100 CZK
+293	Empfangsmitarbeiterin
+294	berechtigt zum Führen leichter Motorräder mit einer Leistung von höchstens 11 kW und einem Hubraum bis 125 ccm sowie von Dreirädern mit einer Höchstleistung von 15 kW. Das Mindestalter des Bewerbers beträgt 16 Jahre, daher ist die Zustimmung des gesetzlichen Vertreters erforderlich.
+295	berechtigt zum Führen von Kraftfahrzeugen, deren zulässige Gesamtmasse 3.500 kg übersteigt und die zur Beförderung von höchstens 8 Personen außer dem Fahrer bestimmt sind; es darf ein Anhänger mit einer zulässigen Gesamtmasse von höchstens 750 kg angehängt werden.
+296	berechtigt zum Führen von:
+297	Pkw und Transportern, Motorrädern, Bussen
+298	Pkw und Transportern
+299	Pkw und Transportern (bis 3,5 t)
+300	Pkw – Gas (M1, N1)
+301	Pkw, Transportern und Lkw
+302	Personenkraftwagen, deren zulässige Gesamtmasse 3500 kg nicht übersteigt und die höchstens 8 Sitzplätze außer dem Fahrersitz haben; an dieses Kraftfahrzeug darf ein Anhänger mit einer zulässigen Gesamtmasse von höchstens 750 kg angehängt werden
+303	Zulassungsbescheinigung (kleiner Fahrzeugschein)
+304	Personalleiter und Fuhrparkverwalter
+305	Festnetz
+306	einen gültigen Nachweis über die Abgasuntersuchung
+307	nach individuellem Umbau eines Fahrzeugs auf Gas (CNG, LPG)
+308	nach Umbau
+309	Versicherung der transportierten Waren
+310	Beginn der Zusammenarbeit mit einem bedeutenden ausländischen Partner. Auf Grundlage dieser Zusammenarbeit wuchs der Fuhrpark schneller und es wurde mit dem Transport von Gütern nach dem ADR-Übereinkommen begonnen. Ab diesem Jahr spezialisierte sich die Gesellschaft auf Transporte zwischen CZ, A und PL. Einzug in die gemieteten Räume des ehemaligen Agrostav Znojmo, wo die Infrastruktur für Güter- und Personenverkehr (Werkstatt, Tankstelle, Reifenservice) entstand
+311	regelmäßige Hauptuntersuchung
+312	regelmäßige Hauptuntersuchung (Abgasprotokoll von einer anderen Station)
+313	regelmäßiger und erweiterter Fahrzeugservice
+314	Verkauf und Wartung von Buchhaltungssoftware
+315	Verkauf von Umweltplaketten für Österreich und Deutschland
+316	Verkauf von Erfrischungen: Kaffee, Tee, gekühlte Getränke
+317	Verkauf der vorgeschriebenen Fahrzeugausrüstung: Verbandkasten, Warndreieck, Geschwindigkeitsschilder, Glühlampen, Reflektoren, Westen und mehr
+318	Geschäft für Elektroinstallationsmaterial
+319	Ersatzteilgeschäft für Pkw
+320	professionelle Bosch-Diagnose
+321	Planungstätigkeit im Bau- und Elektrobereich
+322	Abgasprotokoll
+323	Abgasprotokoll (wird von unserer Abgasuntersuchungsstation geliefert)
+324	Protokoll der vorherigen Hauptuntersuchung, auf deren Grundlage die Wiederholungsprüfung durchgeführt wird
+325	Protokoll der letzten Hauptuntersuchung, wenn das Fahrzeug zur Wiederholungsprüfung vorgeführt wird
+326	Betrieb eines technisch nicht verkehrssicheren Fahrzeugs
+327	Betrieb eines Fahrzeugs ohne Kennzeichen, das die Identifizierung des Fahrzeugs ermöglicht
+328	Betrieb eines Fahrzeugs mit Identifikationsdaten, die im Widerspruch zum Register oder zur Zulassungsbescheinigung stehen
+329	Betrieb eines Fahrzeugs mit Identifikationsdaten, die nicht mit dem Register der Straßenfahrzeuge übereinstimmen
+330	Betrieb eines Fahrzeugs, dessen technische Eignung nicht durch eine Hauptuntersuchung überprüft wurde
+331	Betrieb eines Fahrzeugs, dessen technische Eignung nicht durch eine Hauptuntersuchung überprüft wurde (z. B. abgelaufene STK)
+332	Betrieb eines technisch nicht verkehrssicheren Fahrzeugs
+333	Betrieb eines Fahrzeugs, das nicht im Register der Straßenfahrzeuge eingetragen ist
+334	Vorabprüfung
+335	Halterwechsel des Fahrzeugs bei der Verkehrsabteilung des Stadtamts auf Grundlage der Vollmachten von Verkäufer und Käufer an einen STK-Mitarbeiter
+336	Halterwechsel des Fahrzeugs bei der Verkehrsabteilung des Stadtamts Znojmo auf Grundlage der Vollmachten von Verkäufer und Käufer an einen STK-Mitarbeiter
+337	bei Import
+338	eine neue Marke in der Aufliegertechnik kommt in unser Unternehmen: 10 Auflieger der Marke Krone mit 100 m³
+339	Anhänger
+340	stressfreie Vorbereitung des Fahrzeugs auf die STK
+341	der Wagenheber muss eine Tragfähigkeit haben, die mindestens der größten technisch zulässigen Masse auf der am stärksten belasteten Achse entspricht,
+343	Gasprüfung
+345	Fläche der Areale
+346	Jahresumsatz
+347	Klimaanlagenservice und -befüllung
+348	Service für alle Arten von Pkw
+349	Vermittlung von Haftpflicht- und Kaskoversicherung, Ausstellung der Grünen Karte
+350	Säulenhebebühnen
+351	Schneeketten und im Winter Eiskratzer und Handfeger (Spikereifen sind verboten).
+352	Sonderfahrzeuge
+353	Station in Hrušovany nad Jevišovkou
+358	Anhängevorrichtung (M1, N1)
+359	Hauptuntersuchung vor der Zulassung + Datenergänzung (L, M1, N1)
+360	Hauptuntersuchung vor der Zulassung ohne Auszug
+361	Fahrzeugbrief aus einem Mitgliedstaat
+362	Techniker
+363	Batterie- und Ladesystemtester
+364	Traktor (T1–T5)
+365	Traktoren
+366	Traktoren und selbstfahrende Arbeitsmaschinen, deren zulässige Gesamtmasse 3500 kg nicht übersteigt (sog. Kleintraktoren ...)
+367	Woche ab 19. 10. 2026
+368	Woche ab 26. 10. 2026
+370	Fahrlehrer
+372	Leiter
+373	Leiter der Disposition Internationaler Güterverkehr
+374	Bereichsleiter
+375	Standortleiter
+376	Restaurantleiterin
+377	großer Fahrzeugschein (nur wenn er für das Fahrzeug ausgestellt wurde; seit 1. 1. 2024 wird er nicht mehr ausgestellt, die Daten werden im Fahrzeugregister geführt)
+378	großer Fahrzeugschein, falls er für das Fahrzeug ausgestellt wurde
+379	ein Abschleppseil oder eine Abschleppstange (falls verwendet, müssen sie zugelassen und gekennzeichnet sein),
+380	wir kehren zur Marke Scania zurück und kaufen 10 Zugmaschinen der neuen Generation in der Ausführung S450
+381	Errichtung überdachter, temperierter Räume zur Lagerung von Waren mit einer Gesamtfläche von ca. 3000 m². Rekonstruktion der Lagerräume für die Lagerung von Waren bei kontrollierter Temperatur. Erhöhung des Anteils an IVECO Stralis auf 9, Kauf eines weiteren Tankaufliegers für den Lebensmitteltransport und eines Kippaufliegers.
+382	Anbringen einer Ersatzplakette bei Beschädigung der Plakette
+383	Ausfüllen und Bestätigen von CEMT-Dokumenten
+384	Ausstellung von CEMT-Dokumenten
+385	Ausstellung einer Abschrift des Abgasprotokolls
+386	Ausstellung einer Abschrift des Prüfprotokolls
+387	die Zahl unserer Einheiten stieg um weitere 15 Zugmaschinen und 15 Auflieger der Marke KOGEL mit 100 m³
+388	Rollenbremsprüfstand
+389	Ausbildung der Klasse A1
+390	Ausbildung der Klasse C
+391	Ausbildungsfahrzeug
+392	Ausbildungs-Pkw
+393	Wechsel von Betriebsflüssigkeiten und Verschleißteilen
+394	alle Klassen von Motorrädern und Quads
+395	alle Fahrzeugtypen einschließlich Abgasuntersuchung
+399	aufgrund eines [1]Stromausfalls[/1] werden die Öffnungszeiten unserer Station [2]STK Znojmo[/2] wie folgt angepasst:
+400	aufgrund [1]einer Abschaltung des Informationssystems des Verkehrsministeriums[/1] werden die Öffnungszeiten [2]an allen STK-Stationen wie folgt angepasst:[/2]
+401	Beginn der Erneuerung und weiteren Erweiterung des Fuhrparks – Kauf von 5 Zugmaschinen MAN TGA und 8 Aufliegern einschließlich 2 Low-Decks.
+402	Organisation der Abholung und Anlieferung eines Fahrzeugs ohne gültige HU zur und von der STK mit eigenem Abschleppfahrzeug mit Plattform, Hydraulikkran und Ladekreuz
+403	Veranlassung der Einschlagung der Fahrgestellnummer mit Ersatztechnologie auf Grundlage einer Erklärung des Herstellers oder seines akkreditierten Vertreters für die Tschechische Republik (am Standort Znojmo)
+404	Veranlassung der Einschlagung der Fahrgestellnummer mit Ersatztechnologie auf Grundlage einer Erklärung des Fahrzeugherstellers oder seines akkreditierten Vertreters in der Tschechischen Republik
+405	Kauf der ersten völlig neuen Zugmaschine der Marke LIAZ 18.33 TBV
+406	Kauf des ersten, älteren Sattelaufliegers.
+407	Kauf von 10 Zugmaschinen der Marke SCANIA und 10 Zugmaschinen der Marke Mercedes-Benz. Außerdem entsteht ein Standort in Jihlava. Wir kaufen ein eigenes Grundstück in der Industriezone
+408	Kauf von 20 Zugmaschinen der Marke Mercedes-Benz, wiederum alle in der Low-Deck-Ausführung
+409	Kauf von weiteren 10 SCANIA-Zugmaschinen in der Low-Deck-Ausführung und 13 Aufliegern der Marke KOGEL
+410	Kauf der ersten 10 umweltfreundlichen Scania-Zugmaschinen mit Betrieb mit 100 % Biodiesel
+411	Gründung der Gesellschaft AUTOEXPRES Karel Psota s.r.o. als natürlicher Nachfolger des Einzelunternehmens. Zu dieser Zeit hatte die Gesellschaft 7 Sattelzüge verschiedener Fabrikate. Gründung der Gesellschaft P.P.L. AUTOCENTRUM s.r.o. – eine Gesellschaft für den Service des Fuhrparks einschließlich einer Tankstelle.
+412	Gründung des Unternehmens als Einzelunternehmen unter dem Namen Karel Psota AUTOEXPRES. Nach dem Kauf eines kleinen Lkw der Marke AVIA führte die Firma ausschließlich Güterverkehr für das damalige EJF Jevišovice durch. Im selben Jahr entstand auch das Znojemer Verkehrsunternehmen Psota als Personenbeförderer.
+413	Mitarbeiter
+414	Reifenmontiergerät und Auswuchtmaschine
+415	stellvertretender Leiter
+416	© 2026 PSOTA holding, Znojmo. Alle Rechte vorbehalten.
+417	Dienstag
+418	Dienstag, 9. 6. 2026
+419	Startseite
+420	Buchhaltung
+421	Čeština
+422	Tätigkeiten
+423	Tätigkeiten des Holdings
+424	Donnerstag
+425	Vier Prüfstellen. Ohne Termin und ohne Wartezeit.
+426	FERNFAHRER
+427	Fahrer von PSOTA transport vor einer Scania-Zugmaschine
+428	Der Fahrer des geprüften Fahrzeugs kann am gesamten Ablauf der Untersuchung teilnehmen und muss in diesem Fall den Anweisungen des Prüftechnikers folgen.
+429	Der Fahrer ist verpflichtet, vor Beginn der Untersuchung alle Abdeckungen (Radkappen) abzunehmen.
+430	Der Fahrer muss folgende Unterlagen vorlegen:
+431	Fahrerschulung
+432	Schulung von Betriebsfahrern
+433	Ein Schulungszentrum, das auch Fahrzeugservice und eine Fahrschule anbietet
+434	Antrag auf Aufnahme in Unterricht und Ausbildung
+435	← Älter

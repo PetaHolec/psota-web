@@ -1,0 +1,599 @@
+0	(Containerträger)
+1	/ Tag inkl. MwSt.
+2	1 Kind bis zum vollendeten 6. Lebensjahr in Begleitung einer Person über 10 Jahre
+3	1. Fahrt
+4	100 km
+5	2.000 kg
+6	2. Fahrt
+7	2× Curtis-Steuerung
+8	3. Fahrt
+9	4. Fahrt
+10	45 km/h
+11	5. Fahrt
+12	500 km
+13	7 Sitze, Kippen nach 3 Seiten, abschließbare Werkzeugkiste. Fahrzeugklasse bis 3,5 Tonnen, Führerschein Klasse B genügt.
+14	Alu-Felgenreiniger, 1 Rad
+15	Alu-Felgenreiniger, 1 Rad
+16	Alu-Reiniger, 1 Tank
+18	AdBlue
+19	Adresse
+20	Adresse des Objekts
+21	Neuigkeiten aus dem Unternehmen
+22	Aktueller CNG-Preis
+23	Analoge, digitale und intelligente Fahrtenschreiber.
+24	Areal Autocentrum Psota, Dobšická 3697/6, Znojmo
+25	Bus
+26	Bus für 23 Personen
+27	Busse
+28	Reisebusse für Ausflüge und Veranstaltungen.
+29	Reisebusse für Ausflüge und Veranstaltungen.
+30	Reisebusse für Ausflüge, Hochzeiten, Schulausflüge und Firmenveranstaltungen. Senden Sie die Beförderungsbestellung an die Vertriebsabteilung.
+31	Die Busse des Unternehmens erhalten seit 2006 nach und nach eine neue gelb-weiße Lackierung, und zur besseren Information der Fahrgäste wurden neue digitale Zielanzeigen installiert. Die Fernbusse des Unternehmens sind silbern mit auffälliger Firmenkennzeichnung. 2006 erfolgte der Anschluss an das landesweite automatisierte Platzbuchungssystem des Busverkehrs AMS bus. Fahrgäste können so in unserem Vorverkaufs- und Informationsbüro in der Rudoleckého-Straße einen Fahrschein in jedes inländische oder ausländische Ziel kaufen, das ein im System registrierter Verkehrsunternehmer bedient. Ab 1. 7. 2006 erweiterte das Unternehmen seine Tätigkeit im Bereich des subventionierten Verkehrs, indem es die Ausschreibung für den Betrieb der Linie 440 im IDS-System gewann und seitdem auch den Stadtverkehr in Moravský Krumlov betreibt. Zur Sicherstellung der Betriebsbedingungen wurde ein Außenstandort im Areal der Agrargenossenschaft in Moravský Krumlov – Rakšice eingerichtet.
+32	Busse, die dank niedriger Betriebskosten, null Emissionen und leisem Betrieb in Zoos, Schlossanlagen, Landschaftsschutzgebieten und überall dort Verwendung finden, wo Besucher die Natur genießen wollen – mit dem guten Gefühl, dass ihr Besuch keine negativen Auswirkungen auf den besuchten Ort hinterlässt.
+33	Kfz-Elektriker
+34	Autorisierter Verkauf und Service von Fahrzeugen der Marken Iveco und Iveco Bus.
+35	Autorisierte Werkstatt
+36	Autorisierter IVECO-Service
+37	Autorisierter Service der Baureihe IVECO Daily.
+38	Auto- und Reifenservice für alle Marken, autorisierter Service und Verkauf von IVECO, Waschanlage, Ersatzteile, Transporter-Verleih und BirdieCar-Elektroautos.
+39	Fahrschule und Schulungszentrum ZDS Psota
+40	B7 – Betrieb eingestellt am 28. 5. 2026 · AdBlue – Betrieb eingestellt am 28. 5. 2026 · CNG 44,50 CZK
+45	Der BC 2000 eignet sich hervorragend für den Güterverkehr über kurze Strecken und hat eine Nutzlast von 2.000 kg. Er darf auch auf der Straße gefahren werden und hat eine Reichweite von 60 km. Er kann 2 Personen befördern.
+46	Der BC 4 + 2 fasst bis zu 6 Personen. Er hat eine Reichweite von 100 km und eine Höchstgeschwindigkeit von 40 km/h. Seine maximale Nutzlast beträgt 450 kg.
+50	Der BC 5 + Cargo kann 5 Personen befördern. Er hat eine maximale Nutzlast von 1.120 kg, eine Reichweite von 100 km und eine Höchstgeschwindigkeit von 40 km/h.
+51	Der BC 800 L eignet sich hervorragend für den Güterverkehr über kurze Strecken und hat eine Nutzlast von 800 kg. Der kleine Lastwagen kann mit verschiedenen Aufbauten ausgestattet werden. Er darf auch auf der Straße gefahren werden und hat eine Reichweite von 70 km.
+52	Der BC 800 eignet sich hervorragend für den Güterverkehr über kurze Strecken und hat eine Nutzlast von 800 kg. Er darf auch auf der Straße gefahren werden und hat eine Reichweite von 70 km. Er kann 2 Personen befördern.
+53	Der BC MB23 ist ein elektrischer Panoramabus für 23 Personen. Mit einer Ladung fährt er bis zu 100 km.
+54	Batterie
+56	Ohne geprüften Fahrtenschreiber kommt heute kein Lkw aus. Vertrauen Sie diese Arbeit erfahrenen Profis an und Sie haben die Gewissheit, dass alles in Ordnung ist. Wir warten, reparieren und prüfen alte analoge ebenso wie intelligente Fahrtenschreiber der neuen Generation.
+57	Kostenlose Beförderung
+58	BirdieCar lässt sich problemlos an jeder 230-V-Steckdose laden – durch Anschluss an das Bordladegerät oder mit einem Autoladegerät.
+59	Birdiecar-Elektroautos sind eine Marke elektrischer Fahrzeuge für die Personenbeförderung, auf der Straße wie im Gelände. Sie können auch Fracht in kleinerem Umfang befördern, z. B. einen Reisekoffer, bewältigen aber auch größere Lasten souverän – auf die Ladefläche eines kleinen Lkw können Sie z. B. 2 Tonnen Schüttgut laden, wenn Sie sich für die Kipper-Variante entscheiden. Sie sind variabel und bieten genau die Varianten, die Ihren Bedürfnissen entsprechen.
+60	Birdiecar-Elektroautos fahren bereits an mehreren Orten in der Tschechischen Republik, und es werden nach und nach mehr. Zufriedene Rückmeldungen erhalten wir von allen Nutzern.
+61	Birdiecar-Elektroautos zeichnen sich durch einen sehr geringen Wartungsbedarf aus, aber auch diese Fahrzeuge kommen nach einiger Zeit nicht ohne Service aus. Für uns endet die Beziehung zum Kunden daher nicht mit dem Verkauf, sondern beginnt erst. Den Service erbringen wir in spezialisierten, zeitgemäß ausgestatteten Werkstätten, die wir im Areal PSOTA HOLDING in der Dobšická 6, 669 02 Znojmo betreiben.
+62	Birdiecar-Elektroautos zeichnen sich durch einen sehr geringen Wartungsbedarf aus, aber auch diese Fahrzeuge kommen nach einiger Zeit der Nutzung nicht ohne Service aus. Unser Unternehmen erbringt Garantie- und Nachgarantieservice für Birdiecar-Elektroautos in seinen zeitgemäß ausgestatteten Servicewerkstätten. Unter einem Dach kümmern wir uns um Sie vom Kauf dieses leisen Begleiters an und stehen Ihnen während seiner gesamten günstigen Nutzungsdauer jederzeit zur Verfügung.
+64	Normaler Betrieb
+65	CNG
+66	CNG-Karte
+67	CNG-Tankstelle
+68	CNG-Tankstelle, Pension und mehr.
+69	Preis
+71	Preise in CZK und ohne MwSt.
+72	Preise in CZK ohne MwSt.
+73	Preise in CZK ohne MwSt. / inkl. MwSt.
+74	Preise in CZK ohne MwSt.
+75	Preise in CZK ohne MwSt. / inkl. MwSt.
+76	Kraftstoffpreise
+77	Preisliste und Bedingungen
+78	Fahrpreise (gültig ab 1. 5. 2026)
+79	Preisliste Transporter-Service
+80	Preisliste Lkw-Service
+81	Preisliste Pkw-Service
+82	Preisliste Fahrtenschreiber-Service
+83	Preisliste Reifenservice
+84	Was dafür benötigt wird
+85	Curtis-Steuerung
+86	DAF LF – (Containerträger)
+87	Der DAILY ist das vielseitigste Fahrzeug seiner Klasse. Die breite Palette an Modellen und Karosserieoptionen eröffnet unzählige Möglichkeiten: Ganz gleich, welche Aufgabe Sie haben – ob Auslieferung mit vielen Stopps, etwa Paketzustellung oder Kurierdienst, oder Transport schwererer Lasten, etwa Möbelumzüge – Sie finden und konfigurieren einen DAILY, der Ihren betrieblichen und geschäftlichen Anforderungen perfekt entspricht.
+89	Weitere Leistungen
+90	Weitere Fahrzeuge dieser Kategorie finden vor allem im kommunalen Bereich Verwendung.
+91	Ein weiteres Wendejahr war 2003. Bis dahin wurden fünf Linien betrieben, davon 3 subventionierte und 2 nicht subventionierte. Dem Unternehmen wurden in einer Ausschreibung weitere 11 Regionallinien im Rahmen gemeinwirtschaftlicher Verpflichtungen zugesprochen.
+92	Das Händlernetz für BirdieCar-Elektroautos befindet sich in Vorbereitung. Bis dahin erfolgen Verkauf und Service direkt im Areal PSOTA HOLDING in Znojmo.
+93	Händlernetz
+94	Täglich vom 1. Mai bis 30. September.
+95	Diagnose und Reparatur von Bussen, vorwiegend der Marken SOR, IVECO und anderer. Wir verlangen eine fachliche Ausbildung. Wir bieten ein Gehalt ab 35.000 CZK + Fachzulage, Essenszuschuss und freie Fahrt in der Region Südmähren. Arbeitsort: Hakenova 3640/21, Znojmo. Lebenslauf senden Sie an zds-servis@seznam.cz.
+96	Achsvermessung (Diagnose)
+97	Lkw-Diagnose JALTEST
+98	Disposition, Vertrieb und Leitung.
+100	Dobšická 3697/6, 669 02 Znojmo[br]Tel.: [1]+420 515 210 551[/1][br]E-Mail: [2]info@birdiecar-elektroauta.cz[/2][br]IČ (Firmen-ID): 26241935 | DIČ (USt-IdNr.): CZ26241935
+101	Dobšická 3697/6, 669 02 Znojmo[br]Tel.: [1]+420 515 210 551[/1][br]Service: [2]info@dodavkyznojmo.cz[/2][br]Reifen: [3]pneu.servis@psota-znojmo.cz[/3][br]Wäsche: [4]myci.centrum@psota-znojmo.cz[/4][br]IČ (Firmen-ID): 26241935 | DIČ (USt-IdNr.): CZ26241935
+102	Dobšická 3697/6, 669 02 Znojmo[br]Tel.: [1]+420 515 210 551[/1][br]Service: [2]wabco.servis@psota-znojmo.cz[/2][br]Reifen: [3]pneu.servis@psota-znojmo.cz[/3][br]Wäsche: [4]myci.centrum@psota-znojmo.cz[/4][br]IČ (Firmen-ID): 26241935 | DIČ (USt-IdNr.): CZ26241935
+105	Kleiner Transporter
+106	Planentransporter
+107	Großer Transporter
+108	Transporter und ein 8-sitziger Minibus. Buchen Sie online zu jeder Zeit – auch um Mitternacht. Ohne Registrierung und ohne Warten am Telefon. Im Preis sind 500 km pro Tag enthalten, Kaution 5.000 CZK, über dem Limit 3,50 CZK/km. Wir vermieten Fahrzeuge der Marken Iveco, Mercedes, DAF und Ford.
+109	Transporter, Lkw, Busse.
+110	Reichweite in der Ebene (km)
+111	Ein perfektes Nutzfahrzeug für den Stadtverkehr und Container-Anwendungen.
+112	Lieferung bis zu Ihnen
+114	Fernlinie 830800.
+115	Durch die direkte Vertretung des Herstellers garantieren wir den niedrigsten Preis auf dem tschechischen Markt. Kontaktieren Sie uns für ein individuelles Angebot.
+116	Werkstatt für bis zu 10 Lkw gleichzeitig.
+117	E10 – Betrieb eingestellt am 28. 5. 2026 · Diesel
+118	AUSSEN – Zugmaschine
+119	Wirtschaftsabteilung
+120	Elektrischer Geländetransporter
+121	Ein elektrisches leichtes Nutzfahrzeug mit Platz für 2 Personen und 450 kg Nutzlast. Dieses Modell ist auch mit Kippladefläche erhältlich.
+122	Ein elektrischer leichter Lkw kann 2 Personen mit einer zusätzlichen Nutzlast von 450 kg befördern. Die Ladefläche lässt sich von Hand kippen. Auf Wunsch kann für das Fahrzeug auch eine Markise bestellt werden.
+123	Elektroarbeiten – 1 Stunde
+124	Elektroautos
+125	Elektroautos für die Personenbeförderung können zwei, vier, sechs, aber auch bis zu neunundzwanzig Personen befördern. Kleine Birdiecar-Elektroautos mit bis zu sechs Personen sind für die persönliche Beförderung gedacht, für den täglichen Weg zur Arbeit und zum Einkaufen sowie für Freizeitfahrten und Rundfahrten durch Natur, Wald, Weinberge usw.
+126	Eurocargo, S-WAY, Stralis, Stralis NP.
+127	Firma: [1]cng.innogy.cz/objednavka-firma[/1]
+128	Ford Custom Tourneo Plug-in-Hybrid (8 Sitze)
+129	Formular für Fundsachen
+130	Fotogalerie – Personenverkehr
+131	Fotogalerie – Service und Waschanlage
+132	Privatperson: [1]cng.innogy.cz/objednavka-fyzicka-osoba[/1]
+133	Hevlín – Laa an der Thaya (internationaler Abschnitt der Linie 104)
+134	Wir suchen Fahrer und Fahrerinnen für den Stadtbusverkehr in Uherské Hradiště.
+135	Wir suchen Fahrer, Kfz-Elektriker und Karosseriebauer.
+136	Hätten Sie auch gern so eines? Kontaktieren Sie uns für weitere Informationen.
+138	Hydraulikschläuche
+139	Auch darauf sind wir vorbereitet! Unsere Techniker kommen dorthin, wo Sie Ihr Birdiecar-Elektroauto garagieren oder parken, und kümmern sich professionell um alles.
+140	INNENRAUM – Van und SUV
+141	INNENRAUM – Transporter
+142	INNENRAUM – Pkw
+143	INNENRAUM – Zugmaschine
+145	IVECO DAILY – Kastenwagen, Laderaumlänge 3,10 m, Gesamtgewicht 3,5 t
+146	IVECO DAILY – Kastenwagen, Laderaumlänge 3,50 m, Gesamtgewicht 3,5 t
+147	IVECO DAILY 35S18 BB (mittel) grau
+148	IVECO DAILY 35S18 grau (lange Version)
+149	IVECO DAILY ist eine Fahrzeugmarke, die überall ihre Kunden findet. Ein Beweis dafür ist auch dieser Dreiseitenkipper, den bei uns in Znojmo ein Bauunternehmen aus dem weit entfernten Teplice gekauft hat.
+150	IVECO DAILY – Kran auf Container + separater Container
+151	IVECO Daily 35C14 (Kasten mit Fahrerhaus)
+152	IVECO Daily 35S14 (kurz)
+153	IVECO Daily 35SC (Kasten mit Fahrerhaus)
+154	IVECO Daily – Transporter für jede Aufgabe.
+155	IVECO TRAKKER Einseitenkipper, Nutzlast 20 t, Gesamtgewicht 32 t
+156	IVECO baut leichte, mittlere und schwere Nutzfahrzeuge. In der Kategorie der Nutzfahrzeuge feiert das Modell DAILY mit Rahmenbauweise und einem Laderaumvolumen von bis zu 20 m³ großen Erfolg und bietet die höchste Nutzlast seiner Klasse – mehr als 4.000 kg. Wegen seiner Zuverlässigkeit, Variabilität der Ausführungen und praktischen Eigenschaften gehört es zu den am weitesten verbreiteten Marken auf den Straßen der ganzen Welt.
+157	IVECO EUROCARGO – Container, Nutzlast 5 t, Gesamtgewicht 12 t
+159	Iveco Daily 35C16H (mittel)
+160	Iveco Daily MY2025 (lange Version)
+161	Iveco Daily, Eurocargo, Minibus für 8 Personen. Verfügbarkeit und Buchung online.
+162	Iveco EUROCARGO (mit Aufbau)
+164	Iveco Trakker 8x4 – Traktor
+166	Als exklusive Vertriebspartner und Verkäufer der Marke Birdiecar-Elektroautos sind wir uns voll bewusst, dass für jeden Kunden, der irgendein Auto kauft, der Rückhalt des Händlers und vor allem der Service sehr wichtig sind. Selbstverständlich erbringen wir Garantie- und Nachgarantieservice, den unsere geschulten Techniker durchführen.
+168	Eine der besten Möglichkeiten für Rundfahrten ist der Panoramabus BC B14. Seine Höchstgeschwindigkeit beträgt 40 km/h, er fasst 14 Personen und hat eine Reichweite von 100 km.
+169	Eine der besten Möglichkeiten für Besichtigungen ist der Panoramabus BC B14+. Höchstgeschwindigkeit 40 km/h, 14 Fahrgäste, Reichweite 100 km. Dank der geschlossenen Kabine kann er bequem an jedem Tag des Jahres unabhängig vom Wetter genutzt werden.
+170	Eines der beliebten Elektro-Nutzfahrzeuge unserer Kunden ist der BC 1000. Hervorragend für den Güterverkehr über kurze Strecken, Nutzlast 1.000 kg. Er darf auch auf der Straße gefahren werden und hat eine Reichweite von 70 km. Auf Wunsch kann ein geschlossener Aufbau oder eine Plane bestellt werden.
+171	Jihlava
+172	Wir sind autorisierter Händler und Service von IVECO.
+173	Wir sind autorisierter Händler und Service von IVECO-Fahrzeugen sowie der Elektrofahrzeuge BirdieCar und Cenntro. Wir kümmern uns um Service und Reifenservice von Pkw, Transportern, Lkw und Bussen, einschließlich Reparaturen von Fahrtenschreibern und Befüllung von Klimaanlagen. Wir betreiben eine eigene Waschanlage, ein Geschäft mit Ersatzteilen von IVECO, Renault, Volvo und MAN sowie einen Verleih von Nutzfahrzeugen der Marken Iveco und Mercedes.
+174	Wir sind autorisierter Händler von Elektro-Nutzfahrzeugen der Marke Cenntro. Informationen zu Modellen und Preisen bereiten wir für Sie vor – kontaktieren Sie bitte unseren Vertrieb.
+175	Fahrpreis
+176	Fahrplan
+177	Fahrplan (PDF)
+178	Fahrplan Znojmo
+179	Fahrplan und Preisliste (PDF)
+180	Fahrplan der Touristenbahn
+182	Karriere
+183	Karosseriebauer
+184	Karosseriereparaturen, Scheibenwechsel, Busreparaturen, vorwiegend der Marken SOR, IVECO und anderer. Wir verlangen eine fachliche Ausbildung. Wir bieten ein Gehalt ab 35.000 CZK + Fachzulage und die gleichen Benefits.
+185	Modellkategorien
+186	Kaution: 5.000 CZK (je nach Fahrzeugtyp).
+187	Jedes Zimmer hat
+188	Kilometer-Preisliste (PDF)
+189	Räder des Fahrtenschreibers
+190	Ein kompakter Transporter mit Schwerpunkt auf Fahrerkomfort und leichter Manövrierbarkeit.
+191	Kontakt zum Vertrieb
+192	Kontakte – Elektroautos
+193	Ladefläche
+194	Ladefläche – Länge (mm)
+195	Ladefläche – Höhe (mm)
+196	Ladefläche – Breite (mm)
+197	Kirche des hl. Nikolaus
+198	Die Wurzeln der Geschichte des heutigen Unternehmens reichen bis ins Jahr 1990, als Karel Psota sen. die Firma Karel Psota Autoexpres gründete. Sie nahm ihre Tätigkeit mit einem Bus des Typs Škoda ŠD-11 auf.
+199	BOOT
+200	Limit: 500 km/Tag, über dem Limit 3,50 CZK/km.
+201	Linie
+202	Linie 830800: Znojmo – Jihlava – Prag
+203	Linie 830860: Znojmo
+204	Linie 830860: Znojmo – Jindřichův Hradec – České Budějovice
+205	Die Linie wurde eingestellt.
+206	Linien und Verkehr
+207	Ein luxuriöser 8-sitziger Minibus mit Hybridantrieb und Konferenzbestuhlung.
+208	MERCEDES SPRINTER – 7 Sitze, Dreiseitenkipper, Gesamtgewicht 3,5 t
+210	Streckenkarte
+211	Karte der Strecke der Touristenbahn
+212	Mariánské náměstí (Marienplatz)
+213	Masarykovo náměstí (Masaryk-Platz)
+215	Höchstgeschwindigkeit (km/h)
+216	Maximale Beladung (kg)
+217	Mechanische und elektrische Arbeiten, Diagnose.
+218	Mechanische Arbeiten – 1 Stunde
+219	Mechanische Arbeiten – Wohnmobile – 1 Stunde
+220	Ein internationales Netz professioneller und unabhängiger Autowerkstätten, deren Mitglied wir sind. Auch während der Garantiezeit Ihres neuen Autos können Sie Reparatur, Wartung oder Service Ihres Fahrzeugs in einer unabhängigen Werkstatt durchführen lassen, ohne die Herstellergarantie zu verlieren.
+221	Mobiler Reifenservice für Transporter und Lkw
+222	Modelle
+223	Durch den Einbau dieses multifunktionalen Aufbaus wurden die Einsatzmöglichkeiten dieses Fahrzeugs erweitert, und zum Fahren genügt der Führerschein Klasse B.
+224	Motorrad
+225	Motor
+226	Motor und Antrieb
+227	Waschanlage
+228	Fahrzeugwäsche
+229	Fahrzeugwäsche – Truck-Waschanlage
+230	Haben Sie es weit zu uns, oder können Sie mit Ihrem Fahrzeug nicht in die Werkstatt kommen?
+231	Haben Sie ein Fahrzeug der Marke IVECO? Dann sind Sie bei uns in den besten Händen! Wir sind autorisierter IVECO-Service.
+232	Den Stadtbusverkehr in Uherské Hradiště betreiben wir unter der Marke Poulička. Betriebsstätte: Průmyslová 712, 686 01 Uherské Hradiště.
+233	Stadtverkehr Poulička.
+234	Městská plovárna Louka – Kloster Louka
+235	Auf zwei Linien waschen wir von Hand und automatisch – vom Motorrad bis zum Bus.
+236	Auf zwei Linien waschen wir von Hand und automatisch: Motorräder, Pkw, Lkw, Auflieger, Traktoren und Busse.
+237	Auf die Ladeflächen dieser kleinen Kraftprotze können Sie ein bis zwei Tonnen Fracht laden. Der Gütertransport war noch nie wirtschaftlicher. Müssen Sie mit der Fracht auch eine Truppe von 5 Monteuren schicken und wollen sie nicht in einem weiteren Auto losschicken? Auch dafür haben wir eine Lösung. Die Pritsche trägt 600 kg, in der Kabine sitzen 5 Männer, und ohne Dieselkosten können Sie sie zur Montage schicken.
+238	Fahrzeugangebot
+239	Fahrzeugangebot:
+240	Laden
+241	Wir bieten: Essenszuschuss, freie Fahrt in der Region Südmähren.
+242	Zeitgemäße Technik und die großzügige Anordnung der Werkstatt ermöglichen die Reparatur von bis zu 10 Lkw gleichzeitig. Wir wissen, was ein Fahrzeugstillstand kostet, deshalb konzentrieren wir uns auf Schnelligkeit und Präzision der Arbeiten.
+243	Laden Sie Ihre Fracht auf die Ladeflächen der Birdiecar-Elektroautos
+244	Zum Beispiel legte im Seniorenheim in Jevišovice ein Birdiecar im Areal der Einrichtung in zwei Jahren Betrieb 15.000 km ohne einen einzigen Serviceeingriff zurück. Die Nutzer loben die einfache Bedienung, die niedrigen Betriebskosten und den wartungsfreien Betrieb.
+245	Natural 95 – E10
+246	Unsere langjährigen und sehr guten Erfahrungen mit Transportern der Marke IVECO DAILY, sowohl beim Einsatz als auch bei der Zahl ungeplanter Serviceeingriffe, haben uns davon überzeugt, dass gerade diese Marke bei den Nutzfahrzeugen die Nummer eins auf dem Markt ist; deshalb wurden wir autorisierter Service und anschließend auch Händler von IVECO-Fahrzeugen.
+247	Unsere Werkstätten sind überdimensioniert und wir können in ihnen bis zu 10 Lkw gleichzeitig reparieren, aber für ein paar Pkw findet sich immer Platz. Bringen Sie Ihr Auto zu uns in die Werkstatt und wir kümmern uns professionell darum.
+248	Unser elektrischer Geländetransporter BC 2 + CARGO XL CC ist ein Geländeteufel. Geeignet für 2 Personen und 450 kg. Er hält auch den anspruchsvollsten Bedingungen stand; es gibt kein Wetter, das ihn aufhalten könnte. Höchstgeschwindigkeit 40 km/h, Reichweite 100 km und maximale Nutzlast 450 kg.
+249	Unser elektrisches Personenfahrzeug BC M6 + 2 kann bequem 6 + 2 Personen befördern. Seine Höchstgeschwindigkeit beträgt 25–45 km/h. Seine Reichweite beträgt 70–100 km.
+250	Unsere Elektrofahrzeuge verursachen keine Emissionen und können daher in geschützten Stadtzentren oder in Innenräumen eingesetzt werden.
+251	Unendliche Möglichkeiten – der Transporter DAILY für Ambitionen ohne Grenzen
+252	Suchen Sie Ersatzteile und Autozubehör nicht anderswo, nutzen Sie unser Geschäft. Erledigen Sie Service und Ersatzteilkauf unter einem Dach und sparen Sie Zeit und Geld.
+253	Eine Neuheit der Marke Birdiecar-Elektroautos ist das Modell BC L7e-CU, das schon auf den ersten Blick mit seiner Ausführung auffällt. Dank verschiedener Aufbauvarianten kann dieses Fahrzeug für viele Zwecke genutzt werden, z. B. Essenslieferung, Pizzaauslieferung, als Arbeitsfahrzeug für Mitarbeiter von Gemeindeämtern, aber auch als zweites Familienauto für Einkäufe. Der Fantasie sind keine Grenzen gesetzt.
+255	Eine neue Generation mit digitalem Display und modernster Technik.
+256	Ersatzteile
+257	Ersatzbatterie Continental 1381
+258	Lkw
+259	Lkw-Modell BC-5
+260	Lkw
+261	Lkw bis 7,5 t
+262	Lkw über 7,5 t
+263	Lkw mit Anhänger
+264	Die „Kraftstoff“-Kosten liegen bei etwa 25 CZK pro 100 km, was mit Fahrzeugen mit Verbrennungsmotor nicht zu vergleichen ist.
+265	Ein Lkw mit den Vorteilen eines Traktors, nicht fahrtenschreiberpflichtig und ohne Einfahrverbote. Fahren ab 17 Jahren.
+266	Auflieger
+267	Unser Panoramabus BC B23 befördert 23 Personen. Mit einer Ladung fahren wir bis zu 100 km.
+268	Haben Sie etwas im Bus oder in der Bahn vergessen? Schreiben Sie uns oder rufen Sie die Nummer der Fundstelle an: +420 602 546 381.
+269	Über die Marke BirdieCar
+270	Verkaufsleiter: Rostislav Ištvánek, Tel. +420 515 210 551, Mobil +420 608 108 478.
+271	Vertriebsabteilung und Disposition
+272	Beförderungsbestellung (PDF)
+273	Beförderungsbestellung (Word)
+274	Bestellung der Bahn (PDF)
+275	Gebiet Mikulov / Břeclav
+276	Enorme Leistung
+277	Von einem einzigen Bus zum regionalen Verkehrsunternehmen.
+278	Von Mai bis September fährt in Znojmo täglich die neue Touristenbahn.
+279	Seit Jahresbeginn ist das Unternehmen vollständig in sein neu rekonstruiertes eigenes Areal in der Hakenova 21 in Znojmo eingezogen, wo die Verwaltung, die Servicebasis, die Einrichtungen für Fahrer und die Abstellplätze für Stadt-, Regional- und Fernbusse einschließlich der Touristenbahnen untergebracht sind. Derzeit bleibt Hauptgegenstand der Tätigkeit des Unternehmens der Personenkraftverkehr, die Reparaturtätigkeit, der Betrieb zweier öffentlicher Tankstellen und einer öffentlichen CNG-Tankstelle. Es betreibt außerdem eine Fahrschule der Klassen B, C, D, E und ein akkreditiertes Schulungszentrum für Berufskraftfahrer der Klassen C, D, E.
+280	Abschlepp- und Pannendienst
+281	Offizielle Website www.poulicka.cz
+283	Online-Servicebuchung
+284	Das Online-Formular wird in der fertigen Website mit der E-Mail der Vertriebsabteilung verbunden ([1]obchodni@zds-psota.cz[/1]).
+285	Reparatur von Fahrtenschreibern im Austauschverfahren
+286	Reparaturen von Pkw und Nutzfahrzeugen aller Marken, autorisierter IVECO-Service.
+287	Reparatur, Reinigung und Befüllung von Klimaanlagen.
+288	Pkw, Lkw, Busse, Traktoren. HANKOOK, MICHELIN, GOODYEAR, BARUM.
+289	Ein Pkw für bis zu 6 Personen
+290	Pkw
+291	Personenbeförderung von 2 bis 29 Personen, Güterverkehr bis 2.000 kg Fracht und eine Reichweite von bis zu 100 km mit einer Ladung.
+292	Weitere Leistungen
+293	Öffnungszeiten
+294	Prüfung des analogen Fahrtenschreibers 1324 Radioformat
+295	Prüfung des analogen Fahrtenschreibers Kienzle 1318 rund
+296	Prüfung des digitalen Fahrtenschreibers 1381, SE 5000
+297	Prüfung des intelligenten Fahrtenschreibers der neuen Generation
+298	Prüfung von Fahrtenschreibern
+300	P.P.L. AUTOCENTRUM s.r.o., Dobšická 6, 669 02 Znojmo ist alleiniger Importeur der Birdiecar-Elektroautos in die Tschechische Republik und zugleich fester Bestandteil von PSOTA HOLDING, eines bedeutenden und starken Partners für Verkehr, Service und Dienstleistungen für Autofahrer.
+305	PSOTA: Regionallinien IDS JMK, Fernverbindungen, Ausflüge und Touristenbahn in Znojmo.
+306	Kraftstoff
+307	Kraftstoff · Preis · Natural 95
+308	Parameter
+310	Die Pension liegt im südlichen Teil von Znojmo, 150 m von einer Haltestelle des Stadtverkehrs entfernt. Die Weinkeller sind etwa 1,5 km vom Objekt entfernt, Kaufland etwa 10 Gehminuten, Restaurants 150 m.
+311	Zahlungsmethode
+312	Gültig ab 1. 1. 2024.
+313	Gültiger Führerschein für das gewählte Fahrzeug.
+314	Klimaanlagen-Befüllung
+315	Plombieren des Getriebesensors
+316	Nach schwierigen Verhandlungen erwarb 2004 die Gesellschaft Autoexpres Karel Psota, s.r.o., deren Geschäftsführer Karel Psota jun. auch einer der Geschäftsführer der Znojemská dopravní společnost ist, das Areal der ehemaligen Znojmoer Molkereien, heute Autocentrum. Im Februar 2005 wurden die Umbauten der Büroräume im Verwaltungsgebäude abgeschlossen, und alle Verwaltungsmitarbeiter einschließlich der Leitung zogen Anfang März 2005 an diesen neuen Standort in der Dobšická 6 in Znojmo um.
+317	Wenn Sie einen Auftrag haben, bei dem Sie eine größere Zahl an Handwerkern samt Material und Werkzeug benötigen, ist dies eine Möglichkeit, alles mit einem Fahrzeug zu erledigen.
+318	Wendekreis (m)
+320	Ein Kipper als Helfer, ideal für Bauarbeiten und den Transport von Material ohne Fahrtenschreiber.
+321	Wenn Sie einen günstigen und sauberen Transport von Fracht in der Umgebung Ihres Unternehmens benötigen oder täglich Material oder fertige Produkte im Werksgelände bewegen, dann sind Birdiecar-Elektroautos die beste Lösung für Sie. Mit einer Nutzlast von 350, 500 oder 800 kg lösen Sie den Transport leichterer Lasten. Reicht Ihnen das nicht, haben wir weitere leise, aber starke Begleiter.
+322	Die Nutzung von Elektrofahrzeugen ist in bestimmten Bereichen der Mobilität bereits die beste verfügbare Lösung. Unser Unternehmen konzentriert sich auf diesen Bereich und befasst sich vor allem mit dem Import, der Montage und dem Verkauf neuer elektrischer Personen- und leichter Nutzfahrzeuge sowie industrieller Elektrofahrzeuge. Dank unseres Heimatzentrums und unseres einzigartigen Vertriebsnetzes bieten wir unseren Kunden eine ganze Reihe von Dienstleistungen.
+323	Die Zahl der Busse wuchs weiter, zugleich wurde der Fuhrpark durch neue moderne Fahrzeuge erneuert. 1996 erreichte ihre Zahl 20 Stück. Dieses Jahr wurde auch zum Gründungsjahr der heutigen Znojemská dopravní společnost – PSOTA, s.r.o. Der Verkehr wurde um die Linie Znojmo – Čížov erweitert, und es war ein weiterer Anstieg des Gelegenheitsverkehrs zu verzeichnen. Die ersten Busse mit Erdgasantrieb begannen zu fahren.
+324	Anzahl der beförderten Personen
+325	Anschaffungskosten
+326	Wir verlangen: Führerschein der Klasse D+E, Nachweis der beruflichen Qualifikation.
+327	Prag
+328	Für eine noch bequemere Abwicklung der Serviceleistungen an Ihrem Fahrzeug bieten wir an, das Auto direkt bei Ihnen abzuholen und anschließend wieder zurückzubringen.
+329	Für die Terminreservierung des Reifenservice können Sie unser Buchungssystem nutzen.
+330	Für Stammkunden bieten wir Preisvorteile und die Möglichkeit einer Sammelzahlung per Überweisung gegen Rechnung
+331	Mit seiner Kraft und dem Vortrieb auf alle 4 Räder meistert er schweres Gelände mühelos, und sollte es doch einmal passieren, dass sich auch dieses Kraftpaket nicht allein befreien kann, hilft es sich mit einer Seilwinde.
+332	Für Nutzer von Hydraulikschläuchen und -komponenten sorgen wir für Reparatur oder Anfertigung eines neuen Stücks, während Sie warten.
+333	Verkauf
+334	IVECO Verkauf und Service
+335	Lkw-Verkauf
+336	Verkauf von IVECO-Lkw
+337	Verkauf von Nutzfahrzeugen
+338	Verkauf von IVECO-Nutzfahrzeugen
+339	Vermietung
+340	Ein geräumiger Kastenaufbau mit hydraulischer Ladebordwand für anspruchsvollste Transporte.
+341	Betrieb eingestellt.
+342	Der Betrieb der Tankstelle wurde eingestellt (28. 5. 2026). Die öffentliche CNG-Tankstelle steht weiterhin zur Verfügung.
+343	Der Betrieb der Tankstelle wurde eingestellt (28. 5. 2026). Die öffentliche CNG-Tankstelle steht weiterhin zur Verfügung.CNG-Tankstelle
+344	Öffnungszeiten der Waschanlage
+345	Betriebskosten
+346	Wir warten Pkw, Nutzfahrzeuge, Lkw und Busse aller Marken, und zwar im folgenden Umfang:
+347	Warum BirdieCar-Elektroautos?
+348	Der erste Wendepunkt kam 1992, als ein Vertrag abgeschlossen und der Linienverkehr für das Kernkraftwerk Dukovany aufgenommen wurde. Das Unternehmen wuchs um vier weitere Busse und weitere Mitarbeiter, und in der Rudoleckého-Straße Nr. 25 in Znojmo wurde ein Verkehrsbüro für den Vorverkauf von Platzkarten mit Verwaltungsbereich eröffnet. Der Verkehr auf den Regionallinien Znojmo – Hatě und Znojmo – Miroslav – M. Krumlov wurde ohne jegliche Subventionen aufgenommen.
+349	Přehrada – Dyje-Tal
+350	Beförderungsbedingungen
+351	Beförderungsbedingungen der Touristenbahn
+352	Beförderungsbedingungen – vertragliche Beförderungsbedingungen
+353	Getriebe
+354	Reifenwechsel Lkw (1× Reifen)
+355	Reifenwechsel Pkw (Gewichte werden nach verbrauchter Menge berechnet)
+356	Auftragsannahme und Ersatzteilverkauf
+357	Angenehme Unterkunft in Znojmo in drei Doppelzimmern und einem Vierbett-Apartment.
+358	Transporter-Verleih Znojmo
+359	Verleih von Transportern und Lkw
+361	Referenzen
+362	Regionallinien IDS JMK
+363	Regionallinien, Prag, Touristenbahn, MAD Uherské Hradiště.
+364	Regionallinien, Fernverbindungen, Touristenbahn, Stadtverkehr in Uherské Hradiště und Reiseverkehr.
+365	Renault, Volvo, Iveco und MAN – andere Marken auf Bestellung.
+366	Buchung in 3 Schritten
+367	Reservierung: +420 602 748 560, +420 515 210 551 oder online.
+368	Den Buchungskalender und den KI-Berater zur Fahrzeugauswahl betreibt ein eigenständiges System des Verleihs. In diesem Entwurf gibt es einen Link dorthin: [1]dodavkyznojmo.cz[/1].
+369	Der Buchungskalender ist noch nicht angeschlossen. In der fertigen Website wird hier ein System für Online-Buchungen eingebunden. Bis dahin kontaktieren Sie uns bitte telefonisch unter [1]+420 515 210 551[/1].
+370	Reservieren Sie einen Termin bequem von zu Hause.
+371	Rollen des Fahrtenschreibers
+372	Personenverkehr aufklappen
+373	STK und Abgasuntersuchung aufklappen
+374	Abmessungen
+375	Radstand (mm)
+376	Mit Transportern verschiedener Marken und Typen kommen seit vielen Jahren Gewerbetreibende, Firmen und öffentliche Einrichtungen zu uns. Unsere langjährige Erfahrung im Service von Nutzfahrzeugen mündete in der Autorisierung für die Baureihe IVECO Daily.
+377	Mit unserem mobilen Reifenservice kommen wir zu Ihnen und wechseln die Reifen an Ihrem Fahrzeug in Ihrer Garage oder auf dem Parkplatz. Wechseln Sie bequem, ohne einen Reifenservice aufsuchen zu müssen.
+378	BAUMASCHINEN – KLEIN (UNC)
+379	BAUMASCHINEN – GROSS (UDS)
+384	SUV
+385	Selbstbedienung nur mit Chipkarten (Innogy, E.ON und Pražská plynárenská).
+386	Service
+387	Service von IVECO, IVECO BUS und SOR-Bussen
+388	Busservice und Haltestellenschilder
+389	Transporter-Service
+390	Service von Elektroautos
+391	Lkw-Service
+392	Pkw-Service
+393	Showroom und Probefahrten
+394	Eine Kaution wird je nach Fahrzeugtyp hinterlegt.
+395	Leistung
+396	Leistungen
+397	Vertragliche Beförderungsbedingungen (PDF)
+398	Kipas-Sensor je nach Länge
+399	Analoger Sensor
+400	Spezial
+401	Die richtige Bereifung sorgt für sicheres und leises Fahren. Wir wechseln Reifen an Pkw, Transportern, Lkw und Bussen. Wir empfehlen hochwertige Reifen der Marken HANKOOK, MICHELIN, GOODYEAR, BRIDGESTONE, DUNLOP oder BARUM, die Sie in unserem Firmenshop kaufen können.
+402	Auslesen und Archivieren der Daten des digitalen Fahrtenschreibers
+403	Auslesen und Archivieren der Daten der Fahrerkarte
+404	Wie bei Autos benötigen Sie einen Führerschein der Klasse B und alle 4 Jahre eine technische Überprüfung.
+405	Steigfähigkeit (%)
+406	Mit ihren Beförderungsleistungen gehörte unser Unternehmen 2005 zu den bedeutenden Verkehrsunternehmen der Region. Insgesamt beförderte das Unternehmen 2005 1.418.000 Fahrgäste und legte 2.923.000 Kilometer zurück. 2005 wurden damit 158.000 Fahrgäste mehr befördert als 2004. Das Jahr 2005 war für unser Unternehmen auch deshalb bedeutend, weil wir zur alternativen Nutzung von Kraftstoffen zurückkehrten und Ende des Jahres von einem autorisierten Unternehmen zwei auf CNG-Antrieb, also Erdgasantrieb, umgebaute Linienbusse Karosa übernahmen. Im April und Juni 2006 kamen zwei weitere CNG-Linienbusse hinzu. Auch wenn die bestehenden Räume aus Servicesicht ausreichten, wurden die Abstellflächen im Areal Agrostav wegen des Wachstums des Fuhrparks etwas beengt. Wir lösten daher das Problem, weitere Abstellflächen in akzeptabler Entfernung von den Busbahnhöfen zu erhalten.
+407	Bodenfreiheit (mm)
+408	Fahrtenschreiber Stoneridge SE 5000
+409	Digitaler Fahrtenschreiber 1381
+410	Fahrtenschreiber, Klimaanlagen-Befüllung, Reparatur von Hydraulikschläuchen.
+411	Zugmaschine
+412	Zugmaschine + Tankauflieger
+413	Zugmaschine + Pritschenanhänger
+414	Zugmaschine + Auflieger
+415	Zugmaschine + Plattformanhänger
+416	Diese Fahrzeuge finden überall dort Verwendung, wohin Sie mit einem klassischen Auto wegen schwierigen Geländes nur schwer gelangen, aber nicht mit einem qualmenden Quad hineinfahren wollen, weil das Gebiet, in dem Sie sich bewegen, umweltfreundliche Fördertechnik verdient, z. B. Landschaftsschutzgebiete, Freizeitobjekte, Berghütten, Waldwege usw.
+417	Das technische Datenblatt im PDF-Format senden wir auf Anfrage.
+418	Telefon
+419	Dieser unscheinbare Kraftprotz zieht auch mehrere Anhänger mit einem Gesamtgewicht von 5 Tonnen. Er findet Verwendung an Bahnhöfen und Flughäfen, wo er leise und verantwortungsvoll das Gepäck der Reisenden befördert, oder in der Produktion und in verschiedenen Betrieben zum Bewegen von Material und fertigen Erzeugnissen.
+420	Gelände
+421	Wir drehen uns um Autos… Alles an einem Ort im Areal AUTOCENTRUM in Znojmo.
+422	Strecke
+423	Truck-Waschanlage
+424	Touristenbahn
+425	Die Touristenbahn fährt in Znojmo vom 1. Mai bis 30. September täglich einschließlich Sonn- und Feiertagen. An den Tagen des Znojmoer Historischen Weinfestes wird die Linie nach einem angepassten Fahrplan betrieben.
+426	Bei uns erhalten Sie Ersatzteile der Marken IVECO, MAN, Volvo, Renault und weitere. Was wir nicht haben, bestellen wir.
+427	Unterkunft in Znojmo.
+428	Ein langlebiger und rentabler Transporter für das tägliche Geschäft mit hoher Zuverlässigkeit.
+429	Ulice Milady Horákové – Bus- und Bahnhof
+430	Verwendung finden sie z. B. bei Jägern, die bei der Fahrt mit Futter das Wild nicht verscheuchen, sowie bei Unternehmen der Forstwirtschaft u. Ä.
+431	Im Areal PSOTA HOLDING Dobšická 6, 669 02 Znojmo haben wir für Sie einen offenen Showroom, wo Sie Birdiecar-Elektroautos nicht nur ansehen, sondern auch ausprobieren können, wie es sich darin sitzt und fährt. Das Fahren mit Birdiecar-Elektroautos ist ein echter Genuss, und das geschulte Personal freut sich auf Ihren Besuch.
+432	In der Sommerhitze schätzen Sie eine richtig befüllte und funktionierende Klimaanlage am meisten. Wir reparieren, reinigen und befüllen Klimaanlagen in allen Fahrzeugkategorien und -marken. Wenn Sie bei uns auch weitere Leistungen durchführen lassen, haben Sie alles unter einem Dach.
+433	Im Angebot haben wir 28 verschiedene Modelle von BirdieCar-Elektrofahrzeugen: Pkw, Lkw, für die Personenbeförderung, Gelände oder zum Beispiel mit Kippladefläche. Wählen Sie eine Kategorie.
+434	Unser Verleihangebot wurde um einen weiteren kleinen Lkw erweitert.
+435	In unserer Waschanlage kümmern wir uns sowohl um das Äußere als auch um das Innere. Kommen Sie mit allem, was Räder hat, und wir waschen es für Sie – von Hand oder automatisch. Wenn Ihr Auto glänzen und der Lack für einige Zeit gepflegt sein soll, lassen Sie Wachs auftragen. Was wir Ihnen alles anbieten können, erfahren Sie in der Preisliste unten.
+436	In unserem Angebot fehlt auch die Schwerlastreihe ab 16 Tonnen nicht: IVECO S-WAY, IVECO STRALIS, IVECO STRALIS NP.
+437	Bei Fragen können Sie uns unter diesen Telefonnummern kontaktieren: [1]+420 515 210 551[/1], [2]+420 608 108 478[/2]
+438	1998 wurde die Tankstelle für die Öffentlichkeit geöffnet, einschließlich weiterer Dienstleistungen für Autofahrer. Die Verwaltung des Unternehmens zog aus der Rudoleckého-Straße in neu gemietete Büroräume um, die sich ebenfalls im Areal Agrostav in Dobšice befanden.
+439	1991 kam ein weiterer Bus hinzu, und es wurden Linien nach Brno und Prag eingeführt, zunächst nur mit je einer Verbindung. Die damalige Basis zum Abstellen des Fuhrparks befand sich bis 1994 im Areal der Firma Zenza in der I.-P.-Pavlova-Straße in Znojmo.
+440	2008 erhielt das Unternehmen die Akkreditierung zum Betrieb eines Schulungszentrums für Ausbildung und Weiterbildung von Berufskraftfahrern der Klassen C, D, E mit Unterrichtsräumen in Znojmo und Kolín.
+441	2009 erhielt das Unternehmen das Qualitätsmanagement-Zertifikat ISO 9001.
+442	2010 ging die größte Bauinvestition des Unternehmens in Betrieb – die eigene Erdgas-Tankstelle für den Eigenbedarf und die Öffentlichkeit. Nach einer gewonnenen Ausschreibung begannen wir, den Stadtbusverkehr in Znojmo (801–809) für den Zeitraum vom 1. 1. 2010 bis 31. 12. 2022 zu betreiben. Zugleich wurde in der Rudoleckého-Straße 28 in Znojmo das neue Informations- und Vorverkaufszentrum mit modernen Innenräumen in Betrieb genommen. Im selben Jahr wurde die gesamte Region Znojmo neu in IDS JMK (das Integrierte Verkehrssystem der Region Südmähren) integriert, wo Linien ausgeschrieben wurden und unser Unternehmen begann, Linien von Znojmo nach Brno (108), die gesamte Region Vranov (816, 817, 830, 831), Hevlín (820), um Moravský Krumlov (432, 441, 442, 443, 444, 445) sowie Teillinien nach Tavíkovice, Trstěnice (810, 811, 812, 813, 814, 815) für den Zeitraum vom 1. 7. 2010 bis 12. 12. 2015 zu bedienen (anschließend wegen einer fehlerhaften Ausschreibung bis 2017 verlängert).
+443	2017 zog das Unternehmen, bzw. seine Verwaltung und die Abstellung aller Busse, in neue Räume um, wo auch der Umbau der Umkleiden und Einrichtungen für Fahrer sowie die Verlegung der Diesel- und AdBlue-Tankstelle begann. Nach der Neuausschreibung der Linien verteidigte unser Unternehmen ab Dezember die Bedienung der Linien von Znojmo nach Brno (108), der gesamten Region Vranov (816, 817, 830, 831) und erhielt neu von (LAA) Hevlín nach Brno (104) oder Blansko (815)
+444	2021 begannen Abbrucharbeiten und der Umbau der Serviceräume und Werkstätten, einschließlich der Elektroinstallation, der Vergrößerung unzureichender Servicegruben und Tore, der Montage von Lüftungstechnik usw. Ende des Jahres zog auch die „Werkstatt“, bzw. deren Ausstattung, aus den ursprünglichen Räumen im Areal Agrostav um, wo seit 1994 der Busservice stattgefunden hatte. 2021 gewann das Unternehmen eine Ausschreibung im Gebiet Mikulov innerhalb von IDS JMK, wo wir ab Mitte Dezember für ca. 9 Jahre den Regionalverkehr mit 20 neuen Niederflurbussen (leider schon in den Farben von IDS JMK) sicherstellen.
+445	Im Lkw-Segment konzentrieren wir uns vor allem auf die bei Fahrern beliebte mittlere Reihe von 6,5 – 18 Tonnen, den IVECO EUROCARGO, wo wir eine breite Palette an Aufbauten vom Koffer über Kipper bis zu Spezialaufbauten liefern. Die Konfiguration des Fahrzeugs stellen wir genau nach Ihren Anforderungen und Bedürfnissen ein.
+446	Valtice – Poysdorf – Mikulov (internationaler Abschnitt der Touristenlinie)
+447	Velké Pavlovice – Němčičky – Bořetice – Kobylí – Klobouky u Brna
+448	Öffentliche Tankstelle, rund um die Uhr.
+449	Eigenschaften: Wendigkeit, schmales Fahrerhaus 2,1 m. Geeignet für Müllabfuhr, Reinigung und Container-Anwendungen.
+450	Fahrzeuge dieser Kategorie sind für die Personenbeförderung bestimmt und können vierzehn, dreiundzwanzig oder sogar bis zu neunundzwanzig Personen befördern.
+451	Fahrzeug – Länge (mm)
+452	Fahrzeug – Höhe (mm)
+453	Fahrzeug – Breite (mm)
+454	Das Fahrzeug BC 2 + 2 eignet sich hervorragend für die Beförderung von 2 oder 4 Personen. Die hintere Sitzreihe lässt sich sogar in eine Ladefläche mit einer Nutzlast von bis zu 350 kg verwandeln. Es hat eine Höchstgeschwindigkeit von 40 km/h und eine Reichweite von 100 km mit einer Ladung.
+455	Ein Fahrzeug mit hydraulischer Ladebordwand, ideal für Umzüge und sperrige Fracht.
+456	Das Fahrzeug im übernommenen Zustand, mit vollem Tank und sauber zurückgeben.
+457	Vranov nad Dyjí – Lesná – Šumná – Bítov – Lubnice – Dešná
+458	Vranov nad Dyjí – Podhradí nad Dyjí – Uherčice
+459	Vratěnín – Drosendorf (internationaler Abschnitt der Linie 816)
+460	Rückgabe
+461	Wählen Sie den IVECO, den Sie für Ihr Geschäft benötigen, und wir bringen ihn Ihnen bis vor die Tür.
+462	Wählen Sie die Leistung: Radwechsel (auf eigenen Felgen), Auswuchten, Reifenpanne reparieren, Klimaanlage befüllen, Klimaanlage auf Undichtigkeit prüfen, Achsvermessung, Scheinwerfereinstellung.
+463	Nutzen Sie die Möglichkeit, den Service über unser Online-Buchungssystem zu bestellen. Wenn Sie einen planmäßigen Wechsel von Ölen und Filtern anstreben oder einen Serviceeingriff benötigen, der nicht sofort erfolgen muss, reservieren Sie den Termin, der Ihnen für die Vorführung des Fahrzeugs in der Werkstatt am besten passt.
+464	Der Einsatz dieser Modelle ist etwas speziell, deshalb haben wir sie in den Bereich Spezial eingeordnet. Für alle, die Schüttgut transportieren müssen, gibt es hier einen Kipper mit einer respektablen Nutzlast von 2.000 kg. Für alle, die Anhänger anhängen und ziehen, haben wir einen Elektro-Traktor, oder wenn Sie so wollen, eine Zugmaschine. Das Gewicht des gezogenen Anhängers beträgt unglaubliche 5.000 kg.
+465	Abholung
+466	Abholung und Rückgabe
+467	Beantragung einer CNG-Karte von Innogy
+468	Dank Nullemissionen und geräuschlosem Betrieb finden sie wirklich überall Verwendung, auch dort, wohin Sie mit einem normalen Auto nicht gelangen. Acht Personen können bequem in einem Panoramabus Platz nehmen und sich zum Beispiel durch historische Teile von Städten oder Gemeinden fahren lassen.
+469	Wegen des Wachstums des Fuhrparks und der Notwendigkeit, die Servicebasis zu lösen, wurde 1994 das Areal der technischen Basis von Agrostav, a.s. in Dobšice bei Znojmo gemietet. Dort konnten in geräumigen Werkstätten problemlos regelmäßige Kontrollen und Reparaturen von Bussen durchgeführt werden. Für den Eigenbedarf wurden eine Tankstelle sowie eine Waschanlage für Busse und Lkw in Betrieb genommen. Dieses Areal erfüllt in eingeschränktem Maße bis heute seine Funktion für unsere Zwecke.
+470	Nettogewicht (kg)
+471	Das von Ihnen ausgewählte und ausprobierte Birdiecar-Elektroauto liefern wir auch in den entlegensten Winkel Tschechiens. Wegen der geringen Abmessungen und des niedrigen Gewichts der meisten Typen transportieren Sie ein Birdiecar-Elektroauto leicht mit Ihrem eigenen leichten Transportmittel.
+472	Wir wissen, dass es nicht einfach ist, autorisierter Service zu werden, und dass es viel Mühe kostet, diese Position zu halten und professionell zu arbeiten. Wir halten diese Position und tun alles dafür, dass alle Nutzer von IVECO-Fahrzeugen in uns einen starken und zuverlässigen Partner haben.
+473	Alleiniger Importeur von BirdieCar, Händler von Cenntro. Showroom im Areal.
+474	Ein leistungsstarker Transporter für lange Strecken mit großem Laderaum.
+475	Alle angegebenen Preise verstehen sich inklusive 21 % MwSt.
+476	Geben Sie die Fahrzeugdaten ein und bestätigen Sie die Reservierung.
+477	Aufnahme des Betriebs des Vinobus für VOC Znojmo. Ein großer Meilenstein des Unternehmens am Jahresende war nach jahrelangen Verhandlungen der Kauf eines eigenen Areals in der Straße Vídeňská / Hakenova, dem ehemaligen Straßenbaubetrieb (Firma Colas).
+478	Wir erbringen Abschlepp- und Pannendienst für Transporter, Lkw und Busse.
+479	Wir betreiben Regionallinien im Rahmen des Integrierten Verkehrssystems der Region Südmähren (IDS JMK). Die Fahrpläne der einzelnen Linien finden Sie im PDF-Format auf den Seiten von IDS JMK.
+480	Fahrschein mit Platzreservierung online kaufen
+481	Haben Sie bei einem unserer Händler gekauft oder planen Sie den Kauf? Dann rechnen Sie mit der gleichen professionellen Betreuung und Sicherstellung der Serviceleistungen.
+482	Haben Sie etwas im Bus vergessen?
+483	Wir garantieren, dass sich gründlich geschulte Techniker um Ihr Fahrzeug kümmern, die den von IVECO vorgegebenen Arbeitsablauf einhalten. Die Techniker werden auch von IVECO regelmäßig geschult und geprüft. Ihr Fahrzeug können wir mit modernen Geräten genau diagnostizieren. Für Reparaturen verwenden wir das vom Hersteller geforderte Werkzeug und Vorrichtungen, wodurch die Arbeit schneller, qualitativ besser und damit auch günstiger ausgeführt werden kann. Durch die Einhaltung der vorgeschriebenen Arbeitsabläufe entfällt die langwierige Lösungssuche, und dadurch erreichen wir schnelle Reparaturen Ihres Fahrzeugs.
+484	Haltestelle
+485	Von Znojmo bis nach Teplice
+486	Ermäßigter Fahrpreis, 25 % des Grundpreises
+487	Ermäßigter Fahrpreis, 50 % des Grundpreises
+488	Die Marke IVECO ist für uns und unsere Servicekunden zum Symbol für Qualität und Zuverlässigkeit geworden. Deshalb haben wir uns entschlossen, das gute Bewusstsein für diese erneuerte Marke in Znojmo und Umgebung zu verbreiten.
+489	Region Znojmo, Mikulov und Břeclav.
+490	Znojemská dopravní společnost
+491	Znojemská dopravní společnost – PSOTA, s.r.o. ist ein Busunternehmen, das Regionallinien im Rahmen des Integrierten Verkehrssystems der Region Südmähren (IDS JMK) bedient und Betreiber von Fernlinien, Ausflügen und Touristenbahnen in Znojmo ist. Busse fahren seit 1990 zu unseren Kunden.
+492	Znojemská dopravní společnost – PSOTA: Regionallinien IDS JMK, Fernverbindungen, Ausflüge und Touristenbahn in Znojmo.
+493	Znojmo – Mašovice – Bezkov – Horní Břečkov – Vranov nad Dyjí
+494	Znojmo – Vranov nad Dyjí – Lančov – Vratěnín
+495	Fundsachen
+496	Wählen Sie Datum und Uhrzeit.
+497	Reiseverkehr
+498	Garantie- und Nachgarantieservice IVECO.
+534	[1]Fahrplan CIS (PDF)[/1] · Gepäck: 20 CZK/Stück
+548	Alu-Reiniger, 1 Tank
+551	Automatik, stufenlos
+552	autorisierte Reparaturen von Achsen und Bremsen BPW, SAF
+553	Fahrgäste von 15 bis 18 Jahren – Alter ist durch einen amtlichen Ausweis nachzuweisen (z. B. Personalausweis, Reisepass, Schülerausweis, ISIC)
+554	Fahrgäste von 18 bis 26 Jahren – Anspruch ist durch Schüler- oder Studentenausweis ISIC nachzuweisen
+555	Fahrgäste von 6 bis 15 Jahren – Nachweis nicht erforderlich
+556	Fahrgäste über 65 Jahre – Alter ist durch einen amtlichen Ausweis nachzuweisen
+557	Datum des Verlusts
+558	Tageslimit inklusive
+559	Diagnosegeräte JALTEST, IVECO
+560	Diagnose: TEXA, JALTEST, EASY Iveco, BREM BIE, PT BOX SOR, WABCO, KNORR-BREMSE, HALDEX
+561	Disponent im Personenverkehr Region Znojmo
+562	Disponentin
+563	Disponentin MAD Uherské Hradiště
+564	Inhaber des Ausweises ZTP und ZTP/P – durch gültigen Ausweis nachzuweisen
+565	Kinderwagen und Rollstühle für Inhaber des Ausweises ZTP und ZTP/P (nur in den Gepäckraum)
+567	Verkehrsökonom, Erstellung von Fahrplänen
+568	Wirtschaftssachbearbeiter
+569	Wirtschaftsleiterin des Unternehmens
+570	Elektroautos
+578	Meldung beschädigter Haltestellenschilder und unleserlicher Fahrpläne
+579	Meldung beschädigter Haltestellenschilder und unleserlicher Fahrpläne (Mo–Fr 7:00–15:00)
+581	Küchenzeile und Kühlschrank vorhanden
+582	Karosserie- und Lackierarbeiten
+583	Kaution
+584	Klimaanlage
+585	Lackpolitur und -pflege
+586	manuell
+587	maximale Reichweite
+588	Möglichkeit zur Fahrradaufbewahrung
+589	Motorwäsche
+590	Abgasuntersuchung Diesel
+591	auf welcher Linie es war (104, 105, 108, 164, 446, 504, 815–818, 820, 821, 825, 830, 831, 521–588, 830800 Prag, Touristenbahn)
+592	Nutzlast
+593	náměstí Svobody (Platz der Freiheit)
+594	am nächsten Tag bis 07:00 (ohne weitere Gebühren), Samstag bis 08:30
+595	Auflieger spülen
+596	Verkaufsleiter
+597	Normalfahrpreis
+598	ab 1.700 CZK
+599	ab 1.900 CZK
+600	ab 2.420 CZK
+601	ab 3.025 CZK
+602	ab 4.840 CZK
+603	Abfahrt
+604	Spülen der Gummimatten
+605	Reparaturen der elektrischen Anlage von Lkw und Bussen
+606	Reparaturen von Standheizungen der Marken Eberspaecher, Webasto
+607	Reparaturen von Fahrzeugen nach Unfällen – Verträge mit Versicherungen: ČP, Generali, ČPP
+608	Person mit Behinderung dritten Grades – Bescheinigung für die Fahrpreisermäßigung, ausgestellt von der tschechischen Sozialversicherung, und gültiger Ausweis mit Foto
+609	Kunststoffpflege
+611	Kasse, Fakturierung
+612	Beschreibung des Busses (Kennzeichen oder Name des Fahrers)
+613	Beschreibung des verlorenen Gegenstands, Telefonkontakt, E-Mail, Foto
+614	Portalwäsche
+615	Portalwäsche + Aktivschaum
+616	Portalwäsche + Aktivschaum + Wachs
+617	Portalwäsche + Shampoo + Wachs
+618	Nachgarantieservice
+619	regelmäßige Servicewartung und Kontrollen
+620	weitere Informationen finden Sie im Bereich „Transporter-Verleih“
+621	Betrieb eingestellt am 28. 5. 2026
+622	Begleitperson eines Inhabers des Ausweises ZTP/P oder Blindenführhund eines Inhabers des Ausweises ZTP/P
+623	Begleitperson eines Inhabers des Ausweises ZTP/P, Kinder unter 3 Jahren, Kinderwagen
+624	Serviceberater
+625	Ankunft
+626	Vorbereitung und Durchführung der STK
+627	Verkehrssachbearbeiter, Schadensfälle
+628	Regionallinien
+629	Lackerneuerung
+630	Online-Reservierung
+631	Familienfahrpreis 1+1 (1 Person über 15 Jahre + 1 Person unter 15 Jahren)
+632	Familienfahrpreis 2+2 (2 Personen über 15 Jahre + 2 Personen unter 15 Jahren)
+633	Handwäsche + Aktivschaum
+634	Handwäsche + Aktivschaum + Wachs
+635	Handwäsche + Shampoo
+636	Handwäsche + Aktivschaum + Wachs
+637	Handwäsche und Aktivschaum
+638	Geschwindigkeit
+639	verschiedene Modelle
+640	Achsvermessung mit Laserstrahl FASEP
+641	starke Verschmutzung
+642	stark verschmutzt
+643	vertragliche Beförderungsbedingungen
+644	ermäßigter Fahrpreis – Kinder von 3 bis 15 Jahren, Studenten, Inhaber des Ausweises ZTP oder ZTP/P
+645	Sozialräume einschließlich Internet und Erfrischungen
+646	Spezialreiniger – Insekten
+647	Spezialreiniger Entfetter
+648	Trolleys, die ZTP- und ZTP/P-Inhaber ins Fahrzeug mitnehmen
+650	Sitzreinigung – 1 Stück
+651	Sitzreinigung – 1 Stück
+652	Sitzreinigung – 1 Stück
+653	Dachhimmelreinigung
+654	Polsterreinigung
+655	um wie viel Uhr, von wo – wohin
+656	Leiter des akkreditierten Schulungszentrums
+657	Leiterin der Fahrschule ZDS Psota
+658	Leitender Disponent, Disponent im Personenverkehr Region Znojmo
+659	Leitende Disponentin, Disponentin im Personenverkehr Regionen Mikulov, Břeclav
+660	Werkstattleiter (Hakenova 3640/21, Mo–Fr 7:00–15:30)
+661	Leiter der Waschanlage
+662	Leiterin Vertrieb und Marketing, Bestellungen für Personenbeförderung und Rundfahrtbahn
+663	Leiter des Reifenservice
+664	Leiter des Zentrums und Disponent
+665	Leiter des Zentrums und Disponent MAD Uherské Hradiště
+666	öffentliche Tankstelle
+667	eigenes Bad
+668	Innenraum saugen
+669	Fensterreinigung
+670	Austausch von Windschutzscheiben bei Lkw und Bussen
+671	Tank spülen – 15 Min.
+672	Tank spülen – 30 Min.
+673	Plane spülen
+674	Kipper spülen
+675	Werktage ab 07:59, Samstag ab 08:15
+676	Kaltwachs-Spray – 10 Min.
+677	Heißwachs-Spray – 10 Min.
+681	pro km über dem Limit
+682	Gründung des Unternehmens
+683	Gepäck kleiner als 20 × 30 × 50 cm, oder zylinderförmig bis 150 cm Länge und 10 cm Durchmesser, oder plattenförmig bis 80 × 100 cm, oder mit einem Gewicht bis 25 kg
+684	kostenlos
+685	Garantieservice
+686	Buchhalterin von P.P.L. AUTOCENTRUM
+687	Tank- und Ladestationen, Vermietung von Unterkünften und weitere Leistungen der Znojemská dopravní společnost.
+688	Tankstelle
+689	České BudějoviceDie Linie wurde eingestellt.
+690	Quad
+691	Reinigung und Austausch von DPF- und SCR-Filtern
+692	Geschäftsführer des Unternehmens
+693	Fahrer der Touristenbahn
+694	Fahrer der Touristenbahn in Znojmo, auf einer regelmäßigen Linie.
+695	Fahrer und Fahrerinnen für Uherské Hradiště
+696	Steuergerät
+697	Direktor
+698	Spitzenausstattung mit einem Motor mit 180 PS und Fahrassistenzsystemen ADAS.
+699	Gewerbetreibender: [1]cng.innogy.cz/objednavka-zivnostnik[/1]
+700	Lebenslauf senden Sie an: obchodni@zds-psota.cz
+701	Keine Verschmutzung
