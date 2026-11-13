@@ -17,12 +17,19 @@ $render = function (string $uri, string $lang): string {
 
 foreach (['cs', 'en', 'de', 'pl'] as $lang) {
     $dir = $lang === 'cs' ? '' : $lang . '/';
-    if ($lang !== 'cs') shell_exec('rm -rf ' . escapeshellarg($root . '/' . $lang));
+    // stránky jen přepisovat, ne mazat předem (iCloud na Desktopu jinak vytváří kopie "stk 2", "index 2.html")
+    $written = [];
     foreach (array_merge($routes, $lang === 'cs' ? $newsRoutes : $newsRecent) as $r) {
         $file = $dir . ($r === '/' ? 'index.html' : trim($r, '/') . '/index.html');
         $abs = $root . '/' . $file;
         @mkdir(dirname($abs), 0775, true);
         file_put_contents($abs, $render($r, $lang));
+        $written[$abs] = true;
+    }
+    if ($lang !== 'cs') { // smazat jen stránky, které už neexistují
+        $it = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($root . '/' . $lang, FilesystemIterator::SKIP_DOTS));
+        foreach ($it as $f) if ($f->getFilename() === 'index.html' && !isset($written[$f->getPathname()])) unlink($f->getPathname());
+        shell_exec('find ' . escapeshellarg($root . '/' . $lang) . ' -type d -empty -delete');
     }
     echo "$lang: " . count($routes) . " stránek\n";
 }

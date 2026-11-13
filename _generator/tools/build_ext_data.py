@@ -253,7 +253,7 @@ ppl_page('servisy/pujcovna-dodavek', 'pujcovna-dodavek', 'Půjčovna dodávek',
          h2('Ceník a podmínky') + ul(['Všechny uvedené ceny jsou včetně DPH 21 %.', 'Limit: 500 km/den, nadlimit 3,50 Kč/km.', 'Kauce: 5 000 Kč (dle typu vozidla).', 'Rezervace: +420 602 748 560, +420 515 210 551 nebo on-line.']) +
          h3('Vyzvednutí a vrácení') + table([['Vyzvednutí', 'všední dny od 07:59, sobota od 08:15'], ['Vrácení', 'následující den do 07:00 (bez dalších poplatků), sobota do 08:30']]) +
          h3('Co je k tomu potřeba') + ul(['Platné řidičské oprávnění pro zvolené vozidlo.', 'Složení kauce dle typu vozidla.', 'Vozidlo vrátit ve stavu převzetí, s plnou nádrží a čisté.']) +
-         '<p class="notice">Rezervační kalendář a AI poradce pro výběr vozidla provozuje samostatný systém půjčovny. V tomto návrhu je odkaz na něj: <a href="https://dodavkyznojmo.cz" target="_blank" rel="noopener">dodavkyznojmo.cz</a>.</p>',
+         '<p class="notice">Rezervační kalendář vozidel provozuje samostatný systém půjčovny. V tomto návrhu je odkaz na něj: <a href="https://dodavkyznojmo.cz" target="_blank" rel="noopener">dodavkyznojmo.cz</a>.</p>',
          'slide-autocentrum-znojmo-autopujcovna-nakladnich-vozidel.jpg', info=dict(PPL_INFO, contact=PPL_CONTACT.replace('wabco.servis@psota-znojmo.cz', 'info@dodavkyznojmo.cz').replace('mailto:wabco.servis@psota-znojmo.cz', 'mailto:info@dodavkyznojmo.cz')), gallery=[])
 pages['servisy__pujcovna-dodavek']['hero'] = PPL_IMG + 'slide-autocentrum-znojmo-autopujcovna-nakladnich-vozidel.jpg'
 

@@ -27,7 +27,7 @@ $pick = array_filter($m, fn($r) => in_array($r[1], ['1990', '1997', '2001', '200
 
 <section class="section">
   <div class="wrap">
-    <header class="sec-head reveal"><p class="eyebrow">Milníky</p><h2 class="h-sec">Pár zastávek na naší cestě</h2></header>
+    <header class="sec-head reveal"><h2 class="h-sec">Pár zastávek na naší cestě</h2></header>
     <div class="milestones">
       <?php foreach (array_values($pick) as $i => $r): ?>
         <div class="mile reveal" style="--d:<?= $i % 3 ?>"><b><?= e($r[1]) ?></b><p><?= e(trim(html_entity_decode(strip_tags($r[2])))) ?></p></div>
@@ -39,7 +39,7 @@ $pick = array_filter($m, fn($r) => in_array($r[1], ['1990', '1997', '2001', '200
 
 <section class="section section--tint">
   <div class="wrap">
-    <header class="sec-head reveal"><p class="eyebrow">Naše divize</p><h2 class="h-sec">Kam dál</h2></header>
+    <header class="sec-head reveal"><h2 class="h-sec">Kam dál</h2></header>
     <div class="cards">
       <?php foreach (DIVISIONS as $slug => $d): ?>
         <a class="acard reveal" href="/<?= e($slug) ?>">

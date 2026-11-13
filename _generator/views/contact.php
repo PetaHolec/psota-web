@@ -33,7 +33,7 @@ $units = [
 
 <section class="section section--tint">
   <div class="wrap">
-    <header class="sec-head reveal"><p class="eyebrow">Kontakty podle divizí</p><h2 class="h-sec">Se kterým oddělením potřebujete mluvit?</h2></header>
+    <header class="sec-head reveal"><h2 class="h-sec">Se kterým oddělením potřebujete mluvit?</h2></header>
     <div class="cards cards--units">
       <?php foreach ($units as $i => [$t, $ic, $addr, $tel, $mail, $href]): ?>
         <article class="ucard reveal" style="--d:<?= $i % 3 ?>">

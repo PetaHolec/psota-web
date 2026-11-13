@@ -37,15 +37,13 @@ layout_start(['path' => '/', 'body' => 'home']);
     <?php endforeach; ?>
     <div class="hero__shade"></div>
   </div>
-  <div class="hero__grid" aria-hidden="true"></div>
 
   <div class="wrap hero__in">
-    <p class="eyebrow eyebrow--light"><span class="dot"></span> Znojmo · od roku 1990</p>
-    <h1 class="hero__title split-words">Spolehlivý dodavatel kvalitních služeb pro všechny.</h1>
+    <h1 class="hero__title">Spolehlivý dodavatel kvalitních služeb pro všechny.</h1>
     <p class="hero__lead">Doprava, servis, STK, autoškola i restaurace na jednom místě. Regionální, celostátní i mezinárodní dopravní obslužnost a veškeré služby pro motoristy v areálu AUTOCENTRUM.</p>
     <div class="hero__cta">
-      <a class="btn btn--red btn--lg magnetic" href="#cinnosti">Prozkoumat činnosti <?= icon('arrow') ?></a>
-      <a class="btn btn--ghost-light btn--lg magnetic" href="/stk/rezervace-terminu">Rezervace STK</a>
+      <a class="btn btn--red btn--lg" href="#cinnosti">Prozkoumat činnosti <?= icon('arrow') ?></a>
+      <a class="btn btn--ghost-light btn--lg" href="/stk/rezervace-terminu">Rezervace STK</a>
     </div>
 
     <div class="hero__tabs" role="tablist" aria-label="Ukázky činností">
@@ -59,26 +57,12 @@ layout_start(['path' => '/', 'body' => 'home']);
     </div>
   </div>
 
-  <div class="hero__road" aria-hidden="true">
-    <div class="hero__truck"><?= icon('truck') ?></div>
-  </div>
-  <a class="hero__scroll" href="#cinnosti" aria-label="Posunout dolů"><span></span></a>
-</section>
-
-<!-- ============================================================ MARQUEE -->
-<section class="marquee" aria-label="Společnosti holdingu">
-  <div class="marquee__track">
-    <?php for ($r = 0; $r < 2; $r++): foreach ($companies as $c): ?>
-      <span class="marquee__item" <?= $r ? 'aria-hidden="true"' : '' ?>><img src="<?= img($c[1]) ?>" alt="<?= $r ? '' : e($c[0]) ?>" loading="lazy"><b><?= e($c[0]) ?></b></span>
-    <?php endforeach; endfor; ?>
-  </div>
 </section>
 
 <!-- ============================================================ ČINNOSTI -->
 <section class="section" id="cinnosti">
   <div class="wrap">
     <header class="sec-head reveal">
-      <p class="eyebrow">Činnosti holdingu</p>
       <h2 class="h-sec">Všechno, co vaše vozidlo a firma potřebují</h2>
     </header>
     <div class="cards">
@@ -112,7 +96,6 @@ layout_start(['path' => '/', 'body' => 'home']);
 <section class="section journey">
   <div class="wrap journey__grid">
     <div class="journey__txt">
-      <p class="eyebrow reveal">O holdingu</p>
       <h2 class="h-sec reveal">Už od roku 1990 plníme stále stejné poslání</h2>
       <p class="reveal">Dnešní společnosti holdingu zajišťují regionální, celostátní i mezinárodní dopravní obslužnost <strong>80 autobusy</strong>, více než <strong>100 návěsovými soupravami</strong> a dále veškeré služby pro motoristy v areálu AUTOCENTRUM.</p>
       <p class="reveal">Naleznete zde mimo centra logistiky i STK pro všechny typy vozidel, čerpací stanici na CNG, autoservisy, pneuservisy, prodejny náhradních dílů a pneu pro vozidla osobní i nákladní, servis a cejchování tachografů, myčku a učňovské středisko pro praktickou výuku v oboru automechanik. Pro návštěvníky nabízí naše restaurace oblíbenou kuchyni. V roce 2018 jsme otevřeli novou STK také v Břeclavi.</p>
@@ -176,7 +159,6 @@ layout_start(['path' => '/', 'body' => 'home']);
 <section class="section section--tint">
   <div class="wrap">
     <header class="sec-head reveal">
-      <p class="eyebrow">Společnosti holdingu</p>
       <h2 class="h-sec">Skupina, která táhne za jeden provaz</h2>
     </header>
     <div class="logos">
@@ -195,10 +177,9 @@ layout_start(['path' => '/', 'body' => 'home']);
   <div class="band__bg" style="background-image:url('<?= img('fotogalerie/stk_breclav/stkbreclav_01.jpg') ?>')"></div>
   <div class="wrap band__in">
     <div class="band__txt reveal">
-      <p class="eyebrow eyebrow--light">STK a měření emisí</p>
       <h2>STK se zavedeným systémem bez objednání a bez čekání.</h2>
       <p>Vyberte nejbližší pobočku. Prohlídky provádíme ve Znojmě, Břeclavi a Hrušovanech nad Jevišovkou, nákladní vozidla na STK4you.</p>
-      <p><a class="btn btn--red btn--lg magnetic" href="/stk">Vybrat pobočku <?= icon('arrow') ?></a> <a class="btn btn--ghost-light btn--lg magnetic" href="/stk/ceniky">Ceníky</a></p>
+      <p><a class="btn btn--red btn--lg" href="/stk">Vybrat pobočku <?= icon('arrow') ?></a> <a class="btn btn--ghost-light btn--lg" href="/stk/ceniky">Ceníky</a></p>
     </div>
     <ul class="band__list reveal" style="--d:1">
       <?php foreach (BRANCHES as $bs => [$bn, $bimg, $blogo, $bd]): $bi = branch_info($bs); ?>
@@ -212,7 +193,7 @@ layout_start(['path' => '/', 'body' => 'home']);
 <section class="section">
   <div class="wrap">
     <header class="sec-head sec-head--row reveal">
-      <div><p class="eyebrow">Aktuality</p><h2 class="h-sec">Oznámení pro zákazníky</h2></div>
+      <div><h2 class="h-sec">Oznámení pro zákazníky</h2></div>
       <a class="btn btn--ghost" href="/aktuality-stk">Všechny aktuality <?= icon('arrow') ?></a>
     </header>
     <div class="news">
@@ -232,7 +213,6 @@ layout_start(['path' => '/', 'body' => 'home']);
 <section class="section section--dark contact-sec" id="kontakt">
   <div class="wrap contact__grid">
     <div class="reveal">
-      <p class="eyebrow eyebrow--light">Napište nám</p>
       <h2 class="h-sec h-sec--light">Máte dotaz nebo poptávku?</h2>
       <ul class="contact__list">
         <li><?= icon('pin') ?><span><?= e(HOLDING['street']) ?>, <?= e(HOLDING['city']) ?></span></li>

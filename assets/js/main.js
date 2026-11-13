@@ -24,14 +24,11 @@
   };
   const T = STR[L] || STR.cs;
 
-  /* ---------- header shrink + scroll progress ---------- */
+  /* ---------- header shrink ---------- */
   const header = $('[data-header]');
-  const bar = $('.progress');
   const onScroll = () => {
     const y = scrollY;
     header?.classList.toggle('is-stuck', y > 30);
-    const h = root.scrollHeight - innerHeight;
-    bar?.style.setProperty('--p', h > 0 ? (y / h).toFixed(4) : 0);
   };
   addEventListener('scroll', onScroll, { passive: true });
   onScroll();
@@ -199,17 +196,6 @@
     setTimeout(() => (location.href = a.href), 180);
   });
   addEventListener('pageshow', (e) => { if (e.persisted) document.body.classList.remove('is-leaving'); });
-
-  /* ---------- magnetic buttons ---------- */
-  if (!reduce && matchMedia('(hover:hover)').matches) {
-    $$('.magnetic').forEach((el) => {
-      el.addEventListener('mousemove', (e) => {
-        const r = el.getBoundingClientRect();
-        el.style.transform = `translate(${((e.clientX - r.left) / r.width - 0.5) * 14}px, ${((e.clientY - r.top) / r.height - 0.5) * 10 - 2}px)`;
-      });
-      el.addEventListener('mouseleave', () => (el.style.transform = ''));
-    });
-  }
 
   /* ---------- menu tabs ---------- */
   $$('[data-tabs]').forEach((box) => {

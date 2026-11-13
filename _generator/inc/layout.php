@@ -41,7 +41,6 @@ function layout_start(array $m = []): void {
 </head>
 <body class="<?= e($bodyClass) ?>">
 <a class="skip" href="#obsah">Přeskočit na obsah</a>
-<div class="progress" aria-hidden="true"><i></i></div>
 
 <header class="header" data-header>
   <div class="wrap header__in">
@@ -150,13 +149,12 @@ function layout_end(): void {
 function page_hero(string $title, array $crumbs = [], ?string $image = null, ?string $lead = null, ?string $iconName = null): void { ?>
 <section class="phero" id="top">
   <?php if ($image): ?><div class="phero__bg" style="background-image:url('<?= e(thumb_or_img($image)) ?>')"></div><?php endif; ?>
-  <div class="phero__road" aria-hidden="true"></div>
   <div class="wrap phero__in">
     <nav class="crumbs" aria-label="Drobečková navigace">
       <a href="/">Domů</a>
       <?php foreach ($crumbs as [$l, $h]): ?><span>/</span><?php if ($h): ?><a href="<?= e($h) ?>"><?= e($l) ?></a><?php else: ?><em><?= e($l) ?></em><?php endif; ?><?php endforeach; ?>
     </nav>
-    <h1 class="split-words"><?php if ($iconName): ?><span class="phero__ico"><?= icon($iconName) ?></span><?php endif; ?><?= e($title) ?></h1>
+    <h1><?php if ($iconName): ?><span class="phero__ico"><?= icon($iconName) ?></span><?php endif; ?><?= e($title) ?></h1>
     <?php if ($lead): ?><p class="phero__lead"><?= e($lead) ?></p><?php endif; ?>
   </div>
 </section>
@@ -208,7 +206,7 @@ function loc_section(array $locs, string $tint = 'tint'): void {
     if (!$locs) return; ?>
 <section class="section section--<?= $tint ?> locsec">
   <div class="wrap">
-    <header class="sec-head reveal"><p class="eyebrow">Mapa</p><h2 class="h-sec">Kde nás najdete</h2></header>
+    <header class="sec-head reveal"><h2 class="h-sec">Kde nás najdete</h2></header>
     <div class="locgrid locgrid--<?= min(count($locs), 4) ?>">
       <?php foreach ($locs as $i => $l): ?>
       <article class="loc reveal" style="--d:<?= $i % 2 ?>">
@@ -276,7 +274,6 @@ function route_map(): void {
     $W = (float)$geo['w']; $H = (float)$geo['h']; $pos = $geo['pos']; $hub = $pos['hub']; ?>
 <section class="rmap reveal" aria-labelledby="rmap-h">
   <div class="rmap__head">
-    <p class="eyebrow eyebrow--light">Naše trasy</p>
     <h2 id="rmap-h">Kam pravidelně jezdíme</h2>
     <p>Specializujeme se na přepravy mezi ČR a Rakouskem včetně Tyrolska. Pravidelně jezdíme také do Slovenska, Polska, Maďarska, Německa, Itálie, Francie a na Ukrajinu.</p>
   </div>
