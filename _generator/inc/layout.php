@@ -47,8 +47,10 @@ function layout_start(array $m = []): void {
     <a class="brand" href="/" aria-label="PSOTA holding – úvodní strana"><img src="<?= img('holding_logo_red_black_60.png') ?>" alt="PSOTA holding" width="435" height="60"></a>
     <nav class="nav" aria-label="Hlavní navigace" id="nav">
       <ul class="nav__list">
-        <?php foreach ($nav as $slug => $it): $active = str_starts_with($path, "/$slug"); ?>
-          <li class="nav__item has-sub<?= $active ? ' is-active' : '' ?>">
+        <?php foreach ($nav as $slug => $it): $active = str_starts_with($path, "/$slug");
+          // dlouhá menu (s podpoložkami) se rozloží do sloupců, aby nebyla vyšší než obrazovka
+          $wide = count($it['children']) + array_sum(array_map(fn($c) => count($c['kids'] ?: []), $it['children'])) > 8; ?>
+          <li class="nav__item has-sub<?= $wide ? ' has-sub--wide' : '' ?><?= $active ? ' is-active' : '' ?>">
             <a class="nav__link" href="<?= e($it['href']) ?>"><?= e($it['label']) ?></a>
             <button type="button" class="nav__more" aria-label="Rozbalit <?= e($it['label']) ?>" aria-expanded="false"><?= icon('down') ?></button>
             <div class="sub">

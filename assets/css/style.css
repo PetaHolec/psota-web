@@ -71,6 +71,13 @@ body{top:0!important}
 .sub a:hover{background:var(--tint);color:var(--red);padding-left:1.05rem;transition:padding .2s var(--ease),background .2s}
 .kids{padding:0 0 .3rem .8rem!important;margin-left:.8rem!important;border-left:2px solid var(--line)}
 .kids a{font-size:.84rem;color:var(--mut);padding:.3rem .6rem}
+/* dlouhá menu se rozloží do sloupců pod celou navigací, aby nebyla vyšší než obrazovka */
+.nav{position:relative}
+.has-sub--wide{position:static}
+.has-sub--wide>.sub{left:50%;translate:-50% 0;width:min(780px,100vw - 2rem);transform-origin:50% 0}
+.has-sub--wide>.sub>ul{columns:3 200px;column-gap:.4rem}
+.has-sub--wide>.sub>ul>li{break-inside:avoid}
+.sub>ul{max-height:calc(100vh - var(--hdr) - 2rem);overflow-y:auto;overscroll-behavior:contain}
 .nav__cta{margin-left:.2rem;padding:.7rem 1.2rem}
 .nav__link .ico--xs{display:none}
 .burger{all:unset;display:none;cursor:pointer;margin-left:auto;width:44px;height:44px;border-radius:12px;align-items:center;justify-content:center;background:var(--tint);color:var(--ink);position:relative;z-index:2}
@@ -497,6 +504,9 @@ body{top:0!important}
   .sub{position:static;width:100%;box-shadow:none;border:0;opacity:1;visibility:visible;transform:none;max-height:0;overflow:hidden;padding:0;min-width:0;transition:max-height .45s var(--ease);background:var(--tint);border-radius:12px}
   .has-sub:hover>.sub,.has-sub:focus-within>.sub{max-height:0;opacity:1;visibility:visible}
   .has-sub.is-open>.sub{max-height:1200px;padding:.4rem;margin-bottom:.6rem}
+  .has-sub--wide>.sub{translate:none;width:100%}
+  .has-sub--wide>.sub>ul{columns:auto}
+  .sub>ul{max-height:none;overflow:visible}
   .nav__cta{margin:1.2rem 0 0}
   .nav__link .ico--xs{display:inline-block}
 }
